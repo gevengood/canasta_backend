@@ -24,7 +24,7 @@ const app = express();
 const port = 1721;
 
 const corsOptions = {
-  origin: "http://localhost:3000",  // Solo permite solicitudes desde esta URL
+  origin: "https://canasta-frontend.vercel.app",  // Solo permite solicitudes desde esta URL
   methods: ["GET"], // Métodos permitidos
   allowedHeaders: ["Content-Type", "Authorization"], // Cabeceras permitidas
 };
