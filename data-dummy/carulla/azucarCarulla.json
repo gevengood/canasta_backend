@@ -1,0 +1,388 @@
+{ "azucarCarulla":[
+  {
+    "Nombre": "Azucar INCAUCA LIFE mitad de calorias (850 gr)",
+    "Precio": 8200,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/17394191-300-auto/Mezcl-Endul-Azuc-Morena-y-Stevia-INCAUCA-085-gr-3349972_a.jpg?v=638609468432700000",
+    "tienda": "Carulla",
+    "tipoProducto": "azucar"
+  },
+  {
+    "Nombre": "Azucar MANUELITA Azucar Dorada Manuelita (1814 gr)",
+    "Precio": 11900,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18576090-300-auto/Azucar-MANUELITA-Azucar-Dorada-Manuelita-1814-gr-3579656_a.jpg?v=638675346257370000",
+    "tienda": "Carulla",
+    "tipoProducto": "azucar"
+  },
+  {
+    "Nombre": "Azucar MANUELITA Azucar Dorada Manuelita (907 gr)",
+    "Precio": 6000,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18576087-300-auto/Azucar-MANUELITA-Azucar-Dorada-Manuelita-907-gr-3579655_a.jpg?v=638675346242030000",
+    "tienda": "Carulla",
+    "tipoProducto": "azucar"
+  },
+  {
+    "Nombre": "Azucar MAYAGUEZ (1000 gr)",
+    "Precio": 7480,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19883732-300-auto/Azucar-Organiza-MAYAGUEZ-1000-gr-3402114_a.jpg?v=638768927119930000",
+    "tienda": "Carulla",
+    "tipoProducto": "azucar"
+  },
+  {
+    "Nombre": "Azucar MAYAGUEZ (330 gr)",
+    "Precio": 1870,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19883343-300-auto/Azucar-Blanca-Especial-MAYAGUEZ-330-Gramo-1638608_a.jpg?v=638768924289000000",
+    "tienda": "Carulla",
+    "tipoProducto": "azucar"
+  },
+  {
+    "Nombre": "Azucar PROVIDENCIA (454 gr)",
+    "Precio": 3200,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19577997-300-auto/Azucar-Organica-Doypack-454-gr-733634_a.jpg?v=638739817817600000",
+    "tienda": "Carulla",
+    "tipoProducto": "azucar"
+  },
+  {
+    "Nombre": "Azucar RIOPAILA (1000 gr)",
+    "Precio": 5140,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19584506-300-auto/AZUCAR-BLANCA-736436_a.jpg?v=638739906843130000",
+    "tienda": "Carulla",
+    "tipoProducto": "azucar"
+  },
+  {
+    "Nombre": "Azucar RIOPAILA (1000 gr)",
+    "Precio": 6200,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19578019-300-auto/Azucar-Morena-1-kg-724863_a.jpg?v=638739818085570000",
+    "tienda": "Carulla",
+    "tipoProducto": "azucar"
+  },
+  {
+    "Nombre": "Azucar RIOPAILA (2500 gr)",
+    "Precio": 15400,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19578020-300-auto/Azucar-Morena-25-kg-729976_a.jpg?v=638739818111400000",
+    "tienda": "Carulla",
+    "tipoProducto": "azucar"
+  },
+  {
+    "Nombre": "Azúcar Blanca MAYAGUEZ (975 gr)",
+    "Precio": 7300,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19883739-300-auto/Azucar-Blanca-MAYAGUEZ-975-gr-3462332_a.jpg?v=638768927158700000",
+    "tienda": "Carulla",
+    "tipoProducto": "azucar"
+  },
+  {
+    "Nombre": "Azúcar Blanco 2 INCAUCA (2500 gr)",
+    "Precio": 15800,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19577983-300-auto/AZUCAR-BLANCO-In-Cauca-2500-Gramo-6050_a.jpg?v=638739817580370000",
+    "tienda": "Carulla",
+    "tipoProducto": "azucar"
+  },
+  {
+    "Nombre": "Azúcar CARULLA blanco (2500 gr)",
+    "Precio": 9450,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19882602-300-auto/Azucar-Blanco-CARULLA-25-gr-3397990_a.jpg?v=638768905696030000",
+    "tienda": "Carulla",
+    "tipoProducto": "azucar"
+  },
+  {
+    "Nombre": "Azúcar COLOMBINA Pulverizada (500 gr)",
+    "Precio": 5800,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19578034-300-auto/Azucar-Pulverizada-430400_a.jpg?v=638739818366530000",
+    "tienda": "Carulla",
+    "tipoProducto": "azucar"
+  },
+  {
+    "Nombre": "Azúcar EXITO MARCA PROPIA blanca (1000 gr)",
+    "Precio": 5070,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19882494-300-auto/Azucar-Blanco-Especial-EXITO-MARCA-PROPIA-1000-gr-3310420_a.jpg?v=638768904567400000",
+    "tienda": "Carulla",
+    "tipoProducto": "azucar"
+  },
+  {
+    "Nombre": "Azúcar EXITO MARCA PROPIA blanca (2500 gr)",
+    "Precio": 10480,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19882502-300-auto/Azucar-Blanco-Especial-EXITO-MARCA-PROPIA-2500-gr-3310410_a.jpg?v=638768904658770000",
+    "tienda": "Carulla",
+    "tipoProducto": "azucar"
+  },
+  {
+    "Nombre": "Azúcar EXITO MARCA PROPIA blanca (5000 gr)",
+    "Precio": 23950,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19882503-300-auto/Azucar-Blanco-Especial-EXITO-MARCA-PROPIA-5000-gr-3310411_a.jpg?v=638768904669700000",
+    "tienda": "Carulla",
+    "tipoProducto": "azucar"
+  },
+  {
+    "Nombre": "Azúcar FRESCAMPO blanco (1000 gr)",
+    "Precio": 5300,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19882492-300-auto/Azucar-Blanco-Especial-FRESCAMPO-1000-gr-3310415_a.jpg?v=638768904544330000",
+    "tienda": "Carulla",
+    "tipoProducto": "azucar"
+  },
+  {
+    "Nombre": "Azúcar FRESCAMPO blanco (2500 gr)",
+    "Precio": 10480,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19882499-300-auto/Azucar-Blanco-Especial-FRESCAMPO-2500-gr-3310407_a.jpg?v=638768904625900000",
+    "tienda": "Carulla",
+    "tipoProducto": "azucar"
+  },
+  {
+    "Nombre": "Azúcar FRESCAMPO blanco (500 gr)",
+    "Precio": 2800,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19882497-300-auto/Azucar-Blanco-Especial-FRESCAMPO-500-gr-3310414_a.jpg?v=638768904600700000",
+    "tienda": "Carulla",
+    "tipoProducto": "azucar"
+  },
+  {
+    "Nombre": "Azúcar FRESCAMPO blanco (5000 gr)",
+    "Precio": 26200,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19882500-300-auto/Azucar-Blanco-Especial-FRESCAMPO-5000-gr-3310408_a.jpg?v=638768904636630000",
+    "tienda": "Carulla",
+    "tipoProducto": "azucar"
+  },
+  {
+    "Nombre": "Azúcar FRESCAMPO morena (1000 gr)",
+    "Precio": 5000,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19882501-300-auto/Azucar-Morena-FRESCAMPO-1000-gr-3310409_a.jpg?v=638768904647700000",
+    "tienda": "Carulla",
+    "tipoProducto": "azucar"
+  },
+  {
+    "Nombre": "Azúcar FRESCAMPO morena (2500 gr)",
+    "Precio": 10710,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19882496-300-auto/Azucar-Morena-FRESCAMPO-2500-gr-3310418_a.jpg?v=638768904590100000",
+    "tienda": "Carulla",
+    "tipoProducto": "azucar"
+  },
+  {
+    "Nombre": "Azúcar INCAUCA LIFE mitad de calorias (454 gr)",
+    "Precio": 4900,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18561369-300-auto/Mezcl-Endul-Azuc-Morena-y-Stevia-INCAUCA-0454-gr-3349974_a.jpg?v=638672966895600000",
+    "tienda": "Carulla",
+    "tipoProducto": "azucar"
+  },
+  {
+    "Nombre": "Azúcar INCAUCA LIFE mitad de calorias (454 gr)",
+    "Precio": 3650,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18561370-300-auto/Mezcla-Endulz-Azucar-y-Stevia-INCAUCA-0454-gr-3349976_a.jpg?v=638672966916300000",
+    "tienda": "Carulla",
+    "tipoProducto": "azucar"
+  },
+  {
+    "Nombre": "Azúcar INCAUCA LIFE mitad de calorias (850 gr)",
+    "Precio": 9640,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/17394192-300-auto/Mezcla-Endulz-Azucar-y-Stevia-INCAUCA-085-gr-3349975_a.jpg?v=638609468462030000",
+    "tienda": "Carulla",
+    "tipoProducto": "azucar"
+  },
+  {
+    "Nombre": "Azúcar In Cauca (1000 gr)",
+    "Precio": 6000,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19578009-300-auto/Azucar-Blanca-1000-gr-904461_a.jpg?v=638739817964170000",
+    "tienda": "Carulla",
+    "tipoProducto": "azucar"
+  },
+  {
+    "Nombre": "Azúcar In Cauca (2500 gr)",
+    "Precio": 15200,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19578022-300-auto/Azucar-Morena-25-kg-403537_a.jpg?v=638739818160630000",
+    "tienda": "Carulla",
+    "tipoProducto": "azucar"
+  },
+  {
+    "Nombre": "Azúcar In Cauca (800 gr)",
+    "Precio": 6400,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20323880-300-auto/Azucar-Organica-1186954_a.jpg?v=638822292736100000",
+    "tienda": "Carulla",
+    "tipoProducto": "azucar"
+  },
+  {
+    "Nombre": "Azúcar MANUELITA Morena (2000 gr)",
+    "Precio": 10350,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18580221-300-auto/Azucar-Morena-X-2-kg-906013_a.jpg?v=638675704435300000",
+    "tienda": "Carulla",
+    "tipoProducto": "azucar"
+  },
+  {
+    "Nombre": "Azúcar MANUELITA alta pureza (1000 gr)",
+    "Precio": 6100,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20063523-300-auto/Azucar-Alta-Pureza-1-kg-21986_a.jpg?v=638794015869330000",
+    "tienda": "Carulla",
+    "tipoProducto": "azucar"
+  },
+  {
+    "Nombre": "Azúcar MANUELITA alta pureza (2000 gr)",
+    "Precio": 10200,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20063525-300-auto/Azucar-Alta-Pureza-2-kg-441016_a.jpg?v=638794015883170000",
+    "tienda": "Carulla",
+    "tipoProducto": "azucar"
+  },
+  {
+    "Nombre": "Azúcar MANUELITA alta pureza (5000 gr)",
+    "Precio": 30800,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20349123-300-auto/AZUCAR-ALTA-PUREZA-463278_a.jpg?v=638826547309570000",
+    "tienda": "Carulla",
+    "tipoProducto": "azucar"
+  },
+  {
+    "Nombre": "Azúcar MANUELITA endulzante line (850 gr)",
+    "Precio": 8000,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20063527-300-auto/Azucar-Ligth-850-gr-334383_a.jpg?v=638794015896870000",
+    "tienda": "Carulla",
+    "tipoProducto": "azucar"
+  },
+  {
+    "Nombre": "Azúcar MANUELITA light (454 gr)",
+    "Precio": 5100,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20064167-300-auto/Azucar-Manuelita-Light-454-gr-327120_a.jpg?v=638796301368230000",
+    "tienda": "Carulla",
+    "tipoProducto": "azucar"
+  },
+  {
+    "Nombre": "Azúcar MANUELITA morena (1000 gr)",
+    "Precio": 6500,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20063529-300-auto/Azucar-Morena-Bolsa-X-1kg-935824_a.jpg?v=638794015910230000",
+    "tienda": "Carulla",
+    "tipoProducto": "azucar"
+  },
+  {
+    "Nombre": "Azúcar MANUELITA morena light (454 gr)",
+    "Precio": 5200,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20063519-300-auto/AZUCAR-MORENA-LIGHT-334671_a.jpg?v=638794015832670000",
+    "tienda": "Carulla",
+    "tipoProducto": "azucar"
+  },
+  {
+    "Nombre": "Azúcar MANUELITA morena line (850 gr)",
+    "Precio": 9000,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20063531-300-auto/Azucar-Light-Morena-850-gr-716148_a.jpg?v=638794015934500000",
+    "tienda": "Carulla",
+    "tipoProducto": "azucar"
+  },
+  {
+    "Nombre": "Azúcar MANUELITA orgánica (250 gr)",
+    "Precio": 5140,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20064169-300-auto/Azucar-Organica-Manuelita-MANUELITA-250-gr-3093506_a.jpg?v=638796301391530000",
+    "tienda": "Carulla",
+    "tipoProducto": "azucar"
+  },
+  {
+    "Nombre": "Azúcar MANUELITA orgánica (800 gr)",
+    "Precio": 6000,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20064170-300-auto/Azucar-Organica-Manuelita-MANUELITA-800-gr-3093507_a.jpg?v=638796301403670000",
+    "tienda": "Carulla",
+    "tipoProducto": "azucar"
+  },
+  {
+    "Nombre": "Azúcar MANUELITA pulverizada (500 gr)",
+    "Precio": 3450,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20063522-300-auto/Azucar-Pulverizada-MANUELITA-500-gr-3405245_a.jpg?v=638794015858000000",
+    "tienda": "Carulla",
+    "tipoProducto": "azucar"
+  },
+  {
+    "Nombre": "Azúcar MANUELITA tubitos x200und (1000 gr)",
+    "Precio": 8100,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20063521-300-auto/AZUCAR-ALTA-PUREZA-TUBIPACKS-MANUELITA-1-gr-3524901_a.jpg?v=638794015846330000",
+    "tienda": "Carulla",
+    "tipoProducto": "azucar"
+  },
+  {
+    "Nombre": "Azúcar MAYAGUEZ (1000 gr)",
+    "Precio": 4050,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19883317-300-auto/Azucar-Blanco-Especial-x-1000-g-874775_a.jpg?v=638768924162330000",
+    "tienda": "Carulla",
+    "tipoProducto": "azucar"
+  },
+  {
+    "Nombre": "Azúcar MAYAGUEZ (1000 gr)",
+    "Precio": 5900,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19883084-300-auto/Azucar-Mayaguez-1000g-Morena-N-42869_a.jpg?v=638768921773930000",
+    "tienda": "Carulla",
+    "tipoProducto": "azucar"
+  },
+  {
+    "Nombre": "Azúcar MAYAGUEZ (2500 gr)",
+    "Precio": 14200,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19883083-300-auto/Azucar-Mayaguez-42852_a.jpg?v=638768921762300000",
+    "tienda": "Carulla",
+    "tipoProducto": "azucar"
+  },
+  {
+    "Nombre": "Azúcar MAYAGUEZ (2500 gr)",
+    "Precio": 12700,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19883085-300-auto/Azucar-Morena-N-352338_a.jpg?v=638768921786430000",
+    "tienda": "Carulla",
+    "tipoProducto": "azucar"
+  },
+  {
+    "Nombre": "Azúcar MAYAGUEZ (500 gr)",
+    "Precio": 2780,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19883350-300-auto/Azucar-Blanca-Es-MAYAGUEZ-500-gr-352337_a.jpg?v=638768924318970000",
+    "tienda": "Carulla",
+    "tipoProducto": "azucar"
+  },
+  {
+    "Nombre": "Azúcar MAYAGUEZ (5000 gr)",
+    "Precio": 25000,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19883355-300-auto/Azucar-Blanco-5000Gr-MAYAGUEZ-5000-gr-1712249_a.jpg?v=638768924331570000",
+    "tienda": "Carulla",
+    "tipoProducto": "azucar"
+  },
+  {
+    "Nombre": "Azúcar MAYAGUEZ blanco (800 gr)",
+    "Precio": 4860,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20135816-300-auto/Azucar-MAYAGUEZ-Blanco-800-gr-3683947_a.jpg?v=638802662408500000",
+    "tienda": "Carulla",
+    "tipoProducto": "azucar"
+  },
+  {
+    "Nombre": "Azúcar MAYAGUEZ orgánica (800 gr)",
+    "Precio": 5190,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20135818-300-auto/Azucar-MAYAGUEZ-Organica-800-gr-3683948_a.jpg?v=638802662423830000",
+    "tienda": "Carulla",
+    "tipoProducto": "azucar"
+  },
+  {
+    "Nombre": "Azúcar PROVIDENCIA (2500 gr)",
+    "Precio": 13850,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19578025-300-auto/Azucar-Blanc-278156_a.jpg?v=638739818204830000",
+    "tienda": "Carulla",
+    "tipoProducto": "azucar"
+  },
+  {
+    "Nombre": "Azúcar PROVIDENCIA (850 gr)",
+    "Precio": 5400,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19577989-300-auto/Azucar-Organica-850-gr-94154_a.jpg?v=638739817655930000",
+    "tienda": "Carulla",
+    "tipoProducto": "azucar"
+  },
+  {
+    "Nombre": "Azúcar PROVIDENCIA (850 gr)",
+    "Precio": 4090,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19584656-300-auto/AZUCAR-MORENA-ORGANICA-1423942_a.jpg?v=638739909527300000",
+    "tienda": "Carulla",
+    "tipoProducto": "azucar"
+  },
+  {
+    "Nombre": "Azúcar RIOPAILA (1000 gr)",
+    "Precio": 8000,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19584539-300-auto/AZUCAR-MOTIVOS-STICKPACK-57400_a.jpg?v=638739907754130000",
+    "tienda": "Carulla",
+    "tipoProducto": "azucar"
+  },
+  {
+    "Nombre": "Azúcar RIOPAILA (2500 gr)",
+    "Precio": 15000,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19578021-300-auto/Azucar-Blanco-Especial-25-kg-735316_a.jpg?v=638739818148770000",
+    "tienda": "Carulla",
+    "tipoProducto": "azucar"
+  },
+  {
+    "Nombre": "Azúcar RIOPAILA (5000 gr)",
+    "Precio": 28600,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19585720-300-auto/Azucar-Blanco-RIOPAILA-5000-gr-410979_a.jpg?v=638739925559070000",
+    "tienda": "Carulla",
+    "tipoProducto": "azucar"
+  }
+]
+}

@@ -1,0 +1,1005 @@
+{
+  "arrozExito": [
+    {
+      "Nombre": "ARROZ LEOPARDO (1000 gr)",
+      "Precio": 4420,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26667211-300-auto/ARROZ-BLANCO-LEOPARDO-1000-Gramo-525687_a.jpg?v=638739925120470000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "ARROZ LEOPARDO (2500 gr)",
+      "Precio": 14270,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26667209-300-auto/ARROZ-BLANCO-LEOPARDO-2500-Gramo-525054_a.jpg?v=638739925093170000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "ARROZ LEOPARDO (500 gr)",
+      "Precio": 2290,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/24650619-300-auto/ARROZ-BLANCO-LEOPARDO-500-Gramo-524820_a.jpg?v=638619340417070000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "ARROZ LEOPARDO (5000 gr)",
+      "Precio": 23290,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26667210-300-auto/ARROZ-BLANCO-LEOPARDO-5000-Gramo-525425_a.jpg?v=638739925105600000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "ARROZ RICESELECT JASMATI (907 gr)",
+      "Precio": 30375,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26866662-300-auto/ARROZ-JASMATI-787700_a.jpg?v=638756637571000000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "ARROZ SONORA (2500 gr)",
+      "Precio": 11400,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/25566772-300-auto/ARROZ-2500GR-SONORA-2500-gr-3351456_a.jpg?v=638675317345170000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "ARROZ SUSHI NISHIKI ARROZ ALMIDONADO (907 gr)",
+      "Precio": 20962,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26866657-300-auto/Arroz-Para-Sushi-907-gr-913134_a.jpg?v=638756637517470000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Alimento Adul Cordero, Arroz y Salmon CHUNKY 12000 gr",
+      "Precio": 162000,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26958119-300-auto/Alimento-perrocordero-arroz-salmon-x-12-kg-1555396_a.jpg?v=638767298263400000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arepas SARY CONSCIENTE de arroz integral x5und (375 gr)",
+      "Precio": 10700,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26879494-300-auto/Arepa-Arroz-Integral-SARY-375-gr-3119578_a.jpg?v=638760984796330000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz ALCAGUETE BASMATI (500 gr)",
+      "Precio": 18350,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/25552569-300-auto/Arroz-Basmati-ALCAGUETE-500-gr-3229976_a.jpg?v=638672954113000000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz ARROZ 10 blanco clasificado y seleccionado (1000 gr)",
+      "Precio": 5670,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/27183290-300-auto/Arroz-Blanco-1000-gr-582946_a.jpg?v=638796304344670000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz ARROZ 10 blanco clasificado y seleccionado (2500 gr)",
+      "Precio": 13900,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/27183305-300-auto/ARROZ-PREMIUM-985720_a.jpg?v=638796304493830000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz BLANQUITA (1000 gr)",
+      "Precio": 6000,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/25566628-300-auto/Arroz-premium-BLANQUITA-1000-gr-3034022_a.jpg?v=638675315343770000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz BLANQUITA (1000 gr)",
+      "Precio": 4300,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26667411-300-auto/Arroz-BLANQUITA-1000-gr-550860_a.jpg?v=638739927978930000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz BLANQUITA (1000 gr)",
+      "Precio": 4730,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26667297-300-auto/Arroz-Integral-BLANQUITA-1000-gr-172011_a.jpg?v=638739926490500000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz BLANQUITA (12500 gr)",
+      "Precio": 52500,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26667518-300-auto/ARROZ-BLANCO-BLANQUITA-12500-Gramos-390859_a.jpg?v=638739929411500000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz BLANQUITA (3000 gr)",
+      "Precio": 12400,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26667412-300-auto/Arroz-Blanco-BLANQUITA-3000-gr-550872_a.jpg?v=638739927991430000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz BLANQUITA (5000 gr)",
+      "Precio": 23200,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26666777-300-auto/Arroz-X5000Gr-BLANQUITA-5000-gr-455680_a.jpg?v=638739919008830000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz BLANQUITA (6000 gr)",
+      "Precio": 27850,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/25566603-300-auto/Arroz-Blanco-BLANQUITA-6000-gr-352227_a.jpg?v=638675314979970000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz Blanco ARROZ SONORA PREMIUM Premium (12500 gr)",
+      "Precio": 78700,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/25556055-300-auto/Arroz-Blanco-ARROZ-SONORA-PREMIUM-Premium-12500-gr-3586687_a.jpg?v=638673006591130000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz Blanco ARROZ SONORA PREMIUM Premium (2500 gr)",
+      "Precio": 15800,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/25554787-300-auto/Arroz-Premium-ARROZ-SONORA-PREMIUM-2500-gr-3481972_a.jpg?v=638672984503770000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz Blanco ARROZ SONORA PREMIUM Premium (500 gr)",
+      "Precio": 3150,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/25555857-300-auto/Arroz-Blanco-ARROZ-SONORA-PREMIUM-Premium-500-gr-3568706_a.jpg?v=638673002575970000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz Blanco ARROZ SONORA SUPER PREMIUM Super Premium (1000 gr)",
+      "Precio": 8930,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/25554788-300-auto/Arroz-Super-Premium-ARROZ-SONORA-PREMIUM-1000-gr-3481973_a.jpg?v=638672984522130000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz Blanco ARROZ SONORA SUPER PREMIUM Super Premium (2500 gr)",
+      "Precio": 21700,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/25554789-300-auto/Arroz-Super-Premium-2500g-ARROZ-SONORA-PREMIUM-2500-gr-3481974_a.jpg?v=638672984540730000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz Blanco PINILLAR Premium (2500 gr)",
+      "Precio": 16100,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/25554786-300-auto/Arroz-Premium-PINILLAR-2500-gr-3481971_a.jpg?v=638672984440370000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz CARIBE (5000 gr)",
+      "Precio": 28550,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26659305-300-auto/Arroz-Caribe-Enriquecido-5-kl-112939_a.jpg?v=638739814762170000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz CARIBE blanco vita+ (1000 gr)",
+      "Precio": 5570,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/27182439-300-auto/Arroz-Caribe-Enriquecido-1000-gr-112374_a.jpg?v=638794015491700000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz CARIBE blanco vita+ (500 gr)",
+      "Precio": 2470,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/27182442-300-auto/Arroz-blanco-caribe-x-500-gr-687272_a.jpg?v=638794015518130000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz CASANARE (3000 gr)",
+      "Precio": 12528,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26666730-300-auto/ARROZ-BLANCO-CASANARE-3000-Gramo-133500_a.jpg?v=638739918382600000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz CASANARE Blanco (5000 gr)",
+      "Precio": 21150,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26666731-300-auto/ARROZ-BLANCO-CASANARE-5000-Gramo-133582_a.jpg?v=638739918394730000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz CASTELLANO basmati (500 gr)",
+      "Precio": 19450,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/27182433-300-auto/ARROZ-BASMATI-CASTELLANO-500-Gramo-1787141_a.jpg?v=638794015423530000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz CASTELLANO blanco premium (1000 gr)",
+      "Precio": 11050,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/27182443-300-auto/Arroz-Castellano-1000-gr-981780_a.jpg?v=638794015529730000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz CASTELLANO blanco premium (2500 gr)",
+      "Precio": 26350,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/27182446-300-auto/Arroz-Blanco-Natural-Bolsa-X-2500-G-923594_a.jpg?v=638794015554800000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz CASTELLANO blanco premium (500 gr)",
+      "Precio": 5870,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/27182447-300-auto/Arroz-Castellano-Libra-CASTELLANO-500-gr-3533992_a.jpg?v=638794015564970000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz CASTELLANO integral premium (1000 gr)",
+      "Precio": 11050,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/27182444-300-auto/Arroz-Integral-1000-gr-205354_a.jpg?v=638794015543300000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz CASTELLANO jazmín (500 gr)",
+      "Precio": 14150,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/27182436-300-auto/ARROZ-JAZMIN-CASTELLANO-500-Gramo-1787148_a.jpg?v=638794015457600000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz CASTELLANO para risotto (500 gr)",
+      "Precio": 21400,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/27182434-300-auto/ARROZ-RISOTTO-CASTELLANO-500-Gramo-1787146_a.jpg?v=638794015434200000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz CASTELLANO para sushi (500 gr)",
+      "Precio": 13450,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/27182435-300-auto/ARROZ-SUSHI-CASTELLANO-500-Gramo-1787147_a.jpg?v=638794015446170000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz COLAVITA (500 gr)",
+      "Precio": 21600,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26983295-300-auto/Arroz-Arborio-COLAVITA-500-gr-1861846_a.jpg?v=638768927030130000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz COMUNEROS (5000 gr)",
+      "Precio": 29350,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/27462794-300-auto/ARROZ-BLANCO-PREMIUM-COMUNEROS-5000-Gramo-162228_a.jpg?v=638820447106700000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz Con Leche NATAS SANTAFE 100 gr",
+      "Precio": 7990,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/27476956-300-auto/Arroz-Con-Leche-NATAS-SANTAFE-100-gr-3696784_a.jpg?v=638823112909230000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz Con Pollo FRIKO 450 gr",
+      "Precio": 23500,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26269754-300-auto/Arroz-Con-Pollo-FRIKO-450-gr-3266815_a.jpg?v=638719686710870000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz DIANA BLANCO VITAMOR (2500 gr)",
+      "Precio": 12150,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/25554765-300-auto/Arroz-Blanco-Vitamor-DIANA-2500-gr-3479060_a.jpg?v=638672984127170000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz DIANA Blanco (1000 gr)",
+      "Precio": 7110,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26664478-300-auto/ARROZ-FIBRA-315737_a.jpg?v=638739886863370000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz DIANA Cosecha Especial (1000 gr)",
+      "Precio": 10100,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/25556142-300-auto/Arroz-DIANA-Cosecha-Especial-1000-gr-3594363_a.jpg?v=638673007780930000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz DIANA Cosecha Especial (2500 gr)",
+      "Precio": 28350,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/25556143-300-auto/Arroz-DIANA-Cosecha-Especial-2500-gr-3594364_a.jpg?v=638673007819700000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz DIANA Cosecha Especial (500 gr)",
+      "Precio": 5670,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/25556144-300-auto/Arroz-DIANA-Cosecha-Especial-500-gr-3594365_a.jpg?v=638673007834600000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz DIANA blanco arroba (12500 gr)",
+      "Precio": 49590,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/27182453-300-auto/Arroz-Blanco-Arroba-12500-gr-256676_a.jpg?v=638794015642400000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz DIANA blanco premium (1000 gr)",
+      "Precio": 6180,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/27182448-300-auto/Arroz-Premium-1000-gr-730954_a.jpg?v=638794015578230000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz DIANA blanco premium (2500 gr)",
+      "Precio": 16900,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/27182454-300-auto/Arroz-Premium-2500-gr-587016_a.jpg?v=638794015654100000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz DIANA blanco premium (4000 gr)",
+      "Precio": 28000,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/27182456-300-auto/Arroz-Diana-Premium-4-kg-715215_a.jpg?v=638794015676600000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz DIANA blanco vitamor (1000 gr)",
+      "Precio": 4910,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/27182449-300-auto/Arroz-Diana-1000-gr-552155_a.jpg?v=638794015588570000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz DIANA blanco vitamor (10000 gr)",
+      "Precio": 45000,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/27182452-300-auto/Arroz-Diana-10-Kilos-X-1000-gr-490777_a.jpg?v=638794015628300000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz DIANA blanco vitamor (3000 gr)",
+      "Precio": 14710,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/27182455-300-auto/Arroz-Blanco-Bolsa-X-3000g-130407_a.jpg?v=638794015664730000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz DIANA blanco vitamor (500 gr)",
+      "Precio": 2210,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/27182457-300-auto/Arroz-Diana-500-gr-445117_a.jpg?v=638794015687730000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz DIANA blanco vitamor (5000 gr)",
+      "Precio": 22500,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/27182459-300-auto/Arroz-Diana-5000-gr-814670_a.jpg?v=638794015711830000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz DIANA con fideos (460 gr)",
+      "Precio": 2983,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/27182469-300-auto/ARROZ-FID-PQ-25U-X-460-G-DIANA-460-gr-3225059_a.jpg?v=638794015826200000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz DIANA con sabor a coco (1000 gr)",
+      "Precio": 6111,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/27182450-300-auto/Arroz-Diana-Premium-Coco-635927_a.jpg?v=638794015598830000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz DIANA con sabor a coco (500 gr)",
+      "Precio": 3280,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/27182458-300-auto/Arroz-Diana-Premium-Coco-Pqno-635818_a.jpg?v=638794015700700000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz DIANA integral (1000 gr)",
+      "Precio": 7050,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/27182451-300-auto/Arroz-Integral-1244239_a.jpg?v=638794015612400000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz DONA PEPA parbolizado (1000 gr)",
+      "Precio": 5510,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/27183298-300-auto/Arroz-Parbolizado-X-1kg-551004_a.jpg?v=638796304427600000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz DONA PEPA parbolizado (3000 gr)",
+      "Precio": 18550,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/27183288-300-auto/Arroz-Parbolizado-3000-gr-22078_a.jpg?v=638796304320630000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz DONA PEPA parbolizado (5000 gr)",
+      "Precio": 32000,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/27183303-300-auto/ARROZ-PARBORIZADO-120708_a.jpg?v=638796304473130000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz EKONO blanco (11350 gr)",
+      "Precio": 37490,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26675982-300-auto/Arroz-Blanco-Arroba-EKONO-11350-gr-3181791_a.jpg?v=638740041803700000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz EKONO blanco (2000 gr)",
+      "Precio": 6590,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26367982-300-auto/Arroz-Blanco-EKONO-2000-gr-3534190_a.jpg?v=638726575255270000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz EKONO blanco (454 gr)",
+      "Precio": 1490,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26369615-300-auto/Arroz-Blanco-EKONO-454-gr-3181792_a.jpg?v=638726613294470000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz EXITO MARCA PROPIA blanco (2500 gr)",
+      "Precio": 9140,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26226150-300-auto/Arroz-Blanco-EXITO-MARCA-PROPIA-2500-gr-3534187_a.jpg?v=638714318482030000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz EXITO MARCA PROPIA blanco (3000 gr)",
+      "Precio": 10970,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26675983-300-auto/Arroz-Blanco-EXITO-MARCA-PROPIA-3000-gr-3181779_a.jpg?v=638740041814630000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz EXITO MARCA PROPIA blanco (500 gr)",
+      "Precio": 1840,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26226607-300-auto/Arroz-Blanco-EXITO-MARCA-PROPIA-500-gr-3181789_a.jpg?v=638714325936770000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz EXITO MARCA PROPIA blanco (5000 gr)",
+      "Precio": 18290,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26675984-300-auto/Arroz-Blanco-EXITO-MARCA-PROPIA-5000-gr-3181780_a.jpg?v=638740041825030000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz EXITO MARCA PROPIA blanco arroba (12500 gr)",
+      "Precio": 46240,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26675988-300-auto/Arroz-Blanco-Arroba-EXITO-MARCA-PROPIA-12500-gr-3181787_a.jpg?v=638740041868600000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz FEDERAL Integral (1000 gr)",
+      "Precio": 11100,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26666938-300-auto/Arroz-integral-x-1000-gr-1465840_a.jpg?v=638739921713770000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz FEDERAL Premium alto rendimiento (1000 gr)",
+      "Precio": 7270,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26670820-300-auto/Arroz-premium-alto-rendimiento-x-1000-gr-1739432_a.jpg?v=638739977020400000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz FEDERAL Premium alto rendimiento (2500 gr)",
+      "Precio": 18000,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26670821-300-auto/Arroz-premium-alto-rendimiento-x-2500-gr-1739434_a.jpg?v=638739977052470000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz FEDERAL Premium extra gourmet (1000 gr)",
+      "Precio": 10950,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/25545926-300-auto/Arroz-Extra-Gourmet-1351206_a.jpg?v=638672879922730000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz FEDERAL Premium extra gourmet (2500 gr)",
+      "Precio": 31300,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26659361-300-auto/Arroz-Extra-Gourmet-1281897_a.jpg?v=638739815528100000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz FLOR HUILA blanco (1000 gr)",
+      "Precio": 5100,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/27183297-300-auto/Arroz-Flor-Huila-1000-gr-796712_a.jpg?v=638796304418200000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz FLOR HUILA blanco (10000 gr)",
+      "Precio": 44000,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/27183304-300-auto/ARROZ-BLANCO-283305_a.jpg?v=638796304482570000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz FLOR HUILA blanco (12500 gr)",
+      "Precio": 55900,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/27183306-300-auto/ARROZ-ARROBA-FLOR-HUILA-12500-Gramos-512210_a.jpg?v=638796304504000000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz FLOR HUILA blanco (3000 gr)",
+      "Precio": 13200,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/27183296-300-auto/Arroz-Flor-Huila-3000-gr-5855_a.jpg?v=638796304406770000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz FLOR HUILA blanco (500 gr)",
+      "Precio": 2540,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/27183302-300-auto/Arroz-663256_a.jpg?v=638796304463800000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz FLOR HUILA blanco (5000 gr)",
+      "Precio": 22000,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/27183287-300-auto/Arroz-Blanco-5000-gr-199000_a.jpg?v=638796304309770000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz FLOR HUILA integral (1000 gr)",
+      "Precio": 7420,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/27183309-300-auto/ARROZ-INTEGRAL-846408_a.jpg?v=638796304535800000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz FRESCAMPO blanco (11350 gr)",
+      "Precio": 41980,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/25644096-300-auto/Arroz-Blanco-Arroba-FRESCAMPO-11350-gr-3181788_a.jpg?v=638687685432570000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz FRESCAMPO blanco (2500 gr)",
+      "Precio": 11700,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/25643923-300-auto/Arroz-Blanco-FRESCAMPO-2500-gr-3534189_a.jpg?v=638687667955800000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz FRESCAMPO blanco (454 gr)",
+      "Precio": 1670,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/25644097-300-auto/Arroz-Blanco-FRESCAMPO-454-gr-3181790_a.jpg?v=638687685462230000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz FRESCAMPO blanco (5000 gr)",
+      "Precio": 18290,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/25644095-300-auto/Arroz-Blanco-FRESCAMPO-5000-gr-3181784_a.jpg?v=638687685382730000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz GOLONDRINA (2500 gr)",
+      "Precio": 9900,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/25566886-300-auto/Arroz-GOLONDRINA-2500-gr-3555441_a.jpg?v=638675319148530000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz GOLONDRINA (454 gr)",
+      "Precio": 1950,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/25566887-300-auto/Arroz-GOLONDRINA-454-gr-3555442_a.jpg?v=638675319158630000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz GOLONDRINA Blanco (11250 gr)",
+      "Precio": 47900,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/25433683-300-auto/Arroz-GOLONDRINA-Blanco-11250-gr-3630103_a.jpg?v=638663685886300000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz GOLONDRINA Blanco (450 gr)",
+      "Precio": 1980,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/25433684-300-auto/Arroz-GOLONDRINA-Blanco-450-gr-3630104_a.jpg?v=638663685899100000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz GOLONDRINA Paca (11350 gr)",
+      "Precio": 49100,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/25556149-300-auto/Arroz-GOLONDRINA-Paca-11350-gr-3595241_a.jpg?v=638673007906900000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz Integral ARROZ SONORA PREMIUM (1000 gr)",
+      "Precio": 10200,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/25566621-300-auto/Arroz-Integral-SONORA-1000-Gramo-3008456_a.jpg?v=638675315255600000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz Karavansay Arroz Integral (500 gr)",
+      "Precio": 10050,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/27170569-300-auto/Arroz-Integral-Con-Quinua-389890_a.jpg?v=638792092473200000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz LEOPARDO (12500 gr)",
+      "Precio": 54150,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26667215-300-auto/ARROZ-BLANCO-X-25-UND-LEOPARDO-12500-Gramo-720153_a.jpg?v=638739925222600000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz LEOPARDO (5000 gr)",
+      "Precio": 25780,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/25566444-300-auto/OfArroz-Blanco-Especial-LEOPARDO-5000-gr-1060284_a.jpg?v=638675311971500000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz MONTICELLO carnaroli formagi (210 gr)",
+      "Precio": 18950,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/25638859-300-auto/Arroz-Carnaroli-Formagi-MONTICELLO-210-gr-3375228_a.jpg?v=638684885513800000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz Oriental CAZUELITAS 300 gr",
+      "Precio": 21550,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26270286-300-auto/Arroz-Oriental-x-300gr-Cazuelitas-en-Casa-CAZUELITAS-300-gr-3599756_a.jpg?v=638719690685100000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz PINILLAR (3000 gr)",
+      "Precio": 13900,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26667236-300-auto/Arroz-Blanco-PINILLAR-3000-gr-506830_a.jpg?v=638739925575100000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz PINILLAR (500 gr)",
+      "Precio": 2290,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26667098-300-auto/Arroz-Blanco-PINILLAR-500-gr-534509_a.jpg?v=638739923697870000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz PINILLAR (5000 gr)",
+      "Precio": 21790,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26666061-300-auto/ARROZ-506842_a.jpg?v=638739907693230000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz PLATINO blanco (1000 gr)",
+      "Precio": 6150,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/27183292-300-auto/Arroz-Tipo-Gourmet-397124_a.jpg?v=638796304365930000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz PLATINO blanco premium (2500 gr)",
+      "Precio": 15400,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/27183308-300-auto/ARROZ-PREMIUM-845837_a.jpg?v=638796304525000000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz QUIJOTE Blanco (11250 gr)",
+      "Precio": 42250,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/25602010-300-auto/Arroz-Blanco-QUIJOTE-11250-gr-3544910_a.jpg?v=638678157778700000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz QUIJOTE Blanco (450 gr)",
+      "Precio": 1690,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/25602011-300-auto/Arroz-QUIJOTE-450-gr-3555443_a.jpg?v=638678160766630000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz RICESELECT (907 gr)",
+      "Precio": 26025,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26665862-300-auto/ARROZ-INTEGRAL-TEXMATI-787686_a.jpg?v=638739904162770000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz RICESELECT (907 gr)",
+      "Precio": 28575,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26871258-300-auto/ARROZ-ORGANICO-JASMATI-139560_a.jpg?v=638757477244030000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz ROA blanco fortiplus (1000 gr)",
+      "Precio": 5070,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/27183293-300-auto/Arroz-Roa-1-Kilo-715788_a.jpg?v=638796304375430000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz ROA blanco fortiplus (10000 gr)",
+      "Precio": 44700,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/27183307-300-auto/Arroz-Blanco-ROA-10000-Gramo-583252_a.jpg?v=638796304514370000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz ROA blanco fortiplus (3000 gr)",
+      "Precio": 12850,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/27183295-300-auto/Arroz-Blanco-Fortificado-X-3000-G-694991_a.jpg?v=638796304396430000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz ROA blanco fortiplus (500 gr)",
+      "Precio": 2200,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/27183291-300-auto/Arroz-Blanco-X-500-gr-582947_a.jpg?v=638796304355000000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz ROA blanco fortiplus (5000 gr)",
+      "Precio": 21450,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/27183294-300-auto/Arroz-Fortificado-Roa-Bolsa-X-5000g-722262_a.jpg?v=638796304386570000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz ROA con coco listo para preparar (300 gr)",
+      "Precio": 11800,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/27182460-300-auto/Arroz-Con-Coco-585525_a.jpg?v=638794015723100000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz ROA con leche (150 gr)",
+      "Precio": 6140,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/27182437-300-auto/ARROZ-CON-LECHE-ROA-150-Gramo-3001162_a.jpg?v=638794015468700000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz ROA con sabor a paella (300 gr)",
+      "Precio": 12400,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/27182462-300-auto/ARROZ-SABOR-A-PAELLA-915412_a.jpg?v=638794015747170000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz ROA con sabor mexicano (300 gr)",
+      "Precio": 12650,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/27182463-300-auto/ARROZ-MEXICANO-652272_a.jpg?v=638794015757600000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz ROA integral (1000 gr)",
+      "Precio": 6110,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/27183289-300-auto/Arroz-Integral-1000-gr-490441_a.jpg?v=638796304334470000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz ROA oriental listo para preparar (300 gr)",
+      "Precio": 9660,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/27182461-300-auto/Arroz-Oriental-300-gr-585527_a.jpg?v=638794015735300000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz ROA paca (12500 gr)",
+      "Precio": 53480,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26983122-300-auto/Arroz-Blanco-Arroba-12500-gr-10316_a.jpg?v=638768921522630000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz ROA parbolizado (1000 gr)",
+      "Precio": 6400,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/27183299-300-auto/Arroz-Parbolizado-1188794_a.jpg?v=638796304442000000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz ROA parbolizado (3000 gr)",
+      "Precio": 19200,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/27183301-300-auto/Arroz-Parbolizado-1188802_a.jpg?v=638796304454270000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz ROLAND Arborio Superfino (453 gr)",
+      "Precio": 30450,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26659285-300-auto/Arroz-Arborio-453-gr-543730_a.jpg?v=638739814456000000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz SONORA (1000 gr)",
+      "Precio": 4590,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26659330-300-auto/Arroz-Blanco-X-1000-gr-862930_a.jpg?v=638739815131400000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz SONORA (12500 gr)",
+      "Precio": 53900,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26659323-300-auto/Arroz-Blanco-Sonora-X-12500-gr-743877_a.jpg?v=638739815045100000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz SONORA (3000 gr)",
+      "Precio": 11950,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26659329-300-auto/Arroz-Sonora-X-3000-gr-862929_a.jpg?v=638739815120330000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz SONORA (500 gr)",
+      "Precio": 2260,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26659324-300-auto/Arroz-Blanco-752339_a.jpg?v=638739815071800000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz SONORA (5000 gr)",
+      "Precio": 22510,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26659325-300-auto/Arroz-Blanco-Sonora-X-5-kg-753051_a.jpg?v=638739815079670000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz SUPREMO (10000 gr)",
+      "Precio": 44680,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26667052-300-auto/Arroz-Blanco-Excelso-SUPREMO-10000-gr-478265_a.jpg?v=638739923084500000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz SUPREMO (12500 gr)",
+      "Precio": 56800,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26667269-300-auto/ARROZ-BLANCO-SUPREMO-12500-Gramos-937259_a.jpg?v=638739926065900000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz SUPREMO (2500 gr)",
+      "Precio": 11150,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/25566945-300-auto/Arroz-Mas-Vitarroz-SUPREMO-2500-gr-3516582_a.jpg?v=638675323002070000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz SUPREMO (2500 gr)",
+      "Precio": 20250,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/25566946-300-auto/Arroz-Premium-SUPREMO-2500-gr-3516583_a.jpg?v=638675323076300000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz SUPREMO (5000 gr)",
+      "Precio": 22250,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26659289-300-auto/Arroz-Excelso-Tradicional-X-5000-gr-478191_a.jpg?v=638739814494670000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz SUSI (100 gr)",
+      "Precio": 13700,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26121511-300-auto/Arroz-Soplado-74211_a.jpg?v=638712217478970000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz SUSI (150 gr)",
+      "Precio": 16600,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26121755-300-auto/Arroz-Mini-129790_a.jpg?v=638712220491100000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz Sonora Premium ARROZ SONORA PREMIUM (1000 gr)",
+      "Precio": 6090,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/25566827-300-auto/Arroz-Sonora-Premium-SONORA-1000-gr-3449216_a.jpg?v=638675318097270000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz Soplado SUSI Azúcar (25 gr)",
+      "Precio": 2600,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/27364191-300-auto/Arroz-Soplado-SUSI-25-gr-3669841_a.jpg?v=638811030123930000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz Supremo SUPREMO Arroz Blanco (11250 gr)",
+      "Precio": 50700,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/25622404-300-auto/Arroz-Supremo-SUPREMO-Arroz-Blanco-11250-gr-3616671_a.jpg?v=638682549383300000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz Supremo SUPREMO Arroz Blanco (450 gr)",
+      "Precio": 2030,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/24876013-300-auto/Arroz-Supremo-SUPREMO-Arroz-Blanco-450-gr-3616672_a.jpg?v=638630438369830000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz TAEQ integral (1000 gr)",
+      "Precio": 6210,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26676865-300-auto/Arroz-Integral-TAEQ-1000-gr-3238610_a.jpg?v=638740051650200000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz TAILANDES Gourmet (3000 gr)",
+      "Precio": 19400,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26665880-300-auto/ARROZ-TIPO-GOURMET-969209_a.jpg?v=638739904410800000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz Tres Delicias Personal 300 gr",
+      "Precio": 9100,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/27500792-300-auto/ARROZ-TRES-DELICIAS-PERSONAL-300-Gramo-502090_a.jpg?v=638824155733300000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "Arroz. COMUNEROS (500 gr)",
+      "Precio": 2940,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26666965-300-auto/ARROZ-BLANCO-PREMIUM-COMUNEROS-500-Gramo-162242_a.jpg?v=638739922163870000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    },
+    {
+      "Nombre": "arroz CASTELLANO BLANCO (4000 gr)",
+      "Precio": 46900,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26674131-300-auto/Arroz-Blanco-CASTELLANO-4000-gr-3065375_a.jpg?v=638740020630370000",
+      "tienda": "Exito",
+      "tipoProducto": "arroz"
+    }
+  ]
+}

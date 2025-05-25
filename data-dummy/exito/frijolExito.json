@@ -1,0 +1,494 @@
+{
+  "frijolExito": [
+    {
+      "Nombre": "FRIJOL ANTIOQUENO ZENU 310 gr",
+      "Precio": 9100,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/27107324-300-auto/Frijol-Antioqueno-1341922_a.jpg?v=638785369387130000",
+      "tienda": "Exito",
+      "tipoProducto": "frijol"
+    },
+    {
+      "Nombre": "FRIJOL ANTIOQUENO ZENU 580 gr",
+      "Precio": 13550,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/27108129-300-auto/Frijol-Antioqueno-1341923_a.jpg?v=638785927505600000",
+      "tienda": "Exito",
+      "tipoProducto": "frijol"
+    },
+    {
+      "Nombre": "FRIJOL BOLA ROJA 500 gr",
+      "Precio": 18200,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/25523847-300-auto/FRIJOL-BOLA-ROJA-1504148_a.jpg?v=638671401809670000",
+      "tienda": "Exito",
+      "tipoProducto": "frijol"
+    },
+    {
+      "Nombre": "FRIJOL DESGRANADO 250 gr",
+      "Precio": 7180,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/27003534-300-auto/Frijol-Desgranado-Bandeja-X-250gr-616111_a.jpg?v=638772057758100000",
+      "tienda": "Exito",
+      "tipoProducto": "frijol"
+    },
+    {
+      "Nombre": "FRIJOL DESGRANADO 500 gr",
+      "Precio": 14340,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/25416766-300-auto/Frijol-Desgranado-500g-582334_a.jpg?v=638657251826770000",
+      "tienda": "Exito",
+      "tipoProducto": "frijol"
+    },
+    {
+      "Nombre": "FRIJOL MARITZA (454 gr)",
+      "Precio": 5450,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/25566885-300-auto/FRIJOL-MARITZA-454-gr-3554668_a.jpg?v=638675319138670000",
+      "tienda": "Exito",
+      "tipoProducto": "frijol"
+    },
+    {
+      "Nombre": "FRIJOL VERDE 700 gr",
+      "Precio": 5100,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/25418784-300-auto/Frijol-Verde-700g-1794_a.jpg?v=638657609812270000",
+      "tienda": "Exito",
+      "tipoProducto": "frijol"
+    },
+    {
+      "Nombre": "FRIJOLES MEXICANOS BAYOS LA SIERRA 560 gr",
+      "Precio": 14950,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26672709-300-auto/FRIJOLES-MEXICANOS-BAYOS-LA-SIERRA-560-Gramo-3005720_a.jpg?v=638740004691300000",
+      "tienda": "Exito",
+      "tipoProducto": "frijol"
+    },
+    {
+      "Nombre": "FRIJOLES REFRITOS CON CHILES OLD EL PASO MARCA EXCLUSIVA 453 gr",
+      "Precio": 25050,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/27164769-300-auto/Frijoles-Refritos-Con-Chiles-725522_a.jpg?v=638791366437830000",
+      "tienda": "Exito",
+      "tipoProducto": "frijol"
+    },
+    {
+      "Nombre": "FRIJOLES REFRITOS OLD EL PASO MARCA EXCLUSIVA 453 gr",
+      "Precio": 23850,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/27164773-300-auto/Frijoles-Refritos-726935_a.jpg?v=638791366465400000",
+      "tienda": "Exito",
+      "tipoProducto": "frijol"
+    },
+    {
+      "Nombre": "Frijol ABURRA (1000 gr)",
+      "Precio": 13600,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/25752071-300-auto/FRIJOL-CARGAMANTO-ROJO-808290_a.jpg?v=638696144740530000",
+      "tienda": "Exito",
+      "tipoProducto": "frijol"
+    },
+    {
+      "Nombre": "Frijol ABURRA (1000 gr)",
+      "Precio": 16550,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/25752579-300-auto/FRIJOL-CARGAMANTO-BLANCO-ABURR-ABURRA-1000-gr-611837_a.jpg?v=638696146656470000",
+      "tienda": "Exito",
+      "tipoProducto": "frijol"
+    },
+    {
+      "Nombre": "Frijol ABURRA (460 gr)",
+      "Precio": 3390,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/25566862-300-auto/Frijol-Caraota-Negro-ABURRA-460-gr-3533420_a.jpg?v=638675318758070000",
+      "tienda": "Exito",
+      "tipoProducto": "frijol"
+    },
+    {
+      "Nombre": "Frijol ABURRA (500 gr)",
+      "Precio": 4990,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/25566866-300-auto/Frijol-Zaragoza-ABURRA-500-gr-3533424_a.jpg?v=638675318835470000",
+      "tienda": "Exito",
+      "tipoProducto": "frijol"
+    },
+    {
+      "Nombre": "Frijol ABURRA (500 gr)",
+      "Precio": 7950,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/25566860-300-auto/Frijol-Bola-Roja-ABURRA-500-gr-3533418_a.jpg?v=638675318677700000",
+      "tienda": "Exito",
+      "tipoProducto": "frijol"
+    },
+    {
+      "Nombre": "Frijol ABURRA (500 gr)",
+      "Precio": 6500,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/25566864-300-auto/Frijol-Cargamanto-Importado-ABURRA-500-gr-3533422_a.jpg?v=638675318810500000",
+      "tienda": "Exito",
+      "tipoProducto": "frijol"
+    },
+    {
+      "Nombre": "Frijol ABURRA (500 gr)",
+      "Precio": 6392,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/25566865-300-auto/Frijol-Cargamanto-Rojo-ABURRA-500-gr-3533423_a.jpg?v=638675318822200000",
+      "tienda": "Exito",
+      "tipoProducto": "frijol"
+    },
+    {
+      "Nombre": "Frijol ABURRA (500 gr)",
+      "Precio": 4990,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26665379-300-auto/FRIJOL-BLANQUILLO-474770_a.jpg?v=638739897529430000",
+      "tienda": "Exito",
+      "tipoProducto": "frijol"
+    },
+    {
+      "Nombre": "Frijol ABURRA (500 gr)",
+      "Precio": 8490,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/25566863-300-auto/Frijol-Cargamanto-Blanco-ABURRA-500-gr-3533421_a.jpg?v=638675318770100000",
+      "tienda": "Exito",
+      "tipoProducto": "frijol"
+    },
+    {
+      "Nombre": "Frijol ABURRA (500 gr)",
+      "Precio": 5350,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/25566861-300-auto/Frijol-Cabecita-Negra-ABURRA-500-gr-3533419_a.jpg?v=638675318747870000",
+      "tienda": "Exito",
+      "tipoProducto": "frijol"
+    },
+    {
+      "Nombre": "Frijol BIO PLAZA MUNGO (500 gr)",
+      "Precio": 13650,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/25923969-300-auto/Frijol-Mungo-BIO-PLAZA-500-gr-3373993_a.jpg?v=638708388376870000",
+      "tienda": "Exito",
+      "tipoProducto": "frijol"
+    },
+    {
+      "Nombre": "Frijol DIANA Cargamento (500 gr)",
+      "Precio": 8060,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/25550876-300-auto/FRIJOL-CARGAMANTO-DIANA-500-gr-1744336_a.jpg?v=638672933138270000",
+      "tienda": "Exito",
+      "tipoProducto": "frijol"
+    },
+    {
+      "Nombre": "Frijol DIANA Frijol Bola Roja (3000 gr)",
+      "Precio": 46100,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/25556154-300-auto/Frijol-DIANA-Frijol-Bola-Roja-3000-gr-3597950_a.jpg?v=638673008013970000",
+      "tienda": "Exito",
+      "tipoProducto": "frijol"
+    },
+    {
+      "Nombre": "Frijol DIANA Zaragoza (500 gr)",
+      "Precio": 7700,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/25550877-300-auto/FRIJOL-ZARAGOZA-DIANA-500-gr-1744351_a.jpg?v=638672933149270000",
+      "tienda": "Exito",
+      "tipoProducto": "frijol"
+    },
+    {
+      "Nombre": "Frijol DIANA calima cuidadosamente seleccionados (1000 gr)",
+      "Precio": 16200,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/27182465-300-auto/Frijol-Diana-Cargamanto-Rojo-DIANA-1000-gr-3533993_a.jpg?v=638794015779500000",
+      "tienda": "Exito",
+      "tipoProducto": "frijol"
+    },
+    {
+      "Nombre": "Frijol DIANA calima cuidadosamente seleccionados (500 gr)",
+      "Precio": 6840,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/27183311-300-auto/Frijol-Calima-Lima-DIANA-500-gr-1744343_a.jpg?v=638796304557400000",
+      "tienda": "Exito",
+      "tipoProducto": "frijol"
+    },
+    {
+      "Nombre": "Frijol DIANA radical cuidadosamente seleccionado (1000 gr)",
+      "Precio": 16400,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/27182464-300-auto/FRIJOL-DIANA-BOLA-ROJA-1000-GR-1861676_a.jpg?v=638794015769570000",
+      "tienda": "Exito",
+      "tipoProducto": "frijol"
+    },
+    {
+      "Nombre": "Frijol DIANA radical cuidadosamente seleccionado (500 gr)",
+      "Precio": 8300,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/27183310-300-auto/Frijol-DIANA-500-gr-1408941_a.jpg?v=638796304546430000",
+      "tienda": "Exito",
+      "tipoProducto": "frijol"
+    },
+    {
+      "Nombre": "Frijol EKONO granos seleccionados (454 gr)",
+      "Precio": 5300,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26369613-300-auto/Frijol-Sabanero-Rojo-EKONO-454-gr-3054283_a.jpg?v=638726613261230000",
+      "tienda": "Exito",
+      "tipoProducto": "frijol"
+    },
+    {
+      "Nombre": "Frijol EKONO granos seleccionados (454 gr)",
+      "Precio": 5990,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26369612-300-auto/Frijol-Cargamanto-Blanco-EKONO-454-gr-3054276_a.jpg?v=638726613217100000",
+      "tienda": "Exito",
+      "tipoProducto": "frijol"
+    },
+    {
+      "Nombre": "Frijol En Vaina A Granel.",
+      "Precio": 7260,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/27293440-300-auto/Frijol-En-Vaina-A-Granel-X-100gr-1045_a.jpg?v=638804050415170000",
+      "tienda": "Exito",
+      "tipoProducto": "frijol"
+    },
+    {
+      "Nombre": "Frijol FRESCAMPO cabeza negra (1000 gr)",
+      "Precio": 7000,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/25644091-300-auto/Frijol-Cabeza-Negra-1350263_a.jpg?v=638687685224930000",
+      "tienda": "Exito",
+      "tipoProducto": "frijol"
+    },
+    {
+      "Nombre": "Frijol FRESCAMPO del campo granos seleccionados (1000 gr)",
+      "Precio": 7390,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/25644078-300-auto/Frijol-Blanquillo-1121611_a.jpg?v=638687685009730000",
+      "tienda": "Exito",
+      "tipoProducto": "frijol"
+    },
+    {
+      "Nombre": "Frijol FRESCAMPO del campo granos seleccionados (1000 gr)",
+      "Precio": 11250,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/25644067-300-auto/Frijol-Bola-Roja-X-1000-gr-1121599_a.jpg?v=638687684689500000",
+      "tienda": "Exito",
+      "tipoProducto": "frijol"
+    },
+    {
+      "Nombre": "Frijol FRESCAMPO del campo granos seleccionados (1000 gr)",
+      "Precio": 10950,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/25644070-300-auto/Frijol-Sabanero-Rojo-1121602_a.jpg?v=638687684812770000",
+      "tienda": "Exito",
+      "tipoProducto": "frijol"
+    },
+    {
+      "Nombre": "Frijol FRESCAMPO del campo granos seleccionados (1000 gr)",
+      "Precio": 7690,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/25644072-300-auto/Frijol-Nima-1121603_a.jpg?v=638687684833370000",
+      "tienda": "Exito",
+      "tipoProducto": "frijol"
+    },
+    {
+      "Nombre": "Frijol FRESCAMPO del campo granos seleccionados (500 gr)",
+      "Precio": 4490,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/25644063-300-auto/Frijol-Blanquillo-1121594_a.jpg?v=638687684628970000",
+      "tienda": "Exito",
+      "tipoProducto": "frijol"
+    },
+    {
+      "Nombre": "Frijol FRESCAMPO del campo granos seleccionados (500 gr)",
+      "Precio": 4900,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/25644052-300-auto/Frijol-Sabanero-Rojo-1121544_a.jpg?v=638687684364870000",
+      "tienda": "Exito",
+      "tipoProducto": "frijol"
+    },
+    {
+      "Nombre": "Frijol FRESCAMPO del campo granos seleccionados (500 gr)",
+      "Precio": 3950,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/25644065-300-auto/Frijol-Cabeza-Negra-1121596_a.jpg?v=638687684651930000",
+      "tienda": "Exito",
+      "tipoProducto": "frijol"
+    },
+    {
+      "Nombre": "Frijol FRESCAMPO granos seleccionados (1000 gr)",
+      "Precio": 6550,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/25644080-300-auto/Frijol-Caraota-1121613_a.jpg?v=638687685033770000",
+      "tienda": "Exito",
+      "tipoProducto": "frijol"
+    },
+    {
+      "Nombre": "Frijol FRESCAMPO granos seleccionados (1000 gr)",
+      "Precio": 9900,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/25644073-300-auto/Frijol-Zaragoza-1121605_a.jpg?v=638687684857870000",
+      "tienda": "Exito",
+      "tipoProducto": "frijol"
+    },
+    {
+      "Nombre": "Frijol FRESCAMPO granos seleccionados (1000 gr)",
+      "Precio": 14950,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/25644069-300-auto/Frijol-Cargamanto-Blanco-1121601_a.jpg?v=638687684784900000",
+      "tienda": "Exito",
+      "tipoProducto": "frijol"
+    },
+    {
+      "Nombre": "Frijol FRESCAMPO granos seleccionados (1000 gr)",
+      "Precio": 10900,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/25644068-300-auto/Frijol-Cargamanto-Rosado-1121600_a.jpg?v=638687684751300000",
+      "tienda": "Exito",
+      "tipoProducto": "frijol"
+    },
+    {
+      "Nombre": "Frijol FRESCAMPO granos seleccionados (500 gr)",
+      "Precio": 4580,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26659349-300-auto/Frijol-Zaragoza-1121546_a.jpg?v=638739815406270000",
+      "tienda": "Exito",
+      "tipoProducto": "frijol"
+    },
+    {
+      "Nombre": "Frijol FRESCAMPO granos seleccionados (500 gr)",
+      "Precio": 5790,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/25644049-300-auto/Frijol-Bola-Roja-1121541_a.jpg?v=638687684330530000",
+      "tienda": "Exito",
+      "tipoProducto": "frijol"
+    },
+    {
+      "Nombre": "Frijol FRESCAMPO granos seleccionados (500 gr)",
+      "Precio": 3840,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/25644054-300-auto/Frijol-Nima-1121545_a.jpg?v=638687684387300000",
+      "tienda": "Exito",
+      "tipoProducto": "frijol"
+    },
+    {
+      "Nombre": "Frijol FRESCAMPO granos seleccionados (500 gr)",
+      "Precio": 3280,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/25644066-300-auto/Frijol-Caraota-X-500-gr-1121597_a.jpg?v=638687684672170000",
+      "tienda": "Exito",
+      "tipoProducto": "frijol"
+    },
+    {
+      "Nombre": "Frijol FRESCAMPO granos seleccionados (500 gr)",
+      "Precio": 7990,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/25644051-300-auto/Frijol-Cargamanto-Blanco-1121543_a.jpg?v=638687684348000000",
+      "tienda": "Exito",
+      "tipoProducto": "frijol"
+    },
+    {
+      "Nombre": "Frijol FRESCAMPO granos seleccionados (500 gr)",
+      "Precio": 5540,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/25644047-300-auto/Frijol-Cargamanto-Rosado-1121542_a.jpg?v=638687684312270000",
+      "tienda": "Exito",
+      "tipoProducto": "frijol"
+    },
+    {
+      "Nombre": "Frijol LA FLORESTA* (500 gr)",
+      "Precio": 5400,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/25573945-300-auto/Frijol-Calima-LA-FLORESTA-500-gr-337995_a.jpg?v=638675731033970000",
+      "tienda": "Exito",
+      "tipoProducto": "frijol"
+    },
+    {
+      "Nombre": "Frijol LA FLORESTA* (500 gr)",
+      "Precio": 9010,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/25573944-300-auto/Frijol-Bolon-Roj-LA-FLORESTA-500-gr-337979_a.jpg?v=638675730941170000",
+      "tienda": "Exito",
+      "tipoProducto": "frijol"
+    },
+    {
+      "Nombre": "Frijol LA FLORESTA* (500 gr)",
+      "Precio": 6990,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/25573940-300-auto/Frijol-Cargamant-LA-FLORESTA-500-gr-270591_a.jpg?v=638675730873300000",
+      "tienda": "Exito",
+      "tipoProducto": "frijol"
+    },
+    {
+      "Nombre": "Frijol LA FLORESTA* (500 gr)",
+      "Precio": 4200,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/25573932-300-auto/Frijol-Carota-LA-FLORESTA-500-gr-26304_a.jpg?v=638675730679230000",
+      "tienda": "Exito",
+      "tipoProducto": "frijol"
+    },
+    {
+      "Nombre": "Frijol LA FLORESTA* (500 gr)",
+      "Precio": 4850,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/25573924-300-auto/Frijol-Blanquillo-LA-FLORESTA-500-gr-921166_a.jpg?v=638675730541100000",
+      "tienda": "Exito",
+      "tipoProducto": "frijol"
+    },
+    {
+      "Nombre": "Frijol MARITZA Bola Roja (454 gr)",
+      "Precio": 7390,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26666795-300-auto/FRIJOL-BOLA-ROJA-MARITZA-454-gr-1234480_a.jpg?v=638739919277230000",
+      "tienda": "Exito",
+      "tipoProducto": "frijol"
+    },
+    {
+      "Nombre": "Frijol Negro Enlatado TO EAT MARCA EXCLUSIVA 400 gr",
+      "Precio": 7210,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26676862-300-auto/Frijol-Negro-Enlatado-TO-EAT-MARCA-EXCLUSIVA-400-gr-3238360_a.jpg?v=638740051595800000",
+      "tienda": "Exito",
+      "tipoProducto": "frijol"
+    },
+    {
+      "Nombre": "Frijol Refrito Azteca x 300g AZTECA 300 gr",
+      "Precio": 10950,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26670412-300-auto/FRIJOL-REFRITO-AZTECA-300-gr-1617612_a.jpg?v=638739971070070000",
+      "tienda": "Exito",
+      "tipoProducto": "frijol"
+    },
+    {
+      "Nombre": "Frijol Rojo Enlatado TO EAT MARCA EXCLUSIVA 400 gr",
+      "Precio": 7210,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26676864-300-auto/Frijol-Rojo-Enlatado-TO-EAT-MARCA-EXCLUSIVA-400-gr-3238362_a.jpg?v=638740051625570000",
+      "tienda": "Exito",
+      "tipoProducto": "frijol"
+    },
+    {
+      "Nombre": "Frijoles Antioqueños ABURRA 300 gr",
+      "Precio": 6300,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26681564-300-auto/Frijoles-Antioquenos-ABURRA-300-gr-3593538_a.jpg?v=638740108037800000",
+      "tienda": "Exito",
+      "tipoProducto": "frijol"
+    },
+    {
+      "Nombre": "Frijoles Antioqueños ABURRA 580 gr",
+      "Precio": 9170,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26681567-300-auto/Frijoles-Antioquenos-ABURRA-580-gr-3593539_a.jpg?v=638740108055130000",
+      "tienda": "Exito",
+      "tipoProducto": "frijol"
+    },
+    {
+      "Nombre": "Frijoles Antioqueños AZTECA 300 gr",
+      "Precio": 7820,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26680474-300-auto/Frijoles-Antioquenos-AZTECA-300-gr-3514401_a.jpg?v=638740094553600000",
+      "tienda": "Exito",
+      "tipoProducto": "frijol"
+    },
+    {
+      "Nombre": "Frijoles Antioqueños SAN JORGE 580 gr",
+      "Precio": 14450,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26885371-300-auto/Frijoles-Antioquenos-SAN-JORGE-580-gr-3113476_a.jpg?v=638762805837400000",
+      "tienda": "Exito",
+      "tipoProducto": "frijol"
+    },
+    {
+      "Nombre": "Frijoles Chile Con Carne FRESCAMPO 300 gr",
+      "Precio": 8920,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26679302-300-auto/Frijoles-Chile-Con-Carne-FRESCAMPO-300-gr-3401546_a.jpg?v=638740079908830000",
+      "tienda": "Exito",
+      "tipoProducto": "frijol"
+    },
+    {
+      "Nombre": "Frijoles Con Plátano Maduro SAN JORGE 300 gr",
+      "Precio": 10600,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26885613-300-auto/Frijoles-Con-Platano-Maduro-SAN-JORGE-300-gr-3607176_a.jpg?v=638762808668030000",
+      "tienda": "Exito",
+      "tipoProducto": "frijol"
+    },
+    {
+      "Nombre": "Frijoles Con Tocino FRESCAMPO 300 gr",
+      "Precio": 7450,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26885651-300-auto/Frijoles-Con-Tocino-FRESCAMPO-Frijol-Con-Tocino-300-gr-3665326_a.jpg?v=638762809203030000",
+      "tienda": "Exito",
+      "tipoProducto": "frijol"
+    },
+    {
+      "Nombre": "Frijoles Negros AZTECA 300 gr",
+      "Precio": 8250,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26680477-300-auto/Frijoles-Negros-AZTECA-300-gr-3514395_a.jpg?v=638740094586400000",
+      "tienda": "Exito",
+      "tipoProducto": "frijol"
+    },
+    {
+      "Nombre": "Frijoles Refritos Bayos LA SIERRA 430 gr",
+      "Precio": 17700,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26667729-300-auto/Frijoles-Bayos-Refritos-x-430-g-1543224_a.jpg?v=638739932413830000",
+      "tienda": "Exito",
+      "tipoProducto": "frijol"
+    },
+    {
+      "Nombre": "Frijoles Refritos Negros LA SIERRA 430 gr",
+      "Precio": 17700,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/27165299-300-auto/Frijoles-Negros-Refritos-x-430-g-1543225_a.jpg?v=638791432459630000",
+      "tienda": "Exito",
+      "tipoProducto": "frijol"
+    },
+    {
+      "Nombre": "Frijoles Tipicos Veganos PURO VERDE 400 gr",
+      "Precio": 13600,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26275651-300-auto/Frijoles-Tipicos-Veganos-PURO-VERDE-400-Gramo-3011894_a.jpg?v=638719726137030000",
+      "tienda": "Exito",
+      "tipoProducto": "frijol"
+    },
+    {
+      "Nombre": "Frijoles Tocino SAN JORGE 300 gr",
+      "Precio": 7850,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26885368-300-auto/Frijoles-Tocino-SAN-JORGE-300-gr-3113474_a.jpg?v=638762805817500000",
+      "tienda": "Exito",
+      "tipoProducto": "frijol"
+    }
+  ]
+}

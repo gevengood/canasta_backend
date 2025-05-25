@@ -1,0 +1,948 @@
+{ "arrozCarulla":[
+  {
+    "Nombre": "ARROZ LEOPARDO (2500 gr)",
+    "Precio": 14850,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19585699-300-auto/ARROZ-BLANCO-LEOPARDO-2500-Gramo-525054_a.jpg?v=638739925087030000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "ARROZ LEOPARDO (5000 gr)",
+    "Precio": 25200,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19585700-300-auto/ARROZ-BLANCO-LEOPARDO-5000-Gramo-525425_a.jpg?v=638739925098330000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "ARROZ RICESELECT JASMATI (907 gr)",
+    "Precio": 32100,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19775498-300-auto/ARROZ-JASMATI-787700_a.jpg?v=638756637551570000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "ARROZ SONORA (2500 gr)",
+    "Precio": 11500,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18574805-300-auto/ARROZ-2500GR-SONORA-2500-gr-3351456_a.jpg?v=638675317340000000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "ARROZ SUSHI NISHIKI ARROZ ALMIDONADO (907 gr)",
+    "Precio": 20962,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19775493-300-auto/Arroz-Para-Sushi-907-gr-913134_a.jpg?v=638756637508200000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Alimento Adul Cordero, Arroz y Salmon CHUNKY 12000 gr",
+    "Precio": 170100,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19857874-300-auto/Alimento-perrocordero-arroz-salmon-x-12-kg-1555396_a.jpg?v=638767298257600000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arepas SARY CONSCIENTE de arroz integral x5und (375 gr)",
+    "Precio": 12000,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19214159-300-auto/Arepa-Arroz-Integral-SARY-375-gr-3119578_a.jpg?v=638720407834500000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz ALCAGUETE BASMATI (500 gr)",
+    "Precio": 19600,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18560320-300-auto/Arroz-Basmati-ALCAGUETE-500-gr-3229976_a.jpg?v=638672954104770000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz ARROZ 10 blanco clasificado y seleccionado (1000 gr)",
+    "Precio": 5670,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20064174-300-auto/Arroz-Blanco-1000-gr-582946_a.jpg?v=638796304339770000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz ARROZ 10 blanco clasificado y seleccionado (2500 gr)",
+    "Precio": 15900,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20064189-300-auto/ARROZ-PREMIUM-985720_a.jpg?v=638796304489200000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz BLANQUITA (1000 gr)",
+    "Precio": 6000,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18574661-300-auto/Arroz-premium-BLANQUITA-1000-gr-3034022_a.jpg?v=638675315338630000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz BLANQUITA (1000 gr)",
+    "Precio": 4300,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19585859-300-auto/Arroz-BLANQUITA-1000-gr-550860_a.jpg?v=638739927973400000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz BLANQUITA (1000 gr)",
+    "Precio": 4730,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19585768-300-auto/Arroz-Integral-BLANQUITA-1000-gr-172011_a.jpg?v=638739926475870000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz BLANQUITA (12500 gr)",
+    "Precio": 52500,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19585953-300-auto/ARROZ-BLANCO-BLANQUITA-12500-Gramos-390859_a.jpg?v=638739929402530000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz BLANQUITA (3000 gr)",
+    "Precio": 12400,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19585860-300-auto/Arroz-Blanco-BLANQUITA-3000-gr-550872_a.jpg?v=638739927984630000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz BLANQUITA (5000 gr)",
+    "Precio": 23200,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19585304-300-auto/Arroz-X5000Gr-BLANQUITA-5000-gr-455680_a.jpg?v=638739919002900000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz BLANQUITA (6000 gr)",
+    "Precio": 27850,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18574642-300-auto/Arroz-Blanco-BLANQUITA-6000-gr-352227_a.jpg?v=638675314974770000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz Blanco ARROZ SONORA PREMIUM Premium (12500 gr)",
+    "Precio": 79500,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18563589-300-auto/Arroz-Blanco-ARROZ-SONORA-PREMIUM-Premium-12500-gr-3586687_a.jpg?v=638673006583630000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz Blanco ARROZ SONORA PREMIUM Premium (2500 gr)",
+    "Precio": 16000,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18562326-300-auto/Arroz-Premium-ARROZ-SONORA-PREMIUM-2500-gr-3481972_a.jpg?v=638672984481470000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz Blanco ARROZ SONORA PREMIUM Premium (500 gr)",
+    "Precio": 3200,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18563396-300-auto/Arroz-Blanco-ARROZ-SONORA-PREMIUM-Premium-500-gr-3568706_a.jpg?v=638673002567800000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz Blanco ARROZ SONORA SUPER PREMIUM Super Premium (1000 gr)",
+    "Precio": 9700,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18562327-300-auto/Arroz-Super-Premium-ARROZ-SONORA-PREMIUM-1000-gr-3481973_a.jpg?v=638672984510630000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz Blanco ARROZ SONORA SUPER PREMIUM Super Premium (2500 gr)",
+    "Precio": 23500,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18562328-300-auto/Arroz-Super-Premium-2500g-ARROZ-SONORA-PREMIUM-2500-gr-3481974_a.jpg?v=638672984531970000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz Blanco PINILLAR Premium (2500 gr)",
+    "Precio": 16050,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18562325-300-auto/Arroz-Premium-PINILLAR-2500-gr-3481971_a.jpg?v=638672984417770000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz CARIBE (5000 gr)",
+    "Precio": 28900,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19577755-300-auto/Arroz-Caribe-Enriquecido-5-kl-112939_a.jpg?v=638739814750130000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz CARIBE blanco vita+ (1000 gr)",
+    "Precio": 5900,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20063488-300-auto/Arroz-Caribe-Enriquecido-1000-gr-112374_a.jpg?v=638794015486500000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz CARULLA blanco (1000 gr)",
+    "Precio": 4420,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19594143-300-auto/Arroz-Blanco-CARULLA-1000-gr-3181783_a.jpg?v=638740041831000000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz CARULLA blanco (2500 gr)",
+    "Precio": 9140,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19187689-300-auto/Arroz-Blanco-CARULLA-2500-gr-3534188_a.jpg?v=638719662749670000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz CARULLA blanco (5000 gr)",
+    "Precio": 18290,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19594144-300-auto/Arroz-Blanco-CARULLA-5000-gr-3181785_a.jpg?v=638740041841130000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz CASTELLANO basmati (500 gr)",
+    "Precio": 21400,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20063482-300-auto/ARROZ-BASMATI-CASTELLANO-500-Gramo-1787141_a.jpg?v=638794015415730000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz CASTELLANO blanco premium (1000 gr)",
+    "Precio": 12200,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20063492-300-auto/Arroz-Castellano-1000-gr-981780_a.jpg?v=638794015524530000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz CASTELLANO blanco premium (2500 gr)",
+    "Precio": 29650,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20063495-300-auto/Arroz-Blanco-Natural-Bolsa-X-2500-G-923594_a.jpg?v=638794015549800000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz CASTELLANO blanco premium (500 gr)",
+    "Precio": 5870,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20063496-300-auto/Arroz-Castellano-Libra-CASTELLANO-500-gr-3533992_a.jpg?v=638794015560270000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz CASTELLANO integral premium (1000 gr)",
+    "Precio": 11400,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20063493-300-auto/Arroz-Integral-1000-gr-205354_a.jpg?v=638794015536370000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz CASTELLANO jazmín (500 gr)",
+    "Precio": 14300,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20063485-300-auto/ARROZ-JAZMIN-CASTELLANO-500-Gramo-1787148_a.jpg?v=638794015451470000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz CASTELLANO para risotto (500 gr)",
+    "Precio": 21700,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20063483-300-auto/ARROZ-RISOTTO-CASTELLANO-500-Gramo-1787146_a.jpg?v=638794015428800000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz CASTELLANO para sushi (500 gr)",
+    "Precio": 14200,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20063484-300-auto/ARROZ-SUSHI-CASTELLANO-500-Gramo-1787147_a.jpg?v=638794015439670000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz COLAVITA (500 gr)",
+    "Precio": 24500,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19883710-300-auto/Arroz-Arborio-COLAVITA-500-gr-1861846_a.jpg?v=638768927024630000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz COMUNEROS (5000 gr)",
+    "Precio": 31600,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20317472-300-auto/ARROZ-BLANCO-PREMIUM-COMUNEROS-5000-Gramo-162228_a.jpg?v=638820447093700000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz Con Pollo FRIKO 450 gr",
+    "Precio": 26300,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19188557-300-auto/Arroz-Con-Pollo-FRIKO-450-gr-3266815_a.jpg?v=638719686702800000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz DIANA BLANCO VITAMOR (2500 gr)",
+    "Precio": 11300,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18562305-300-auto/Arroz-Blanco-Vitamor-DIANA-2500-gr-3479060_a.jpg?v=638672984113500000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz DIANA Blanco (1000 gr)",
+    "Precio": 7600,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19582892-300-auto/ARROZ-FIBRA-315737_a.jpg?v=638739886855130000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz DIANA Cosecha Especial (1000 gr)",
+    "Precio": 11700,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18563667-300-auto/Arroz-DIANA-Cosecha-Especial-1000-gr-3594363_a.jpg?v=638673007766700000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz DIANA Cosecha Especial (2500 gr)",
+    "Precio": 31600,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18563668-300-auto/Arroz-DIANA-Cosecha-Especial-2500-gr-3594364_a.jpg?v=638673007795230000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz DIANA Cosecha Especial (500 gr)",
+    "Precio": 6200,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18563669-300-auto/Arroz-DIANA-Cosecha-Especial-500-gr-3594365_a.jpg?v=638673007828230000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz DIANA blanco arroba (12500 gr)",
+    "Precio": 55900,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20063502-300-auto/Arroz-Blanco-Arroba-12500-gr-256676_a.jpg?v=638794015636800000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz DIANA blanco premium (1000 gr)",
+    "Precio": 6180,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20063497-300-auto/Arroz-Premium-1000-gr-730954_a.jpg?v=638794015573130000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz DIANA blanco premium (2500 gr)",
+    "Precio": 17900,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20063503-300-auto/Arroz-Premium-2500-gr-587016_a.jpg?v=638794015649130000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz DIANA blanco premium (4000 gr)",
+    "Precio": 30100,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20063505-300-auto/Arroz-Diana-Premium-4-kg-715215_a.jpg?v=638794015671200000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz DIANA blanco vitamor (1000 gr)",
+    "Precio": 4900,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20063498-300-auto/Arroz-Diana-1000-gr-552155_a.jpg?v=638794015583470000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz DIANA blanco vitamor (10000 gr)",
+    "Precio": 47900,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20063501-300-auto/Arroz-Diana-10-Kilos-X-1000-gr-490777_a.jpg?v=638794015622870000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz DIANA blanco vitamor (3000 gr)",
+    "Precio": 15300,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20063504-300-auto/Arroz-Blanco-Bolsa-X-3000g-130407_a.jpg?v=638794015659800000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz DIANA blanco vitamor (500 gr)",
+    "Precio": 2300,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20063506-300-auto/Arroz-Diana-500-gr-445117_a.jpg?v=638794015682070000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz DIANA blanco vitamor (5000 gr)",
+    "Precio": 23500,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20063508-300-auto/Arroz-Diana-5000-gr-814670_a.jpg?v=638794015706300000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz DIANA con fideos (460 gr)",
+    "Precio": 3060,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20063518-300-auto/ARROZ-FID-PQ-25U-X-460-G-DIANA-460-gr-3225059_a.jpg?v=638794015821000000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz DIANA con sabor a coco (1000 gr)",
+    "Precio": 6970,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20063499-300-auto/Arroz-Diana-Premium-Coco-635927_a.jpg?v=638794015593930000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz DIANA con sabor a coco (500 gr)",
+    "Precio": 4100,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20063507-300-auto/Arroz-Diana-Premium-Coco-Pqno-635818_a.jpg?v=638794015695270000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz DIANA integral (1000 gr)",
+    "Precio": 7500,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20063500-300-auto/Arroz-Integral-1244239_a.jpg?v=638794015606130000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz DONA PEPA parbolizado (1000 gr)",
+    "Precio": 6900,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20064182-300-auto/Arroz-Parbolizado-X-1kg-551004_a.jpg?v=638796304423130000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz DONA PEPA parbolizado (3000 gr)",
+    "Precio": 18550,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20064172-300-auto/Arroz-Parbolizado-3000-gr-22078_a.jpg?v=638796304315370000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz DONA PEPA parbolizado (5000 gr)",
+    "Precio": 32000,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20064187-300-auto/ARROZ-PARBORIZADO-120708_a.jpg?v=638796304468870000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz EKONO blanco (11350 gr)",
+    "Precio": 37490,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19594140-300-auto/Arroz-Blanco-Arroba-EKONO-11350-gr-3181791_a.jpg?v=638740041797030000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz EKONO blanco (2000 gr)",
+    "Precio": 6590,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19270520-300-auto/Arroz-Blanco-EKONO-2000-gr-3534190_a.jpg?v=638726575250530000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz EXITO MARCA PROPIA blanco (5000 gr)",
+    "Precio": 18290,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19594142-300-auto/Arroz-Blanco-EXITO-MARCA-PROPIA-5000-gr-3181780_a.jpg?v=638740041820270000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz FEDERAL Integral (1000 gr)",
+    "Precio": 11500,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19585469-300-auto/Arroz-integral-x-1000-gr-1465840_a.jpg?v=638739921708170000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz FEDERAL Premium alto rendimiento (1000 gr)",
+    "Precio": 7500,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19589267-300-auto/Arroz-premium-alto-rendimiento-x-1000-gr-1739432_a.jpg?v=638739977013530000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz FEDERAL Premium alto rendimiento (2500 gr)",
+    "Precio": 21700,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19589268-300-auto/Arroz-premium-alto-rendimiento-x-2500-gr-1739434_a.jpg?v=638739977033900000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz FEDERAL Premium extra gourmet (1000 gr)",
+    "Precio": 12700,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18553569-300-auto/Arroz-Extra-Gourmet-1351206_a.jpg?v=638672879916400000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz FEDERAL Premium extra gourmet (2500 gr)",
+    "Precio": 28300,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19577809-300-auto/Arroz-Extra-Gourmet-1281897_a.jpg?v=638739815522300000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz FLOR HUILA blanco (1000 gr)",
+    "Precio": 5130,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20064181-300-auto/Arroz-Flor-Huila-1000-gr-796712_a.jpg?v=638796304412500000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz FLOR HUILA blanco (10000 gr)",
+    "Precio": 48900,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20064188-300-auto/ARROZ-BLANCO-283305_a.jpg?v=638796304478270000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz FLOR HUILA blanco (12500 gr)",
+    "Precio": 55900,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20064190-300-auto/ARROZ-ARROBA-FLOR-HUILA-12500-Gramos-512210_a.jpg?v=638796304499130000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz FLOR HUILA blanco (3000 gr)",
+    "Precio": 15200,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20064180-300-auto/Arroz-Flor-Huila-3000-gr-5855_a.jpg?v=638796304402100000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz FLOR HUILA blanco (500 gr)",
+    "Precio": 2400,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20064186-300-auto/Arroz-663256_a.jpg?v=638796304459170000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz FLOR HUILA blanco (5000 gr)",
+    "Precio": 23900,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20064171-300-auto/Arroz-Blanco-5000-gr-199000_a.jpg?v=638796304298500000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz FLOR HUILA integral (1000 gr)",
+    "Precio": 6000,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20064193-300-auto/ARROZ-INTEGRAL-846408_a.jpg?v=638796304530770000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz FRESCAMPO blanco (11350 gr)",
+    "Precio": 41980,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18629073-300-auto/Arroz-Blanco-Arroba-FRESCAMPO-11350-gr-3181788_a.jpg?v=638687685411830000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz FRESCAMPO blanco (2500 gr)",
+    "Precio": 11900,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18628900-300-auto/Arroz-Blanco-FRESCAMPO-2500-gr-3534189_a.jpg?v=638687667940200000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz FRESCAMPO blanco (454 gr)",
+    "Precio": 1670,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18629074-300-auto/Arroz-Blanco-FRESCAMPO-454-gr-3181790_a.jpg?v=638687685443800000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz FRESCAMPO blanco (5000 gr)",
+    "Precio": 18290,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18629072-300-auto/Arroz-Blanco-FRESCAMPO-5000-gr-3181784_a.jpg?v=638687685362470000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz GOLONDRINA (2500 gr)",
+    "Precio": 9900,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18574919-300-auto/Arroz-GOLONDRINA-2500-gr-3555441_a.jpg?v=638675319143730000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz GOLONDRINA (454 gr)",
+    "Precio": 2100,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18574920-300-auto/Arroz-GOLONDRINA-454-gr-3555442_a.jpg?v=638675319153930000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz GOLONDRINA Blanco (11250 gr)",
+    "Precio": 50500,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18469723-300-auto/Arroz-GOLONDRINA-Blanco-11250-gr-3630103_a.jpg?v=638663685858670000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz GOLONDRINA Blanco (450 gr)",
+    "Precio": 2100,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18469724-300-auto/Arroz-GOLONDRINA-Blanco-450-gr-3630104_a.jpg?v=638663685893330000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz GOLONDRINA Paca (11350 gr)",
+    "Precio": 51800,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18563674-300-auto/Arroz-GOLONDRINA-Paca-11350-gr-3595241_a.jpg?v=638673007873600000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz Integral ARROZ SONORA PREMIUM (1000 gr)",
+    "Precio": 10800,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18574656-300-auto/Arroz-Integral-SONORA-1000-Gramo-3008456_a.jpg?v=638675315250400000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz Karavansay Arroz Integral (500 gr)",
+    "Precio": 10800,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20051269-300-auto/Arroz-Integral-Con-Quinua-389890_a.jpg?v=638792092458800000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz LA CUNA (1000 gr)",
+    "Precio": 27700,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19584889-300-auto/ARROZ-SABOR-SOLLANA-600570_a.jpg?v=638739913358830000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz MONTICELLO carnaroli formagi (210 gr)",
+    "Precio": 21300,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18626047-300-auto/Arroz-Carnaroli-Formagi-MONTICELLO-210-gr-3375228_a.jpg?v=638684885504800000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz Oriental CAZUELITAS 300 gr",
+    "Precio": 21800,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19188790-300-auto/Arroz-Oriental-x-300gr-Cazuelitas-en-Casa-CAZUELITAS-300-gr-3599756_a.jpg?v=638719690679130000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz PINILLAR (1000 gr)",
+    "Precio": 5000,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19585918-300-auto/Arroz-PINILLAR-1000-gr-347473_a.jpg?v=638739928862900000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz PINILLAR (3000 gr)",
+    "Precio": 13950,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19585721-300-auto/Arroz-Blanco-PINILLAR-3000-gr-506830_a.jpg?v=638739925569400000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz PINILLAR (500 gr)",
+    "Precio": 2400,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19585606-300-auto/Arroz-Blanco-PINILLAR-500-gr-534509_a.jpg?v=638739923691330000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz PINILLAR (5000 gr)",
+    "Precio": 22950,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19584533-300-auto/ARROZ-506842_a.jpg?v=638739907687300000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz PLATINO blanco (1000 gr)",
+    "Precio": 6700,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20064176-300-auto/Arroz-Tipo-Gourmet-397124_a.jpg?v=638796304360770000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz PLATINO blanco premium (2500 gr)",
+    "Precio": 15400,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20064192-300-auto/ARROZ-PREMIUM-845837_a.jpg?v=638796304520430000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz Pomona tipo risotto (900 gr)",
+    "Precio": 37800,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19595689-300-auto/Arroz-Tipo-Risotto-Pomona-900-gr-3285093_a.jpg?v=638740060211230000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz QUIJOTE Blanco (11250 gr)",
+    "Precio": 43800,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18600621-300-auto/Arroz-Blanco-QUIJOTE-11250-gr-3544910_a.jpg?v=638678157743230000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz QUIJOTE Blanco (450 gr)",
+    "Precio": 1800,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18600622-300-auto/Arroz-QUIJOTE-450-gr-3555443_a.jpg?v=638678160726170000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz RICESELECT (907 gr)",
+    "Precio": 28575,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19776841-300-auto/ARROZ-ORGANICO-JASMATI-139560_a.jpg?v=638757477201470000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz RICESELECT (907 gr)",
+    "Precio": 27525,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19584311-300-auto/ARROZ-INTEGRAL-TEXMATI-787686_a.jpg?v=638739904151630000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz ROA blanco fortiplus (1000 gr)",
+    "Precio": 5070,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20064177-300-auto/Arroz-Roa-1-Kilo-715788_a.jpg?v=638796304371070000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz ROA blanco fortiplus (10000 gr)",
+    "Precio": 48900,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20064191-300-auto/Arroz-Blanco-ROA-10000-Gramo-583252_a.jpg?v=638796304509000000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz ROA blanco fortiplus (3000 gr)",
+    "Precio": 14800,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20064179-300-auto/Arroz-Blanco-Fortificado-X-3000-G-694991_a.jpg?v=638796304391570000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz ROA blanco fortiplus (500 gr)",
+    "Precio": 2200,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20064175-300-auto/Arroz-Blanco-X-500-gr-582947_a.jpg?v=638796304350230000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz ROA blanco fortiplus (5000 gr)",
+    "Precio": 24000,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20064178-300-auto/Arroz-Fortificado-Roa-Bolsa-X-5000g-722262_a.jpg?v=638796304380630000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz ROA con coco listo para preparar (300 gr)",
+    "Precio": 12400,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20063509-300-auto/Arroz-Con-Coco-585525_a.jpg?v=638794015717930000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz ROA con leche (150 gr)",
+    "Precio": 7100,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20063486-300-auto/ARROZ-CON-LECHE-ROA-150-Gramo-3001162_a.jpg?v=638794015462970000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz ROA con sabor a paella (300 gr)",
+    "Precio": 10400,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20063511-300-auto/ARROZ-SABOR-A-PAELLA-915412_a.jpg?v=638794015740970000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz ROA con sabor mexicano (300 gr)",
+    "Precio": 12800,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20063512-300-auto/ARROZ-MEXICANO-652272_a.jpg?v=638794015752800000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz ROA integral (1000 gr)",
+    "Precio": 6110,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20064173-300-auto/Arroz-Integral-1000-gr-490441_a.jpg?v=638796304328030000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz ROA oriental listo para preparar (300 gr)",
+    "Precio": 10500,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20063510-300-auto/Arroz-Oriental-300-gr-585527_a.jpg?v=638794015729400000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz ROA paca (12500 gr)",
+    "Precio": 53480,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19883061-300-auto/Arroz-Blanco-Arroba-12500-gr-10316_a.jpg?v=638768921516170000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz ROA parbolizado (1000 gr)",
+    "Precio": 6900,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20064183-300-auto/Arroz-Parbolizado-1188794_a.jpg?v=638796304433800000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz ROA parbolizado (3000 gr)",
+    "Precio": 20700,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20064185-300-auto/Arroz-Parbolizado-1188802_a.jpg?v=638796304449270000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz ROLAND Arborio Superfino (453 gr)",
+    "Precio": 32000,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19577735-300-auto/Arroz-Arborio-453-gr-543730_a.jpg?v=638739814450200000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz SONORA (1000 gr)",
+    "Precio": 4900,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19577779-300-auto/Arroz-Blanco-X-1000-gr-862930_a.jpg?v=638739815125800000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz SONORA (12500 gr)",
+    "Precio": 53900,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19577773-300-auto/Arroz-Blanco-Sonora-X-12500-gr-743877_a.jpg?v=638739815024270000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz SONORA (3000 gr)",
+    "Precio": 11950,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19577778-300-auto/Arroz-Sonora-X-3000-gr-862929_a.jpg?v=638739815114800000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz SONORA (500 gr)",
+    "Precio": 2300,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19577774-300-auto/Arroz-Blanco-752339_a.jpg?v=638739815066200000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz SUPREMO (1000 gr)",
+    "Precio": 9600,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18574643-300-auto/Arroz-NATUARROZ-1000-gr-778124_a.jpg?v=638675314986500000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz SUPREMO (10000 gr)",
+    "Precio": 47400,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19585570-300-auto/Arroz-Blanco-Excelso-SUPREMO-10000-gr-478265_a.jpg?v=638739923077830000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz SUPREMO (12500 gr)",
+    "Precio": 55900,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19585744-300-auto/ARROZ-BLANCO-SUPREMO-12500-Gramos-937259_a.jpg?v=638739926060070000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz SUPREMO (2500 gr)",
+    "Precio": 11700,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18574978-300-auto/Arroz-Mas-Vitarroz-SUPREMO-2500-gr-3516582_a.jpg?v=638675322976370000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz SUPREMO (2500 gr)",
+    "Precio": 20500,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18574979-300-auto/Arroz-Premium-SUPREMO-2500-gr-3516583_a.jpg?v=638675323043400000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz SUPREMO (5000 gr)",
+    "Precio": 22700,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19577739-300-auto/Arroz-Excelso-Tradicional-X-5000-gr-478191_a.jpg?v=638739814488930000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz SUSI (100 gr)",
+    "Precio": 13700,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19042320-300-auto/Arroz-Soplado-74211_a.jpg?v=638712217466800000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz SUSI (150 gr)",
+    "Precio": 16600,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19042562-300-auto/Arroz-Mini-129790_a.jpg?v=638712220480470000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz Sonora Premium ARROZ SONORA PREMIUM (1000 gr)",
+    "Precio": 6490,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18574860-300-auto/Arroz-Sonora-Premium-SONORA-1000-gr-3449216_a.jpg?v=638675318061070000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz Soplado SUSI Azúcar (25 gr)",
+    "Precio": 2600,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20224567-300-auto/Arroz-Soplado-SUSI-25-gr-3669841_a.jpg?v=638811030111470000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz Supremo SUPREMO Arroz Blanco (11250 gr)",
+    "Precio": 53300,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18613548-300-auto/Arroz-Supremo-SUPREMO-Arroz-Blanco-11250-gr-3616671_a.jpg?v=638682549346930000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz Supremo SUPREMO Arroz Blanco (450 gr)",
+    "Precio": 2200,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/17892015-300-auto/Arroz-Supremo-SUPREMO-Arroz-Blanco-450-gr-3616672_a.jpg?v=638630438356000000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz TAEQ integral (1000 gr)",
+    "Precio": 6400,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19594975-300-auto/Arroz-Integral-TAEQ-1000-gr-3238610_a.jpg?v=638740051641070000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz TAILANDES Gourmet (3000 gr)",
+    "Precio": 20600,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19584329-300-auto/ARROZ-TIPO-GOURMET-969209_a.jpg?v=638739904403900000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "Arroz. COMUNEROS (1000 gr)",
+    "Precio": 6800,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19585495-300-auto/ARROZ-BLANCO-PREMIUM-COMUNEROS-1000-Gramo-162260_a.jpg?v=638739922168800000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  },
+  {
+    "Nombre": "arroz CASTELLANO BLANCO (4000 gr)",
+    "Precio": 50500,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19592389-300-auto/Arroz-Blanco-CASTELLANO-4000-gr-3065375_a.jpg?v=638740020622600000",
+    "tienda": "Carulla",
+    "tipoProducto": "arroz"
+  }
+]
+}

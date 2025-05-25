@@ -1,0 +1,948 @@
+{ "panCarulla":[
+  {
+    "Nombre": "PAN 6 CEREALES Y MIEL INTEGRAL DIETESYN 450 gr",
+    "Precio": 17800,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18475575-300-auto/PAN-6-CEREALES-Y-MIEL-INTEGRAL-DIETESYN-450-gr-876419_a.jpg?v=638665976481530000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "PAN ARABE SABANA 6 UNIDADES 18 und",
+    "Precio": 13500,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20361059-300-auto/PAN-18-und-1652117_a.jpg?v=638828508139500000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "PAN BAFFI (380 gr)",
+    "Precio": 41600,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18475543-300-auto/PAN-MIX-CROCANTE-BAFFI-380-gr-486763_a.jpg?v=638665972985570000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "PAN BAGUETTE VIENES CARULLA 250 gr",
+    "Precio": 6100,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20484333-300-auto/PAN-BAGUETTE-VIENES-419438_a.jpg?v=638834392667200000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "PAN BLANDITO 10UND FRESCAMPO 450 Gramo",
+    "Precio": 4900,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/1497612-300-auto/Pan-Blandito-10und-1151747_a.jpg?v=637276352765970000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "PAN DE QUESO FRESCAMPO (200 gr)",
+    "Precio": 15000,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19932861-300-auto/Pan-de-queso-paq-x-4-unds-1617832_a.jpg?v=638774695309530000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "PAN EL COUNTRY (320 gr)",
+    "Precio": 4500,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19932898-300-auto/PAN-MANTEQUILLA-EL-COUNTRY-320-gr-1743424_a.jpg?v=638774725446100000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "PAN EL COUNTRY (320 gr)",
+    "Precio": 4900,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19932894-300-auto/PAN-DE-MAIZ-EL-COUNTRY-320-gr-1742069_a.jpg?v=638774725417270000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "PAN PAN FACTORY (500 gr)",
+    "Precio": 13900,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18475476-300-auto/PAN-DE-CENTENO-374335_a.jpg?v=638665972110200000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "PAN PAN FACTORY (500 gr)",
+    "Precio": 19000,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18475484-300-auto/PAN-8-GRANOS-INTEGRAL-374424_a.jpg?v=638665972185370000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "PAN PAN FACTORY (700 gr)",
+    "Precio": 19000,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18475509-300-auto/PAN-6-GRANOS-INTEGRAL-692623_a.jpg?v=638665972455100000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "PAN PAN FACTORY (700 gr)",
+    "Precio": 14000,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18475480-300-auto/PAN-3-GRANOS-374371_a.jpg?v=638665972160230000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "PAN PAN FACTORY (700 gr)",
+    "Precio": 19600,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18475488-300-auto/PAN-CAMPESINO-ALEMAN-374487_a.jpg?v=638665972205670000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "PAN SANDWICH TAEQ (360 gr)",
+    "Precio": 10300,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19745634-300-auto/Pan-Sandwich-Integral-Con-Oregano-Y-Parmesano-TAEQ-360-gr-3396234_a.jpg?v=638754786554400000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "PAN SERVIPAN (408 gr)",
+    "Precio": 9000,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/16970565-300-auto/PAN-DE-QUESO-6-UND-SERVIPAN-408-gr-987474_a.jpg?v=638588572596600000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "PAN SERVIPAN (420 gr)",
+    "Precio": 7040,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/17427469-300-auto/PAN-6-UNDS-PERRO-SERVIPAN-420-gr-611164_a.jpg?v=638611772155230000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "PAN SERVIPAN (550 gr)",
+    "Precio": 6570,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/17427434-300-auto/PAN-TAJADO-DE-LECHE-538650_a.jpg?v=638611770842100000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "PAN SERVIPAN (550 gr)",
+    "Precio": 6570,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/17427435-300-auto/PAN-TAJADO-MANTEQUILLA-538792_a.jpg?v=638611770874330000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "PAN TAJADO INTEGRAL PERMAN 480 gr",
+    "Precio": 6400,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/5350820-300-auto/Pan-Tajado-Integral-X-480-Gr-383698_a.jpg?v=637637907515100000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "PAN TAJADO INTEGRAL TAEQ (400 gr)",
+    "Precio": 9100,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19745635-300-auto/Pan-Tajado-Integral-Con-Hojuelas-De-Avena-TAEQ-400-gr-3396235_a.jpg?v=638754786564600000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan BAFFI Mix Crocante (215 gr)",
+    "Precio": 27700,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18475506-300-auto/PAN-MIX-CROCANTE-580614_a.jpg?v=638665972436430000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan BEIRUTH (250 gr)",
+    "Precio": 8300,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18526398-300-auto/Pan-Arabe-Alpesto-BEIRUTH-250-gr-950514_a.jpg?v=638670258865200000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan BEIRUTH Árabe (250 gr)",
+    "Precio": 7300,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18526397-300-auto/PAN-ARABE-PITA-BEIRUTH-250-gr-891960_a.jpg?v=638670258852700000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan BEIRUTH Árabe (250 gr)",
+    "Precio": 9400,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18526399-300-auto/PAN-ARABE-SERVILLETA-BEIRUTH-250-gr-951650_a.jpg?v=638670258877270000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan BIMBO 100 % integral (480 gr)",
+    "Precio": 7400,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19972300-300-auto/Pan-BIMBO-PAN-INTEGRAL-1P-480G-FLOW-BIM-480-gr-3615682_a.jpg?v=638779108412770000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan BIMBO Pan Perro (405 gr)",
+    "Precio": 8300,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18597491-300-auto/Pan-BIMBO-Pan-Perro-405-gr-3636336_a.jpg?v=638677312071670000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan Baguette 260 gr",
+    "Precio": 4500,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20484342-300-auto/PAN-BAGUETTE-CARULLA-154023_a.jpg?v=638834392750200000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan Baguetton 400 gr",
+    "Precio": 7200,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18474092-300-auto/PAN-BAGUETTON-CARULLA-158596_a.jpg?v=638665086816900000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan COMAPAN (380 gr)",
+    "Precio": 5400,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/17328333-300-auto/Pan-perro-x-380-g-6-und-394580_a.jpg?v=638608881311700000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan COMAPAN (460 gr)",
+    "Precio": 5360,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19547209-300-auto/Pan-Milenio-Tajado-COMAPAN-460-gr-163994_a.jpg?v=638739355501000000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan COMAPAN Extra Grande (750 gr)",
+    "Precio": 10300,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/16964734-300-auto/Pan-Tajado-Extra-Grande-756857_a.jpg?v=638588466745600000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan COMAPAN Extra Largo (520 gr)",
+    "Precio": 7500,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19993964-300-auto/PAN-INTEGRAL-EXTRALARGO-474988_a.jpg?v=638785951394930000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan COMAPAN Hamburguesa (380 gr)",
+    "Precio": 5600,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/17163345-300-auto/Pan-hamburguesa-x-380-g-6-und-939980_a.jpg?v=638604135372400000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan COMAPAN Mantequilla (520 gr)",
+    "Precio": 7770,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19993958-300-auto/PAN-MANTEQUILLA-961172_a.jpg?v=638785951363070000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan COMAPAN Mediana (420 gr)",
+    "Precio": 6200,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19993961-300-auto/PAN-MEDIANO-782716_a.jpg?v=638785951379630000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan COMAPAN Tajado De La Abuela (420 gr)",
+    "Precio": 7540,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19993955-300-auto/Pan-Tajado-De-La-Abuela-1297082_a.jpg?v=638785951341070000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan COMAPAN Tajado Extralargo (520 gr)",
+    "Precio": 5680,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/16964731-300-auto/Pan-Tajado-Extralargo-756856_a.jpg?v=638588466685570000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan COMAPAN relleno de arequipe (300 gr)",
+    "Precio": 9800,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18491895-300-auto/Pan-COMAPAN-relleno-de-arequipe-300-gr-1063874_a.jpg?v=638666750019970000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan Calentano 6Und CARULLA 300 gr",
+    "Precio": 5900,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18460524-300-auto/PAN-CALENTANO-6UND-944429_a.jpg?v=638658134737830000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan Chocolate CARULLA 80 gr",
+    "Precio": 4100,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20484346-300-auto/PAN-CHOCOLATE-821990_a.jpg?v=638834392779270000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan Croissant Manzana CARULLA 1 und",
+    "Precio": 5300,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20484328-300-auto/PAN-CROISSANT-MANZANA-479633_a.jpg?v=638834392627500000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan Danesa De Uva CARULLA 1 und",
+    "Precio": 4100,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20484357-300-auto/PAN-DANESA-DE-UVA-823945_a.jpg?v=638834394225800000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan De Linaza Y Quinua FRESCAMPO 500 gr",
+    "Precio": 8700,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20484310-300-auto/Pan-Saludable-Con-Linaza-Y-Quinua-X-480-gr-753148_a.jpg?v=638834392414400000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan EL COUNTRY (500 gr)",
+    "Precio": 8700,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19932888-300-auto/PAN-MULTICEREAL-EL-COUNTRY-500-Gramo-733459_a.jpg?v=638774725359200000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan FITCOOK (360 gr)",
+    "Precio": 10700,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19761140-300-auto/PAN-PERRO-MULTIGRANOS-MANTEQUI-FITCOOK-360-gr-1753311_a.jpg?v=638755746322300000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan FITCOOK (430 gr)",
+    "Precio": 13900,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19761125-300-auto/PAN-BUENA-VIDA-CACAO-FITCOOK-430-gr-1417051_a.jpg?v=638755746221130000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan FITCOOK (540 gr)",
+    "Precio": 13600,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19761143-300-auto/PAN-HAMBURGU-MULTIGRANO-MANTEQ-FITCOOK-540-gr-1753312_a.jpg?v=638755746342230000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan FRESCAMPO (300 gr)",
+    "Precio": 7900,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19745677-300-auto/Pan-Finas-Hierbas-FRESCAMPO-300-gr-3025417_a.jpg?v=638754789171070000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan FRESCAMPO (300 gr)",
+    "Precio": 7600,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19745676-300-auto/Pan-Cubano-FRESCAMPO-300-gr-3025416_a.jpg?v=638754789158570000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan GUADALUPE blanco grande (450 gr)",
+    "Precio": 4800,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19972302-300-auto/Blanco-450grs-GUADALUPE-Blanco-Guadalupe-450-gr-3620848_a.jpg?v=638779108433700000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan Hamburguesa BIMBO Con Anjonjolí x4und (210 gr)",
+    "Precio": 4400,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/16964740-300-auto/Pan-Hamburguesa-Bimbollos-210-gr-529161_a.jpg?v=638588466894970000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan Hamburguesa BIMBO Dorado x4und (360 gr)",
+    "Precio": 7800,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/16972978-300-auto/PAN-HAMBURGUESA-DORADO-BIMBO-360-Gramo-1776491_a.jpg?v=638588598314930000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan Hamburguesa BIMBO Super Ajonjolí x6und (525 gr)",
+    "Precio": 9700,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18482759-300-auto/Super-hamburguesa-ajonjoli-6p-525g-bim-1625324_a.jpg?v=638666228379070000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan Hamburguesa PAN ARTESANO x4und (360 gr)",
+    "Precio": 7800,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/16964750-300-auto/Pan-Hamburguesa-Artesano-1052602_a.jpg?v=638588467139430000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan Juanchopan (815 gr)",
+    "Precio": 13600,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/16983378-300-auto/Oferta-Pancitos-Juanchopan-815-gr-3555556_a.jpg?v=638588754379200000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan LA DESPENSA NATURAL (450 gr)",
+    "Precio": 11700,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18483223-300-auto/Pan-Despensa-Integ-CocPa-LA-DESPENSA-NATURAL-450-gr-154403_a.jpg?v=638666243897500000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan MAMA INES blanco (535 gr)",
+    "Precio": 6300,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19972297-300-auto/Pan-Blanco-MAMA-INES-535-gr-3555302_a.jpg?v=638779108380470000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan MAXLI (500 gr)",
+    "Precio": 24900,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19786974-300-auto/PAN-OCHO-GRANOS-518093_a.jpg?v=638762604202430000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan PAN ARTESANO De Mesa x6und (390 gr)",
+    "Precio": 8300,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/16964747-300-auto/Pan-Artesano-De-Mesa-Bolsa-X-6und-529917_a.jpg?v=638588467103600000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan PAN FACTORY (700 gr)",
+    "Precio": 14900,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18475499-300-auto/PAN-CON-AVENA-676899_a.jpg?v=638665972350430000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan PAN FACTORY Calidad Alemana (500 gr)",
+    "Precio": 14600,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18573720-300-auto/Pan-Centeno-Fina-Hierbas-PAN-FACTORY-500-gr-3635038_a.jpg?v=638675265750600000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan PANDEYUCA De Yuca 20 Und (400 gr)",
+    "Precio": 32900,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19785484-300-auto/PAN-DE-YUCA-X-20UNDS-387743_a.jpg?v=638761857154930000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan PERMAN Hamburguesa Tipo Brioche (350 gr)",
+    "Precio": 6100,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19787771-300-auto/Pan-Hamburguesa-Tipo-Brioche-1298539_a.jpg?v=638762803118870000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan PERMAN Mini Croissant (430 gr)",
+    "Precio": 8700,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19787689-300-auto/Minicroissant-20-Und-X-430-Gr-202531_a.jpg?v=638762802328500000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan PERMAN PERRO (270 gr)",
+    "Precio": 4000,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19909706-300-auto/Pan-PERMAN-PERRO-270-gr-3676835_a.jpg?v=638773846903270000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan PERMAN Rollito 8 Und (280 gr)",
+    "Precio": 5300,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19787691-300-auto/Pan-Puff-8-Und-X-280-Gr-181110_a.jpg?v=638762802363470000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan PERMAN Súper Perro (420 gr)",
+    "Precio": 5300,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19787693-300-auto/Pan-Superperro-Con-Ajonjoli-6-Und-X-420-Gr-20526_a.jpg?v=638762802396700000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan PERMAN Tajado (450 gr)",
+    "Precio": 5000,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19787687-300-auto/Pan-Tajado-X-450-Gr-711551_a.jpg?v=638762802313530000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan Perro BIMBO x6und (205 gr)",
+    "Precio": 4100,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/16964738-300-auto/Pan-Perro-Medias-Noches-X6-Unidades-529159_a.jpg?v=638588466846900000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan Perro BIMBO x6und (405 gr)",
+    "Precio": 5950,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/16964723-300-auto/Pan-Super-Perro-X6-Unidades-236948_a.jpg?v=638588466570870000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan Perro PERMAN (270 gr)",
+    "Precio": 6300,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19787885-300-auto/Pan-Perro-Brioche-PERMAN-270-gr-3088510_a.jpg?v=638762805733170000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan Rollo FRESCAMPO (400 gr)",
+    "Precio": 5900,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19903389-300-auto/Pan-Rollo-10-und-FRESCAMPO-400-gr-3433935_a.jpg?v=638772220600570000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan SANTA CLARA Antaño (470 gr)",
+    "Precio": 7900,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19775711-300-auto/PAN-SANTA-CLARA-ANTANO-1027524_a.jpg?v=638756670354670000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan SANTA CLARA Hamburguesa (400 gr)",
+    "Precio": 5300,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19775715-300-auto/Pan-Hamburguesa-SANTA-CLARA-400-gr-1062070_a.jpg?v=638756670384670000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan SANTA CLARA Integral Extralargo (550 gr)",
+    "Precio": 8100,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19775703-300-auto/PAN-INTEGRAL-EXTRALARGO-332942_a.jpg?v=638756670240070000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan SANTA CLARA Mantequilla Extralargo (550 gr)",
+    "Precio": 7400,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19775706-300-auto/PAN-MANTEQUILLA-EXTRALARGO-333309_a.jpg?v=638756670316900000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan SANTA CLARA Perro (400 gr)",
+    "Precio": 5600,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19775714-300-auto/Pan-Perro-SANTA-CLARA-400-gr-1062069_a.jpg?v=638756670373930000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan SANTA CLARA Pullman Extra Largo (650 gr)",
+    "Precio": 7800,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19776844-300-auto/PAN-PULLMAN-SUPER-EXTRALARGO-697120_a.jpg?v=638757477262570000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan SANTA CLARA Pullman Extralargo (550 gr)",
+    "Precio": 6900,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19776282-300-auto/PAN-PULLMAN-EXTRALARGO-697143_a.jpg?v=638757308447500000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan SERVIPAN ECONOMICO (380 gr)",
+    "Precio": 2730,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/17427436-300-auto/PAN-TAJADO-BLANCO-46294_a.jpg?v=638611770901500000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan SPIGA Healthy Bakery (350 gr)",
+    "Precio": 17500,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18476028-300-auto/Mini-Molde-Integral-Con-Arandanos-SPIGA-Healthy-Bakery-350-gr-3554823_a.jpg?v=638665987151230000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan SPIGA Healthy Bakery (380 gr)",
+    "Precio": 12900,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18476027-300-auto/Mini-Molde-De-Arroz-SPIGA-Healthy-Bakery-380-gr-3554822_a.jpg?v=638665987112400000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan SPIGA Healthy Bakery Saludable (340 gr)",
+    "Precio": 16200,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18476064-300-auto/Pan-SPIGA-Healthy-Bakery-Saludable-340-gr-3616682_a.jpg?v=638665987675330000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan SPIGA Healthy Bakery Saludable (350 gr)",
+    "Precio": 11500,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18476063-300-auto/Pan-SPIGA-Healthy-Bakery-Saludable-350-gr-3616681_a.jpg?v=638665987669370000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan Sagu Chips Chocolate MAUKA SNACKS 450 gr",
+    "Precio": 17200,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18490039-300-auto/Pan-Sagu-Chips-Chocolate-MAUKA-SNACKS-450-gr-3622638_a.jpg?v=638666338981870000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan Sagu Hamb sin gluten MAUKA SNACKS 280 gr",
+    "Precio": 12600,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18484489-300-auto/Pan-Sagu-Hamb-sin-gluten-MAUKA-SNACKS-280-gr-3038587_a.jpg?v=638666263120600000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan Sagú Perro SinGluten MAUKA SNACKS 280 gr",
+    "Precio": 13100,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18484492-300-auto/Pan-Sagu-Perro-SinGluten-MAUKA-SNACKS-280-gr-3038589_a.jpg?v=638666263150900000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan Salvado Grande CARULLA 460 gr",
+    "Precio": 8500,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20484338-300-auto/PAN-SALVADO-GRANDE-835611_a.jpg?v=638834392714100000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan Sanduche Especias Prehorneado FRESCAMPO (400 gr)",
+    "Precio": 11700,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19902963-300-auto/Pan-Sanduche-Especias-Prehorneado-FRESCAMPO-400-gr-3510151_a.jpg?v=638772109337200000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan Sanduche Parmesano Prehorneado FRESCAMPO (400 gr)",
+    "Precio": 12000,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19902964-300-auto/Pan-Sanduche-Parmesano-Prehorneado-FRESCAMPO-400-gr-3510152_a.jpg?v=638772109348670000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan Suiza Chocolate CARULLA 120 gr",
+    "Precio": 5200,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20484351-300-auto/PAN-SUIZA-CHOCOLATE-896580_a.jpg?v=638834392833200000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan Tajado BIMBO 100% Integral (650 gr)",
+    "Precio": 9000,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/16971213-300-auto/Pan-Tajado-Integral-X650-Gramos-225710_a.jpg?v=638588583076530000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan Tajado BIMBO Fit Blanco (350 gr)",
+    "Precio": 7500,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/16964755-300-auto/Pan-Fit-Blanco-X350g-1178423_a.jpg?v=638588467202400000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan Tajado BIMBO Fit Integral (350 gr)",
+    "Precio": 6900,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/16964754-300-auto/Pan-Fit-Integral-1178422_a.jpg?v=638588467185830000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan Tajado BIMBO Mantequilla (600 gr)",
+    "Precio": 8600,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/16964730-300-auto/Pan-Mantequilla-733130_a.jpg?v=638588466655870000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan Tajado Bimbo VITAL 100% Natural Arándanos (500 gr)",
+    "Precio": 10600,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/16964725-300-auto/Pan-Tajado-Vital-Granola-Arandano-500-gr-731387_a.jpg?v=638588466593830000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan Tajado Bimbo VITAL 100% Natural Fruticereal (500 gr)",
+    "Precio": 10600,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/16964717-300-auto/Pan-Tajado-Fruticereal-500-gr-691618_a.jpg?v=638588466404230000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan Tajado Bimbo VITAL 100% Natural Multicereal (500 gr)",
+    "Precio": 11000,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/16964719-300-auto/Pan-Multicereal-500-gr-691956_a.jpg?v=638588466507270000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan Tajado Bimbo VITAL 100% Natural Semillas (500 gr)",
+    "Precio": 11100,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/16964715-300-auto/Pan-Tajado-Vital-Semillas-500-gr-691473_a.jpg?v=638588466363730000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan Tajado GUADALUPE Blanco Extragrande (535 gr)",
+    "Precio": 5800,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18488070-300-auto/Pan-Blanco-Extragrande-GUADALUPE-535-gr-3471522_a.jpg?v=638666310318370000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan Tajado GUADALUPE Integral Extralargo (570 gr)",
+    "Precio": 7050,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/16968850-300-auto/PAN-INTEGRAL-EXTRALARGO-222429_a.jpg?v=638588543770870000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan Tajado LA GITANA (500 gr)",
+    "Precio": 5940,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18526417-300-auto/Pan-Tajado-LA-GITANA-500-gr-3054957_a.jpg?v=638670259176870000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan Tajado MAMA INES Avena, Pasas y Nuez (500 gr)",
+    "Precio": 7600,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18400830-300-auto/Pan-Tajado-Avena-Pasas-Y-Nueces-500-gr-262145_a.jpg?v=638646336009330000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan Tajado MAMA INES Blanco (420 gr)",
+    "Precio": 5200,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/16974564-300-auto/Pan-Tajado-Mama-Ines-420-gr-646986_a.jpg?v=638588620512930000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan Tajado MAMA INES Integral (440 gr)",
+    "Precio": 6800,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/16964721-300-auto/Pan-Tajado-Integral-440-gr-129364_a.jpg?v=638588466529000000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan Tajado MAMA INES Mantequilla (420 gr)",
+    "Precio": 6300,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/16964749-300-auto/Pan-Tajado-Mantequilla-420-gr-478793_a.jpg?v=638588467123930000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan Tajado Multicereal Stevia INTEGRALES VIVE 510 gr",
+    "Precio": 11100,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18476062-300-auto/Pan-Tajado-Multicereal-Stevia-INTEGRALES-VIVE-510-gr-3611967_a.jpg?v=638665987656770000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan Tajado PAN ARTESANO Blanco (500 gr)",
+    "Precio": 7000,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/16961557-300-auto/Pan-Tajado-Artesano-500-gr-127330_a.jpg?v=638588415595470000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan Tajado PAN ARTESANO Integral (500 gr)",
+    "Precio": 9500,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/16964752-300-auto/Pan-Bimbo-Artesano-Integral-X-500-gr-1058106_a.jpg?v=638588467158670000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan Tajado PAN ARTESANO Mantequilla (500 gr)",
+    "Precio": 8600,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/17670842-300-auto/Pan-Artesano-Mantequilla-X-500-gr-270801_a.jpg?v=638619254987000000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan Tajado PERMAN (370 gr)",
+    "Precio": 7400,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19787883-300-auto/Pan-Tajado-Brioche-PERMAN-380-gr-3088509_a.jpg?v=638762805696670000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan Tajado VITAL 100% Natural Frutos Rojos (460 gr)",
+    "Precio": 11700,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/16964768-300-auto/Pan-Vital-100-Natural-Frutos-1352621_a.jpg?v=638588467524800000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan Tipo Buffet Brioche PERMAN Corteza brillante,sabor mantequilla (370 gr)",
+    "Precio": 7500,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19787953-300-auto/Pan-Tipo-Buffet-Brioche-PERMAN-370-gr-3324340_a.jpg?v=638762806437570000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan Trenza Grande CARULLA 520 gr",
+    "Precio": 12900,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18460539-300-auto/PAN-TRENZA-GRANDE-203130_a.jpg?v=638658135124900000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan de queso MUNDIALES (260 gr)",
+    "Precio": 16000,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19785573-300-auto/PANDEQUESO-6-UNDS-348233_a.jpg?v=638761926219570000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan de sagu sin gluten MAUKA SNACKS 450 gr",
+    "Precio": 14200,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18483684-300-auto/Pan-de-sagu-sin-gluten-MAUKA-SNACKS-450-Gramo-1747402_a.jpg?v=638666252813370000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan granosandino sin gluten MAUKA SNACKS 450 gr",
+    "Precio": 15400,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18483686-300-auto/Pan-granosandino-sin-gluten-MAUKA-SNACKS-450-Gramo-1747404_a.jpg?v=638666252831230000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan hamburguesa BIMBO con papa x4und (360 gr)",
+    "Precio": 8800,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/17968760-300-auto/Pan-Hamburguesa-Con-Papa-Artesano-x4-BIMBO-360-gr-3555561_a.jpg?v=638635017593630000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan hamburguesa CARULLA súper con ajonjolí (350 gr)",
+    "Precio": 3900,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20439301-300-auto/Pan-Super-Hamburguesa-CARULLA-350-gr-3316236_a.jpg?v=638830078181770000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan perro CARULLA x6und (420 gr)",
+    "Precio": 4070,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20484374-300-auto/Pan-Perro-Blanco-CARULLA-420-gr-3332967_a.jpg?v=638834397374470000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan rallado BEST CHOICE estilo oriental (200 gr)",
+    "Precio": 7042,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20050206-300-auto/Panko-Sakura-BEST-CHOICE-Panko-Sakura-12-X-200-Gr-200-gr-3665499_a.jpg?v=638792017379730000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan tajado BIMBO blanco con avena (385 gr)",
+    "Precio": 7100,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19624407-300-auto/Pan-BIMBO-BLANCO-AVENA-385-gr-3663324_a.jpg?v=638742826422770000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan tajado BIMBO blanco suave esponjoso (350 gr)",
+    "Precio": 5100,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19624401-300-auto/Pan-BIMBO-BLANCO-SUAVE-ESPONJOSO-350-gr-3663321_a.jpg?v=638742824045200000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan tajado BIMBO blanco suave esponjoso (600 gr)",
+    "Precio": 7600,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19624405-300-auto/Pan-BIMBO-BLANCO-SUAVE-ESPONJOSO-600-gr-3663323_a.jpg?v=638742826380500000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan tajado BIMBO blanco suave esponjoso (730 gr)",
+    "Precio": 8600,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20487144-300-auto/Pan-BIMBO-BLANCO-SUAVE-ESPONJOSO-730-gr-3663322_a.jpg?v=638835282097070000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan tajado CARULLA artesanal (500 gr)",
+    "Precio": 6000,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19187887-300-auto/Pan-Tajado-Blanco-Artesanal-CARULLA-500-gr-3317642_a.jpg?v=638719665610830000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan tajado CARULLA blanco (450 gr)",
+    "Precio": 4500,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20439302-300-auto/Pan-Tajado-Blanco-CARULLA-450-gr-3317921_a.jpg?v=638830078196270000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan tajado CARULLA blanco (600 gr)",
+    "Precio": 6000,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20439303-300-auto/Pan-Tajado-Blanco-CARULLA-600-gr-3317922_a.jpg?v=638830078205800000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan tajado CARULLA mantequilla (500 gr)",
+    "Precio": 6100,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20439300-300-auto/Pan-Tajado-Mantequilla-CARULLA-500-gr-3315761_a.jpg?v=638830078172230000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan tajado EKONO blanco (450 gr)",
+    "Precio": 3240,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20439299-300-auto/Pan-Tajado-Blanco-EKONO-450-gr-3300670_a.jpg?v=638830078161330000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan tajado FITCOOK (500 gr)",
+    "Precio": 8200,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19761118-300-auto/PAN-TAJADO-INTEGRAL-1417027_a.jpg?v=638755746136330000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan Árabe BEIRUTH 250 gr",
+    "Precio": 8700,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/14585566-300-auto/PAN-ARABE-INTEGRAL-BEIRUTH-250-gr-282266_a.jpg?v=638435419639000000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "Pan Árabe BEIRUTH 250 gr",
+    "Precio": 11700,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/14585561-300-auto/PAN-ARABE-COCKTAIL-BEIRUTH-250-gr-527681_a.jpg?v=638435419475570000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "pan FITCOOK (400 gr)",
+    "Precio": 7600,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19761122-300-auto/MOGOLLA-INTEGRAL-FITCOOK-400-Gramo-1417029_a.jpg?v=638755746198300000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  },
+  {
+    "Nombre": "pan FITCOOK (430 gr)",
+    "Precio": 15000,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19761128-300-auto/PAN-BUENA-VIDA-COCO-FITCOOK-430-Gramo-1417054_a.jpg?v=638755746241230000",
+    "tienda": "Carulla",
+    "tipoProducto": "pan"
+  }
+]
+}

@@ -1,0 +1,1187 @@
+{
+  "aceiteExito": [
+    {
+      "Nombre": "Aceite CANOLA LIFE Canola (3000 ml)",
+      "Precio": 50400,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26671549-300-auto/Aceite-CANOLA-LIFE-3000-ml-1767191_a.jpg?v=638739989033230000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite CANOLA LIFE canola (1000 ml)",
+      "Precio": 27450,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26664428-300-auto/ACEITE-CANOLA-215766_a.jpg?v=638739886197430000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite CANOLA LIFE canola (500 ml)",
+      "Precio": 15500,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26660362-300-auto/Aceite-Canola-846640_a.jpg?v=638739827351600000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite CANOLA LIFE con omega 3 (1800 ml)",
+      "Precio": 51400,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/27095909-300-auto/Aceite-CANOLA-LIFE-Canola-1800-ml-3674128_a.jpg?v=638780836345070000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite COLAVITA Aceite de oliva virgen extra (500 ml)",
+      "Precio": 64800,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26672252-300-auto/Aceite-COLAVITA-Aceite-de-oliva-virgen-extra-500-ml-93873_a.jpg?v=638739999519400000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite COLAVITA Aceite de oliva virgen extra (750 ml)",
+      "Precio": 95500,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26669155-300-auto/Aceite-COLAVITA-Aceite-de-oliva-virgen-extra-750-ml-93857_a.jpg?v=638739953024770000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite COLAVITA Oliva Extra Virgen (250 ml)",
+      "Precio": 36700,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26681442-300-auto/Aceite-COLAVITA-Oliva-Extra-Virgen-250-ml-3582621_a.jpg?v=638740106319300000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite Calmante Para Comezón (150Ml)",
+      "Precio": 78498,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/23447991-300-auto/aceite-calmante-para-comezon-150ml.jpg?v=638560780110330000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite Canela 10 Ml",
+      "Precio": 29750,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26079978-300-auto/aceite-canela-10-ml.jpg?v=638711713844400000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite Capilar De Argán Y Macadamia 60Ml",
+      "Precio": 29000,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/27382671-300-auto/aceite-capilar-de-argan-y-macadamia-60ml.jpg?v=638812262889530000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite Con Cannabidiol (Cbd) 5% 750Mg",
+      "Precio": 40900,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/23441896-300-auto/aceite-con-cannabidiol-cbd-5-750mg.jpg?v=638560752477500000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite Con Cannabidiol (Cbd) 5% 750Mg Neutro",
+      "Precio": 42900,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/23442088-300-auto/aceite-con-cannabidiol-cbd-5-750mg-neutro.jpg?v=638560753430300000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite Con Cannabidiol (Cbd) 5% Lemonhaze",
+      "Precio": 63900,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26759736-300-auto/aceite-con-cannabidiol-cbd-5-lemonhaze.jpg?v=638748845798100000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite Con Cannabidiol (Cbd) 5% Lemonhaze 750Mg",
+      "Precio": 40900,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/23442099-300-auto/aceite-con-cannabidiol-cbd-5-lemonhaze-750mg.jpg?v=638560753483430000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite Con Cannabidiol (Cbd) 5% Purple 30Ml",
+      "Precio": 63000,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26759740-300-auto/aceite-con-cannabidiol-cbd-5-purple-30ml.jpg?v=638748845892930000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite Corporal Hidratante Verbena Fragancia Granada 250Ml",
+      "Precio": 36000,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/27066741-300-auto/aceite-corporal-hidratante-verbena-fragancia-granada-250ml.jpg?v=638776014177700000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite Corporal Hidratante Verbena Fragancia Miel 150Ml",
+      "Precio": 24000,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/27066703-300-auto/aceite-corporal-hidratante-verbena-fragancia-miel-150ml.jpg?v=638776013742630000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite Corporal Hidratante Verbena Fragancia Naranja 150Ml",
+      "Precio": 24000,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/27066668-300-auto/aceite-corporal-hidratante-verbena-fragancia-naranja-150ml.jpg?v=638776013658470000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite Corporal Naranja 250Ml",
+      "Precio": 23400,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/27382577-300-auto/aceite-corporal-naranja-250ml.jpg?v=638812261297970000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite DIANA PREMIUM (900 ml)",
+      "Precio": 15045,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26677710-300-auto/Aceite-Premium-DIANA-900-ml-3297591_a.jpg?v=638740061777800000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite DIANA con vitaminas A y D (2000 ml)",
+      "Precio": 23757,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/27257309-300-auto/Aceite-Con-Vitamina-X-2000-Ml-DIANA-2000-ml-1741779_a.jpg?v=638798914617200000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite DIANA con vitaminas A y D (250 ml)",
+      "Precio": 4150,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/27257307-300-auto/Aceite-Con-Vitamina-DIANA-250-ml-1363541_a.jpg?v=638798914596400000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite DIANA con vitaminas A y D (3000 ml)",
+      "Precio": 37900,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/27257304-300-auto/Aceite-Diana-Vitaminas-X3000ml-1278720_a.jpg?v=638798914556270000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite DIANA con vitaminas A y D (450 ml)",
+      "Precio": 6890,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/27257310-300-auto/Aceite-Con-Vitamina-X-450Ml-DIANA-450-ml-1741780_a.jpg?v=638798914627370000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite DIANA con vitaminas A y D (900 ml)",
+      "Precio": 10242,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/27257306-300-auto/Aceite-diana-x-900-ml-1309700_a.jpg?v=638798914584800000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite De Aguacate Hass Extra Virgen 250 Ml",
+      "Precio": 38000,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/25431978-300-auto/aceite-de-aguacate-hass-extra-virgen-250-ml.jpg?v=638660718819930000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite De Argán 10 Ml",
+      "Precio": 39900,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26080010-300-auto/aceite-de-argan-10-ml.jpg?v=638711714318400000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite De Cannabis Medicinal (Cbd) Al 5%",
+      "Precio": 63900,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/24240231-300-auto/aceite-de-cannabis-medicinal-cbd-al-5.jpg?v=638600221671670000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite De Cbd 3% (30Ml)",
+      "Precio": 99900,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/24240264-300-auto/aceite-de-cbd-3-30ml.jpg?v=638600221860800000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite De Ducha Atoderm Bioderma Fra 1 Fra 1 U",
+      "Precio": 199400,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/27317796-300-auto/aceite-de-ducha-atoderm-bioderma-fra-1-fra-1-u.jpg?v=638806779260900000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite De Naranja Y Calendula 1000 + Pulpo",
+      "Precio": 78900,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/23441370-300-auto/aceite-de-naranja-y-calendula-1000-pulpo.jpg?v=638560750223370000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite De Ricino Arquifarma Fra 30 Ml",
+      "Precio": 5500,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/23444620-300-auto/aceite-de-ricino-arquifarma-fra-30-ml.jpg?v=638560765237500000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite De Ricino Disanfer Liq Fra 25 Ml",
+      "Precio": 7450,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/20835585-300-auto/aceite-de-ricino-disanfer-liq-fra-25-ml.jpg?v=638399138095370000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite De Ricino Disanfer Liq Topica Fra 30 Ml",
+      "Precio": 5250,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/23445263-300-auto/aceite-de-ricino-disanfer-liq-topica-fra-30-ml.jpg?v=638560766438030000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite De Rosa Mosqueta 10 Ml",
+      "Precio": 36900,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26079950-300-auto/aceite-de-rosa-mosqueta-10-ml.jpg?v=638711713531830000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite De Tea Tree 10 Ml",
+      "Precio": 42800,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26079895-300-auto/aceite-de-tea-tree-10-ml.jpg?v=638711712929430000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite Desodorante Corporal Cupuacu Joli 200 Ml",
+      "Precio": 69999,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/27382751-300-auto/aceite-desodorante-corporal-cupuacu-joli-200-ml.jpg?v=638812264073270000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite EL JARDIN DE EVA BIFASICO (400 ml)",
+      "Precio": 21292,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26773901-300-auto/Aceite-Bifasico-EL-JARDIN-DE-EVA-400-ml-3316837_a.jpg?v=638749253803100000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite Erotico Con Dados",
+      "Precio": 14900,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/23565985-300-auto/aceite-erotico-con-dados.jpg?v=638562501565270000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite FRIDA Sólido en bloque (250 gr)",
+      "Precio": 4360,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26667478-300-auto/Manteca-Bloque-FRIDA-250-Gramo-13550_a.jpg?v=638739928792600000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite Facial De Oro 24 K Kaba 30 Ml",
+      "Precio": 59900,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/23606938-300-auto/aceite-facial-de-oro-24-k-kaba-30-ml.jpg?v=638564025432900000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite GOURMET canola (1800 ml)",
+      "Precio": 60000,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26677180-300-auto/Aceite-Canola-Antoix-Natural-GOURMET-1800-ml-3269030_a.jpg?v=638740055268570000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite GOURMET canola (900 ml)",
+      "Precio": 26550,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26676245-300-auto/Aceite-Canola-GOURMET-900-ml-3202786_a.jpg?v=638740045005030000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite GOURMET canola con antioxidantes (2600 ml)",
+      "Precio": 90000,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26677183-300-auto/Aceite-Canola-Antioxidante-Nat-GOURMET-2600-ml-3268871_a.jpg?v=638740055287000000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite GOURMET canola line (900 ml)",
+      "Precio": 22000,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26676246-300-auto/Aceite-Canola-Line-GOURMET-900-ml-3202787_a.jpg?v=638740045017230000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite GOURMET line (1800 ml)",
+      "Precio": 50300,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26679016-300-auto/Aceite-Canola-Oliva-Line-Aderezar-Asar-GOURMET-1800-ml-3381262_a.jpg?v=638740076817300000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite GOURMET multiusos (1800 ml)",
+      "Precio": 47450,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26677177-300-auto/Aceite-Vegetal-Multius-Familia-GOURMET-1800-ml-3269031_a.jpg?v=638740055239700000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite GOURMET multiusos (2600 ml)",
+      "Precio": 43216,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26677174-300-auto/Aceite-Vegetal-Fami-Multiusos-GOURMET-2600-ml-3268924_a.jpg?v=638740055200730000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite GOURMET multiusos (3600 ml)",
+      "Precio": 77900,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26677335-300-auto/Aceites-Vegetales-Familia-GOURMET-3600-ml-3277379_a.jpg?v=638740056789570000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite GOURMET multiusos (420 ml)",
+      "Precio": 10450,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26676265-300-auto/Aceite-Familia-Multiusos-GOURMET-420-ml-3206938_a.jpg?v=638740045315200000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite GOURMET multiusos (900 ml)",
+      "Precio": 21150,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26676247-300-auto/Aceite-Familia-Multiusos-GOURMET-900-ml-3202788_a.jpg?v=638740045043100000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite GOURMET multiusos en spray (160 ml)",
+      "Precio": 24050,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26665689-300-auto/Aceite-control-x-160-ml-1438417_a.jpg?v=638739901854500000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite Johnsons Baby Emu Topica Original Fra 50 Ml",
+      "Precio": 7100,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/20835566-300-auto/aceite-johnsons-baby-emu-topica-original-fra-50-ml.jpg?v=638399137893230000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite KHOL Seco Verbena (120 ml)",
+      "Precio": 67000,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26734863-300-auto/Aceite-Seco-Verbena-KHOL-120-ml-3127862_a.jpg?v=638747931987700000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite LA LORENZA (118 ml)",
+      "Precio": 71300,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26961921-300-auto/Aceite-Para-Masaje-LA-LORENZA-118-ml-3530802_a.jpg?v=638767340449400000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite MAZORCA DE ORO (1000 ml)",
+      "Precio": 12950,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26660408-300-auto/Aceite-X-1000-ml-723477_a.jpg?v=638739827980200000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite MAZORCA DE ORO (3000 ml)",
+      "Precio": 37900,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26660409-300-auto/Aceite-X-3000-ml-723480_a.jpg?v=638739827991700000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite MONTICELLO DE OLIVA (100 gr)",
+      "Precio": 15600,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26695840-300-auto/Aceite-MONTICELLO-DE-OLIVA-100-gr-3581409_a.jpg?v=638741854587230000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite MONTICELLO De Oliva Extra Virgen (250 ml)",
+      "Precio": 35700,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/25573679-300-auto/ACEITE-DE-OLIVA-VIRGEN-EXTRA-1563826_a.jpg?v=638675724327170000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite MONTICELLO de aguacate (250 gr)",
+      "Precio": 35900,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26695710-300-auto/Aceite-de-Aguacate-MONTICELLO-250-gr-3317645_a.jpg?v=638741849609600000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite MONTICELLO extra virgen (1000 gr)",
+      "Precio": 101400,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26678000-300-auto/Aceite-de-Oliva-Extra-Virgen-MONTICELLO-1000-gr-3317641_a.jpg?v=638740065240400000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite Mineral Disanfer Fra 1 Fra 500 Ml",
+      "Precio": 22300,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/20799320-300-auto/aceite-mineral-disanfer-fra-1-fra-500-ml.jpg?v=638398303829970000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite Multiusos De 30 Ml, Limpia Y Protege Contra Oxidación Truper",
+      "Precio": 8000,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/15043787-300-auto/aceite-multiusos-de-30-ml-limpia-y-protege-contra-oxidacion-truper.jpg?v=638011197772100000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite Multiusos De 90 Ml, Limpia Y Protege Contra Oxidación Truper",
+      "Precio": 8097,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/15043809-300-auto/aceite-multiusos-de-90-ml-limpia-y-protege-contra-oxidacion-truper.jpg?v=638011198264170000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite OLEO HASS BODY CARE Aguacate (250 ml)",
+      "Precio": 40450,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26671016-300-auto/Aceite-aguacate-extra-virgen-x-250-ml-1722637_a.jpg?v=638739981187000000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite OLEO HASS BODY CARE Aguacate Chile (250 ml)",
+      "Precio": 40450,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/25923965-300-auto/Aceite-Aguacate-Chile-OLEO-HASS-BODY-CARE-250-ml-3271098_a.jpg?v=638708388355570000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite OLEO HASS BODY CARE De Aguacate (250 ml)",
+      "Precio": 40450,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26671018-300-auto/Aceite-aguacate-vig-albahaca-x-250-ml-1722638_a.jpg?v=638739981199730000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite OLEO HASS BODY CARE De Aguacate Y Ajo (250 ml)",
+      "Precio": 40450,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26671019-300-auto/Aceite-aguacate-ajo-x-250-ml-1722640_a.jpg?v=638739981210830000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite OLEOCALI vegetal (250 ml)",
+      "Precio": 3660,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26667292-300-auto/Aceite-Vegetal-OLEOCALI-250-ml-131077_a.jpg?v=638739926412400000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite OLEOCALI vegetal (3000 ml)",
+      "Precio": 31750,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26660329-300-auto/Aceite-Oleocali-3000-ml-6015_a.jpg?v=638739826916570000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite OLEOCALI vegetal (5000 ml)",
+      "Precio": 58800,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26652003-300-auto/Aceite-OLEOCALI-Vegetal-5000-ml-501603_a.jpg?v=638739637388530000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite OLEOCALI vegetal (900 ml)",
+      "Precio": 10900,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26681343-300-auto/Mezcla-OLEOCALI-ACEITES-VEGETALES-COMESTIBLES-900-ml-3578916_a.jpg?v=638740105122000000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite OLITALIA Oliva (500 ml)",
+      "Precio": 36900,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26665524-300-auto/Aceite-Oliva-500Ml-Or-OLITALIA-500-cm3-35859_a.jpg?v=638739899466100000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite OLIVETTO para freír con canola y oliva (1000 ml)",
+      "Precio": 45750,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26660458-300-auto/Aceite-Con-Oliva-Para-Freir-X-1000-Cm3-1101812_a.jpg?v=638739828629070000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite OLIVETTO para freír con canola y oliva (2000 ml)",
+      "Precio": 80700,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26671661-300-auto/Aceite-Con-Oliva-Para-Freir-OLIVETTO-2000-ml-1779784_a.jpg?v=638739991330270000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite PAM (113 gr)",
+      "Precio": 36700,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26983223-300-auto/Aceite-Coco-Spray-1238859_a.jpg?v=638768922008530000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite PAM Canola Spray (170 ml)",
+      "Precio": 35000,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26983198-300-auto/Aceite-De-Canola-En-Spray-170-gr-464951_a.jpg?v=638768921864630000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite PAM De Olivia Spray (141 ml)",
+      "Precio": 35400,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26983195-300-auto/Aceite-De-Oliva-En-Spray-141-gr-464930_a.jpg?v=638768921854070000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite PONS Olivia Extra Virgen (500 ml)",
+      "Precio": 78000,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26666632-300-auto/Aceite-oliva-virgen-ext-tradic-x-500-ml-1326547_a.jpg?v=638739917332670000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite Palmers 1 Oz",
+      "Precio": 86000,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/23441844-300-auto/aceite-palmers-1-oz.jpg?v=638560752218630000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite Para Masajes",
+      "Precio": 17900,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/23566322-300-auto/aceite-para-masajes.jpg?v=638562504391930000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite Para Masajes Con Cbd",
+      "Precio": 14900,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/24240236-300-auto/aceite-para-masajes-con-cbd.jpg?v=638600221754070000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite Para Masajes Elixir 30 Ml",
+      "Precio": 12900,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/23571071-300-auto/aceite-para-masajes-elixir-30-ml.jpg?v=638562529006730000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite Para Masajes Elixir Rosas 30Ml",
+      "Precio": 12900,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/23569444-300-auto/aceite-para-masajes-elixir-rosas-30ml.jpg?v=638562515326830000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite RAFAEL SALGADO De Olivia (500 ml)",
+      "Precio": 61400,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26983251-300-auto/ACEITE-DE-OLIVA-RAFAEL-SALGADO-21928_a.jpg?v=638768924072300000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite RAFAEL SALGADO Oliva Extra Virgen (250 ml)",
+      "Precio": 31300,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26983222-300-auto/Aceite-Oliva-Extra-Virgen-969927_a.jpg?v=638768921997330000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite RIQUISIMO vegetal mantequilla (1900 ml)",
+      "Precio": 20000,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26678997-300-auto/Mezcla-Aceites-Vegetales-RIQUISIMO-1900-ml-3380162_a.jpg?v=638740076632000000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite RIQUISIMO vegetal mantequilla (3000 ml)",
+      "Precio": 32300,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26660339-300-auto/Aceite-De-Grasa-Trans-Garrafa-X-3000-ml-21946_a.jpg?v=638739827057530000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite RIQUISIMO vegetal mantequilla (500 ml)",
+      "Precio": 6590,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26666778-300-auto/Aceite-Frasco-RIQUISIMO-500-ml-629959_a.jpg?v=638739919023000000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite RIQUISIMO vegetal mantequilla (900 ml)",
+      "Precio": 9840,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26678585-300-auto/Aceite-Vegetal-Mantequilla-RIQUISIMO-900-ml-3352185_a.jpg?v=638740071340730000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite RIQUISIMO vegetal sabor y olor a mantequilla (5000 ml)",
+      "Precio": 58800,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26652005-300-auto/Aceite-RIQUISIMO-Botella-familiar-5000-ml-501518_a.jpg?v=638739637440770000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite Renacer Romántico",
+      "Precio": 45000,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/24448987-300-auto/aceite-renacer-romantico.jpg?v=638609725000470000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite Reparador 120 Ml",
+      "Precio": 67900,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/23418238-300-auto/aceite-reparador-120-ml.jpg?v=638560498953200000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite Reparador 30 Ml No Engrasa",
+      "Precio": 29900,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/23440313-300-auto/aceite-reparador-30-ml-no-engrasa.jpg?v=638560736296400000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite Reparador 60 Ml No Engrasa",
+      "Precio": 42900,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/23440333-300-auto/aceite-reparador-60-ml-no-engrasa.jpg?v=638560736513170000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite Reparador De Puntas La Receta",
+      "Precio": 34900,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/23440615-300-auto/aceite-reparador-de-puntas-la-receta.jpg?v=638560740412400000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite Romero 10 Ml",
+      "Precio": 36900,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26079903-300-auto/aceite-romero-10-ml.jpg?v=638711713042430000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite SACHA INCHI WORLD (250 ml)",
+      "Precio": 49400,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26695322-300-auto/ACEITE-SACHA-INCHI-EXTRA-VIRGE-SACHA-INCHI-WORLD-250-ml-1803542_a.jpg?v=638741843508670000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite SACHA INCHI WORLD extra virgen (250 ml)",
+      "Precio": 56800,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26680370-300-auto/ACEITE-EXTRA-VIRGEN-SACHA-INCHI-WORLD-250-ml-3507145_a.jpg?v=638740093310230000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite SAN MIGUEL (120 ml)",
+      "Precio": 2140,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26695773-300-auto/Aceite-Vegetal-De-Soya-SAN-MIGUEL-120-ml-3430295_a.jpg?v=638741850250130000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite Sacha Inchi 250 Ml",
+      "Precio": 52000,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26256097-300-auto/aceite-sacha-inchi-250-ml.jpg?v=638715355453570000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite Semi Sintético 946 Ml Para Generadores Y Cuatrimotos Truper",
+      "Precio": 27096,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/15043811-300-auto/aceite-semi-sintetico-946-ml-para-generadores-y-cuatrimotos-truper.jpg?v=638011198314370000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite Serena Elevación",
+      "Precio": 45000,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/24448986-300-auto/aceite-serena-elevacion.jpg?v=638609724975000000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite Sinfonía De Eucalipto Serena",
+      "Precio": 25000,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/24180614-300-auto/aceite-sinfonia-de-eucalipto-serena.jpg?v=638597069181270000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite Sinfonía De Lavanda Serena",
+      "Precio": 25000,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/24180613-300-auto/aceite-sinfonia-de-lavanda-serena.jpg?v=638597069172630000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite Sintético Para Motor De 2 Tiempos, 100 Ml Truper",
+      "Precio": 8896,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/15043813-300-auto/aceite-sintetico-para-motor-de-2-tiempos-100-ml-truper.jpg?v=638011198364230000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite Sintético Para Motor De 2 Tiempos, 400 Ml Truper",
+      "Precio": 24299,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/15043810-300-auto/aceite-sintetico-para-motor-de-2-tiempos-400-ml-truper.jpg?v=638011198288800000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite Sintético Para Motor De 2 Tiempos, 60 Ml Truper",
+      "Precio": 8096,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/15043788-300-auto/aceite-sintetico-para-motor-de-2-tiempos-60-ml-truper.jpg?v=638011197799030000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite Suspensión RocksHox 7W 120ML",
+      "Precio": 34100,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/22888874-300-auto/image-13d66f06444f454b9229e23e1395c1e0.jpg?v=638519879524600000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite aguacate AUTOR extra virgen (250 gr)",
+      "Precio": 43850,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/25924059-300-auto/Aceite-Aguacate-AUTOR-250-gr-3478803_a.jpg?v=638708389463600000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite corporal SAKROS (225 ml)",
+      "Precio": 41100,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26958813-300-auto/Aceite-para-masajes-baileys-SAKROS-225-Mililitro-1257726_a.jpg?v=638767306694670000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite corporal VERBENA Hidratante fragancia granada (150 ml)",
+      "Precio": 27750,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26771232-300-auto/Aceite-corporal-granada-VERBENA-150-Mililitro-1322356_a.jpg?v=638749188925830000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite corporal VERBENA Hidratante fragancia verbena (150 ml)",
+      "Precio": 27750,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26771231-300-auto/Aceite-corporal-VERBENA-150-Mililitro-1322354_a.jpg?v=638749188919100000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite de Oliva RAFAEL SALGADO Oliva (1000 ml)",
+      "Precio": 109100,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26674997-300-auto/Aceite-de-Oliva-Extra-Virgen-X-RAFAEL-SALGADO-1000-ml-1861448_a.jpg?v=638740030339170000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite de aguacate TAEQ 100% natural (250 ml)",
+      "Precio": 15150,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26679788-300-auto/Aceite-De-Aguacate-TAEQ-250-ml-3436274_a.jpg?v=638740086187630000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite de aguacate TAEQ en spray (147 ml)",
+      "Precio": 25750,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26673349-300-auto/Aceite-de-Aguacate-Spray-TAEQ-147-ml-3017200_a.jpg?v=638740012962970000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite de canola FRESCAMPO en botella (900 ml)",
+      "Precio": 11940,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26681003-300-auto/Aceite-FRESCAMPO-900-ml-3549021_a.jpg?v=638740100876370000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite de masajes elixir rosas 250 ml",
+      "Precio": 51590,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/24405891-300-auto/image-d973ae3afb584085813bb3ba8e058621.jpg?v=638608807554800000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite de masajes elixir rosas 30 ml",
+      "Precio": 16390,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/24469468-300-auto/image-aac5863ddce6405c99ff97e8447eb1f4.jpg?v=638611494966370000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite de oliva BUCATTI extra virgen (250 ml)",
+      "Precio": 31350,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26664409-300-auto/ACEITE-OLIVA-EXTRAVIRGEN-107528_a.jpg?v=638739885927770000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite de oliva BUCATTI extra virgen (500 ml)",
+      "Precio": 58400,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26664411-300-auto/ACEITE-OLIVA-EXTRAVIRGEN-107575_a.jpg?v=638739885988100000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite de oliva BUCATTI extra virgen (750 ml)",
+      "Precio": 68300,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26664413-300-auto/ACEITE-OLIVA-EXTRAVIRGEN-107713_a.jpg?v=638739886042700000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite de oliva CARBONELL MARCA EXCLUSIVA Extra virgen (2000 ml)",
+      "Precio": 129000,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/27437200-300-auto/Aceite-Oliva-Virgen-Extra-Pet-CARBONELL-MARCA-EXCLUSIVA-2000-ml-3126591_a.jpg?v=638816406182700000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite de oliva CARBONELL MARCA EXCLUSIVA Extra virgen (500 ml)",
+      "Precio": 60800,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26983219-300-auto/Aceite-De-Oliva-Extra-Virgen-500-ml-7770_a.jpg?v=638768921973970000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite de oliva CARBONELL MARCA EXCLUSIVA Extra virgen (750 ml)",
+      "Precio": 62800,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26983221-300-auto/Aceite-De-Oliva-Extravirgen-750-ml-108701_a.jpg?v=638768921986100000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite de oliva CARBONELL MARCA EXCLUSIVA Extra virgen spray (200 ml)",
+      "Precio": 28300,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26981695-300-auto/Aceit-Oliva-PlanchHorn-Spray-CARBONELL-MARCA-EXCLUSIVA-200-ml-3126592_a.jpg?v=638768903216200000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite de oliva CARBONELL MARCA EXCLUSIVA Privilegio extra virgen (750 ml)",
+      "Precio": 74100,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26983285-300-auto/Aceite-Oliva-Virgen-Ext-Privil-CARBONELL-MARCA-EXCLUSIVA-750-ml-3130887_a.jpg?v=638768926923870000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite de oliva DE CECCO Extra virgen clásico (500 ml)",
+      "Precio": 58000,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26875848-300-auto/ACEITE-OLIVA-EXTVIRGEN-CLASIC-1557219_a.jpg?v=638760129261700000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite de oliva EXITO MARCA PROPIA extra virgen (1000 ml)",
+      "Precio": 61800,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26981940-300-auto/Aceite-de-Oliva-EXITO-MARCA-PROPIA-1000-ml-3330634_a.jpg?v=638768905140830000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite de oliva EXITO MARCA PROPIA extra virgen (500 ml)",
+      "Precio": 32900,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26981937-300-auto/Aceite-de-Oliva-Extra-Virgen-EXITO-MARCA-PROPIA-500-ml-3330630_a.jpg?v=638768905108530000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite de oliva FRESCAMPO Virgen (1000 ml)",
+      "Precio": 41750,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26981939-300-auto/Aceite-de-Oliva-FRESCAMPO-1000-ml-3330632_a.jpg?v=638768905129730000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite de oliva FRESCAMPO Virgen (500 ml)",
+      "Precio": 32900,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26981934-300-auto/Aceite-de-Oliva-Extra-Virgen-FRESCAMPO-500-ml-3330627_a.jpg?v=638768905066870000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite de oliva GOURMET extra virgen (250 ml)",
+      "Precio": 31350,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26680872-300-auto/Gourmet-Oliva-GOURMET-250-ml-3537056_a.jpg?v=638740099126800000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite de oliva GOURMET extra virgen (500 ml)",
+      "Precio": 58500,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26660468-300-auto/Aceite-Oliva-Extra-Virgen-1238792_a.jpg?v=638739828735300000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite de oliva GOURMET extra virgen (750 ml)",
+      "Precio": 67500,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26660474-300-auto/Aceite-Oliva-Extra-Virgen-1325178_a.jpg?v=638739828813900000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite de oliva HACIENDA GUZMAN MARCA EXCLUSIV extra virgen (500 ml)",
+      "Precio": 31750,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26980459-300-auto/Aceite-Oliva-Espanol-Extra-Virgen-500-ml-249243_a.jpg?v=638768889389900000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite de oliva HACIENDA GUZMAN MARCA EXCLUSIV extra virgen (750 ml)",
+      "Precio": 55300,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26980461-300-auto/Aceite-Oliva-Espanol-Extra-Virgen-750-ml-63410_a.jpg?v=638768889404870000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite de oliva HACIENDA GUZMAN MARCA EXCLUSIV extra virgen gourmet hojiblanca (500 ml)",
+      "Precio": 70400,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26981409-300-auto/Aceite-Oliva-Virgen-HACIENDA-GUZMAN-MARCA-EXCLUSIV-500-Mililitro-3008873_a.jpg?v=638768901506600000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite de oliva HACIENDA GUZMAN MARCA EXCLUSIV extra virgen gran selección (1000 ml)",
+      "Precio": 47350,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/27436070-300-auto/Aceite-De-Oliva-Extra-Virgen-X-1000-Cm3-504649_a.jpg?v=638816235246030000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite de oliva HACIENDA GUZMAN MARCA EXCLUSIV extra virgen manzanilla (500 ml)",
+      "Precio": 66500,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26981411-300-auto/Aceite-de-Oliva-Virgen-HACIENDA-GUZMAN-MARCA-EXCLUSIV-500-Mililitro-3008874_a.jpg?v=638768901521030000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite de oliva HACIENDA GUZMAN MARCA EXCLUSIV extra virgen orgánico sin gas (200 ml)",
+      "Precio": 27450,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26980807-300-auto/ACEITE-OLEXTRA-VIRGSPRAY-ORG-1492288_a.jpg?v=638768893840730000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite de oliva HACIENDA GUZMAN MARCA EXCLUSIV extra virgen sin gas (200 ml)",
+      "Precio": 26850,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26980805-300-auto/ACEITE-OLIVA-EXTRAVSPRAY-NORM-1492281_a.jpg?v=638768893807330000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite de oliva HACIENDA GUZMAN MARCA EXCLUSIV extra virgen tamaño familiar (2000 ml)",
+      "Precio": 132000,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26980457-300-auto/Aceite-De-Oliva-Extra-Virgen-X-2000-Cm3-771141_a.jpg?v=638768889375230000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite de oliva HACIENDA GUZMAN MARCA EXCLUSIV suave en sabor (500 ml)",
+      "Precio": 46000,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26980463-300-auto/Aceite-Oliva-Suave-En-Sabor-500-ml-939475_a.jpg?v=638768889421870000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite de oliva OLITALIA extra virgen (1000 ml)",
+      "Precio": 118000,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/27257302-300-auto/Aceite-Extra-Virgen-De-Oliva-851033_a.jpg?v=638798914531870000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite de oliva OLITALIA extra virgen (500 ml)",
+      "Precio": 64600,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/27257305-300-auto/Aceite-De-Oliva-Verdenso-OLITALIA-500-ml-1087732_a.jpg?v=638798914573230000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite de oliva OLITALIA extra virgen (500 ml)",
+      "Precio": 67900,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/27257303-300-auto/Aceite-Olitalia-De-Oliva-Extra-131956_a.jpg?v=638798914544530000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite de oliva OLIVETTO extra virgen (1000 ml)",
+      "Precio": 108000,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26680228-300-auto/Aceite-Oliva-Extra-Virgen-Selecto-OLIVETTO-1000-ml-3496789_a.jpg?v=638740091855370000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite de oliva OLIVETTO extra virgen (250 ml)",
+      "Precio": 35850,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26680230-300-auto/Aceite-Oliva-Extra-Virgen-Selecto-Ext-OLIVETTO-250-ml-3496790_a.jpg?v=638740091869130000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite de oliva OLIVETTO extra virgen (500 ml)",
+      "Precio": 59200,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26680226-300-auto/Aceite-Oliva-Extra-Virgen-Selecto-Ext-OLIVETTO-500-ml-3496788_a.jpg?v=638740091840400000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite de oliva OLIVETTO extra virgen suave (1000 ml)",
+      "Precio": 112400,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26660385-300-auto/Aceite-De-Oliva-Extra-Virgen-Suave-X-1000-Cm3-528436_a.jpg?v=638739827629000000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite de oliva OLIVETTO extra virgen suave (250 ml)",
+      "Precio": 28800,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26665677-300-auto/OLIVETTO-SUAVE-EXTRA-VIRGEN-947738_a.jpg?v=638739901586900000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite de oliva OLIVETTO extra virgen suave (500 ml)",
+      "Precio": 59400,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26660368-300-auto/Olivetto-Suave-Extra-Virgen-500-ml-947740_a.jpg?v=638739827410930000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite de oliva PREMIER extra virgen (250 ml)",
+      "Precio": 22560,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/27525380-300-auto/Aceite-De-Oliva-PREMIER-250-ml-3498352_a.jpg?v=638829201150130000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite de oliva PREMIER extra virgen (500 ml)",
+      "Precio": 43280,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/27525374-300-auto/ACEITE-DE-OLIVA-PREMIER-500-Mililitro-790660_a.jpg?v=638829201109570000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite de oliva PREMIER extra virgen (750 ml)",
+      "Precio": 55920,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/27525377-300-auto/Aceite-Oliva-Virgen-Extra-PREMIER-750-ml-3532723_a.jpg?v=638829201133130000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite de oliva Pomona extra virgen con orégano (250 ml)",
+      "Precio": 20350,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26981945-300-auto/Aceite-De-Oliva-Virgen-Extra-Con-Oregano-Pomona-250-ml-3335757_a.jpg?v=638768905202400000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite de oliva SELECTO extra virgen (250 ml)",
+      "Precio": 31700,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26699903-300-auto/Aceite-Oliva-SELECTO-Extra-virgen-500-ml-3655954_a.jpg?v=638742832385130000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite de oliva SELECTO extra virgen (500 ml)",
+      "Precio": 58100,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26704120-300-auto/Aceite-SELECTO-Extra-virgen-250-ml-3655955_a.jpg?v=638743799919800000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite de oliva SUBLIME MARCA EXCLUSIVA 100% puro (140 ml)",
+      "Precio": 14450,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26983214-300-auto/Aceite-De-Oliva-Lata-140-ml-723597_a.jpg?v=638768921940730000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite de oliva SUBLIME MARCA EXCLUSIVA 100% puro (500 ml)",
+      "Precio": 40400,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26983213-300-auto/Aceite-De-Oliva-Lata-500-ml-163424_a.jpg?v=638768921930270000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite de oliva SUBLIME MARCA EXCLUSIVA 100% virgen (250 ml)",
+      "Precio": 20950,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26983209-300-auto/Aceite-Espanol-De-Oliva-X-250-ml-414214_a.jpg?v=638768921917300000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite de oliva SUBLIME MARCA EXCLUSIVA Extra virgen (250 ml)",
+      "Precio": 23700,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/27437197-300-auto/Aceite-Oliva-Virgen-Ext-958443_a.jpg?v=638816406157530000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite de oliva SUBLIME MARCA EXCLUSIVA Extra virgen (500 ml)",
+      "Precio": 44550,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/27512095-300-auto/Aceite-De-Oliva-Extra-Virgen-500-ml-910882_a.jpg?v=638827632558500000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite de oliva SUBLIME MARCA EXCLUSIVA Extra virgen (500 ml)",
+      "Precio": 40250,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26983199-300-auto/Aceite-De-Oliva-Frasco-500-ml-78533_a.jpg?v=638768921876800000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite de oliva TAEQ en spray (200 ml)",
+      "Precio": 29350,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26673353-300-auto/Aceite-de-Oliva-Spray-TAEQ-200-ml-3017199_a.jpg?v=638740012991970000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite de soya FRESCAMPO botella familiar (2700 ml)",
+      "Precio": 25140,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26680369-300-auto/Aceite-De-Soya-FRESCAMPO-2700-ml-3506936_a.jpg?v=638740093296870000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite de soya FRESCAMPO en botella (700 ml)",
+      "Precio": 6980,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26680368-300-auto/Aceite-De-Soya-FRESCAMPO-700-ml-3506935_a.jpg?v=638740093274700000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    },
+    {
+      "Nombre": "Aceite de uva TAEQ en spray (147 ml)",
+      "Precio": 17400,
+      "Imagen": "https://exitocol.vtexassets.com/arquivos/ids/26673351-300-auto/Aceite-de-Uva-Spray-TAEQ-147-ml-3017201_a.jpg?v=638740012977300000",
+      "tienda": "Exito",
+      "tipoProducto": "aceite"
+    }
+  ]
+}

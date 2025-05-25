@@ -1,0 +1,955 @@
+{ "aceiteCarulla": [
+  {
+    "Nombre": "Aceite CANOLA LIFE Canola (3000 ml)",
+    "Precio": 50400,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19589986-300-auto/Aceite-CANOLA-LIFE-3000-ml-1767191_a.jpg?v=638739989025470000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite CANOLA LIFE canola (1000 ml)",
+    "Precio": 27450,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19582844-300-auto/ACEITE-CANOLA-215766_a.jpg?v=638739886188600000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite CANOLA LIFE canola (500 ml)",
+    "Precio": 17700,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19578795-300-auto/Aceite-Canola-846640_a.jpg?v=638739827343400000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite CANOLA LIFE con omega 3 (1800 ml)",
+    "Precio": 52000,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19983046-300-auto/Aceite-CANOLA-LIFE-Canola-1800-ml-3674128_a.jpg?v=638780836334830000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite CARBONELL MARCA EXCLUSIVA (1000 ml)",
+    "Precio": 29400,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19598273-300-auto/Carbonell-Sol-Oliva-CARBONELL-MARCA-EXCLUSIVA-1000-ml-3499019_a.jpg?v=638740092374270000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite CARBONELL MARCA EXCLUSIVA (500 ml)",
+    "Precio": 20900,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19598274-300-auto/Aceite-Sol-Oliva-CARBONELL-MARCA-EXCLUSIVA-500-ml-3499020_a.jpg?v=638740092385030000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite CARULLA (250 ml)",
+    "Precio": 24600,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19883726-300-auto/Aceite-de-Oliva-Virgen-CARULLA-250-ml-3330633_a.jpg?v=638768927096530000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite CARULLA Antioxidante (750 ml)",
+    "Precio": 7590,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19597316-300-auto/Aceite-de-Girasol-CARULLA-750-ml-3400655_a.jpg?v=638740079893370000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite COLAVITA Aceite de oliva virgen extra (500 ml)",
+    "Precio": 65500,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19590664-300-auto/Aceite-COLAVITA-Aceite-de-oliva-virgen-extra-500-ml-93873_a.jpg?v=638739999507600000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite COLAVITA Aceite de oliva virgen extra (750 ml)",
+    "Precio": 96500,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19587615-300-auto/Aceite-COLAVITA-Aceite-de-oliva-virgen-extra-750-ml-93857_a.jpg?v=638739953018730000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite COLAVITA Oliva Extra Virgen (250 ml)",
+    "Precio": 37850,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19599428-300-auto/Aceite-COLAVITA-Oliva-Extra-Virgen-250-ml-3582621_a.jpg?v=638740106310530000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite CRISCO MARCA EXCLUSIVA Vegetal en spray (170 ml)",
+    "Precio": 28900,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19578781-300-auto/Aceite-Vegetal-Canola-En-Spray-X-170-Cm3-175976_a.jpg?v=638739827180270000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite Calmante Para Comezón (150Ml)",
+    "Precio": 78498,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/16308596-300-auto/aceite-calmante-para-comezon-150ml.jpg?v=638560797579800000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite Canela 10 Ml",
+    "Precio": 29750,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19001716-300-auto/aceite-canela-10-ml.jpg?v=638711717197130000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite DIANA PREMIUM (900 ml)",
+    "Precio": 15045,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19595790-300-auto/Aceite-Premium-DIANA-900-ml-3297591_a.jpg?v=638740061768400000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite DIANA con vitaminas A y D (2000 ml)",
+    "Precio": 24055,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20127223-300-auto/Aceite-Con-Vitamina-X-2000-Ml-DIANA-2000-ml-1741779_a.jpg?v=638798914610900000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite DIANA con vitaminas A y D (3000 ml)",
+    "Precio": 41500,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20127219-300-auto/Aceite-Diana-Vitaminas-X3000ml-1278720_a.jpg?v=638798914551300000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite DIANA con vitaminas A y D (900 ml)",
+    "Precio": 11135,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20127221-300-auto/Aceite-diana-x-900-ml-1309700_a.jpg?v=638798914579430000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite De Argán 10 Ml",
+    "Precio": 39900,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19001748-300-auto/aceite-de-argan-10-ml.jpg?v=638711717673270000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite De Ducha Atoderm Bioderma Fra 1 Fra 1 U",
+    "Precio": 199400,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20185674-300-auto/aceite-de-ducha-atoderm-bioderma-fra-1-fra-1-u.jpg?v=638806789912370000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite De Masajes Para Estrias Mustela 105Ml",
+    "Precio": 7262640,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/8351351-300-auto/aceite-de-masajes-para-estrias-mustela-105ml.jpg?v=637932357220230000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite De Naranja Y Calendula 1000 + Pulpo",
+    "Precio": 78900,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/16305353-300-auto/aceite-de-naranja-y-calendula-1000-pulpo.jpg?v=638560768266930000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite De Ricino Disanfer Liq Fra 25 Ml",
+    "Precio": 7450,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/16394139-300-auto/aceite-de-ricino-disanfer-liq-fra-25-ml.jpg?v=638562304302030000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite De Ricino Disanfer Liq Topica Fra 30 Ml",
+    "Precio": 5250,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/16307720-300-auto/aceite-de-ricino-disanfer-liq-topica-fra-30-ml.jpg?v=638560782278070000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite De Rosa Mosqueta 10 Ml",
+    "Precio": 36900,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19001694-300-auto/aceite-de-rosa-mosqueta-10-ml.jpg?v=638711716876230000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite De Tea Tree 10 Ml",
+    "Precio": 42800,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19001647-300-auto/aceite-de-tea-tree-10-ml.jpg?v=638711716295900000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite Ducha X 200 Ml Eucerin",
+    "Precio": 96800,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/16446114-300-auto/aceite-ducha-x-200-ml-eucerin.jpg?v=638563978436170000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite EL CORTE INGLÉS MARCA EXCLUSIV ACEITE OL (135 gr)",
+    "Precio": 42500,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19583620-300-auto/BONITO-DEL-NORTE-EN-ACEITE-OL-1600834_a.jpg?v=638739895549030000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite EL JARDIN DE EVA BIFASICO (400 ml)",
+    "Precio": 21972,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19686610-300-auto/Aceite-Bifasico-EL-JARDIN-DE-EVA-400-ml-3316837_a.jpg?v=638749253796800000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite FRIDA Sólido en bloque (250 gr)",
+    "Precio": 5350,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19585915-300-auto/Manteca-Bloque-FRIDA-250-Gramo-13550_a.jpg?v=638739928786130000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite GOURMET canola (900 ml)",
+    "Precio": 26900,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19594404-300-auto/Aceite-Canola-GOURMET-900-ml-3202786_a.jpg?v=638740044997800000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite GOURMET canola con antioxidantes (2600 ml)",
+    "Precio": 83400,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19595278-300-auto/Aceite-Canola-Antioxidante-Nat-GOURMET-2600-ml-3268871_a.jpg?v=638740055278630000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite GOURMET canola line (900 ml)",
+    "Precio": 22000,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19594405-300-auto/Aceite-Canola-Line-GOURMET-900-ml-3202787_a.jpg?v=638740045011270000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite GOURMET line (1800 ml)",
+    "Precio": 65900,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19597035-300-auto/Aceite-Canola-Oliva-Line-Aderezar-Asar-GOURMET-1800-ml-3381262_a.jpg?v=638740076807730000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite GOURMET multiusos (1800 ml)",
+    "Precio": 47900,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19595272-300-auto/Aceite-Vegetal-Multius-Familia-GOURMET-1800-ml-3269031_a.jpg?v=638740055210300000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite GOURMET multiusos (2600 ml)",
+    "Precio": 44770,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19595269-300-auto/Aceite-Vegetal-Fami-Multiusos-GOURMET-2600-ml-3268924_a.jpg?v=638740055170970000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite GOURMET multiusos (3600 ml)",
+    "Precio": 78200,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19595426-300-auto/Aceites-Vegetales-Familia-GOURMET-3600-ml-3277379_a.jpg?v=638740056783830000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite GOURMET multiusos (420 ml)",
+    "Precio": 11100,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19594418-300-auto/Aceite-Familia-Multiusos-GOURMET-420-ml-3206938_a.jpg?v=638740045292000000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite GOURMET multiusos (900 ml)",
+    "Precio": 21600,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19594406-300-auto/Aceite-Familia-Multiusos-GOURMET-900-ml-3202788_a.jpg?v=638740045030830000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite GOURMET multiusos en spray (160 ml)",
+    "Precio": 24900,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19584128-300-auto/Aceite-control-x-160-ml-1438417_a.jpg?v=638739901816770000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite Johnsons Baby Emu Topica Original Fra 50 Ml",
+    "Precio": 7100,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/16419399-300-auto/aceite-johnsons-baby-emu-topica-original-fra-50-ml.jpg?v=638562535183530000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite LA LORENZA (118 ml)",
+    "Precio": 72100,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19861899-300-auto/Aceite-Para-Masaje-LA-LORENZA-118-ml-3530802_a.jpg?v=638767340418670000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite MAZORCA DE ORO (1000 ml)",
+    "Precio": 13350,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19578840-300-auto/Aceite-X-1000-ml-723477_a.jpg?v=638739827973930000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite MAZORCA DE ORO (3000 ml)",
+    "Precio": 39800,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19578841-300-auto/Aceite-X-3000-ml-723480_a.jpg?v=638739827986030000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite MONTICELLO DE OLIVA (100 gr)",
+    "Precio": 15800,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19620188-300-auto/Aceite-MONTICELLO-DE-OLIVA-100-gr-3581409_a.jpg?v=638741854549700000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite MONTICELLO De Oliva Extra Virgen (250 ml)",
+    "Precio": 37500,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18581247-300-auto/ACEITE-DE-OLIVA-VIRGEN-EXTRA-1563826_a.jpg?v=638675724316700000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite MONTICELLO de aguacate (250 gr)",
+    "Precio": 43600,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19620096-300-auto/Aceite-de-Aguacate-MONTICELLO-250-gr-3317645_a.jpg?v=638741849600430000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite MONTICELLO extra virgen (1000 gr)",
+    "Precio": 116800,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19596068-300-auto/Aceite-de-Oliva-Extra-Virgen-MONTICELLO-1000-gr-3317641_a.jpg?v=638740065229170000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite Mineral Disanfer Fra 1 Fra 500 Ml",
+    "Precio": 22300,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/16392893-300-auto/aceite-mineral-disanfer-fra-1-fra-500-ml.jpg?v=638562302048630000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite Multiusos De 30 Ml, Limpia Y Protege Contra Oxidación Truper",
+    "Precio": 8000,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/9443586-300-auto/aceite-multiusos-de-30-ml-limpia-y-protege-contra-oxidacion-truper.jpg?v=638011247087000000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite Multiusos De 90 Ml, Limpia Y Protege Contra Oxidación Truper",
+    "Precio": 16712,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/9443608-300-auto/aceite-multiusos-de-90-ml-limpia-y-protege-contra-oxidacion-truper.jpg?v=638011247473870000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite OLEO HASS BODY CARE Aguacate (250 ml)",
+    "Precio": 46300,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19589462-300-auto/Aceite-aguacate-extra-virgen-x-250-ml-1722637_a.jpg?v=638739981180270000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite OLEO HASS BODY CARE Aguacate Chile (250 ml)",
+    "Precio": 46300,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18847746-300-auto/Aceite-Aguacate-Chile-OLEO-HASS-BODY-CARE-250-ml-3271098_a.jpg?v=638708388348470000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite OLEO HASS BODY CARE De Aguacate (250 ml)",
+    "Precio": 46300,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19589464-300-auto/Aceite-aguacate-vig-albahaca-x-250-ml-1722638_a.jpg?v=638739981193800000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite OLEO HASS BODY CARE De Aguacate Y Ajo (250 ml)",
+    "Precio": 46300,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19589465-300-auto/Aceite-aguacate-ajo-x-250-ml-1722640_a.jpg?v=638739981205000000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite OLEOCALI vegetal (250 ml)",
+    "Precio": 3700,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19585766-300-auto/Aceite-Vegetal-OLEOCALI-250-ml-131077_a.jpg?v=638739926404400000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite OLEOCALI vegetal (3000 ml)",
+    "Precio": 36700,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19578764-300-auto/Aceite-Oleocali-3000-ml-6015_a.jpg?v=638739826896600000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite OLEOCALI vegetal (5000 ml)",
+    "Precio": 60600,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19569474-300-auto/Aceite-OLEOCALI-Vegetal-5000-ml-501603_a.jpg?v=638739637336300000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite OLEOCALI vegetal (900 ml)",
+    "Precio": 11100,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19599329-300-auto/Mezcla-OLEOCALI-ACEITES-VEGETALES-COMESTIBLES-900-ml-3578916_a.jpg?v=638740105114230000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite OLITALIA Oliva (500 ml)",
+    "Precio": 42900,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19583955-300-auto/Aceite-Oliva-500Ml-Or-OLITALIA-500-cm3-35859_a.jpg?v=638739899459530000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite OLIVETTO para freír con canola y oliva (1000 ml)",
+    "Precio": 46700,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19578888-300-auto/Aceite-Con-Oliva-Para-Freir-X-1000-Cm3-1101812_a.jpg?v=638739828620030000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite OLIVETTO para freír con canola y oliva (2000 ml)",
+    "Precio": 83200,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19590095-300-auto/Aceite-Con-Oliva-Para-Freir-OLIVETTO-2000-ml-1779784_a.jpg?v=638739991323870000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite PAM Canola Spray (170 ml)",
+    "Precio": 35700,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19883092-300-auto/Aceite-De-Canola-En-Spray-170-gr-464951_a.jpg?v=638768921859400000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite PAM De Olivia Spray (141 ml)",
+    "Precio": 37200,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19883091-300-auto/Aceite-De-Oliva-En-Spray-141-gr-464930_a.jpg?v=638768921848830000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite PONS (250 ml)",
+    "Precio": 81400,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18581350-300-auto/Aceite-oliva-virgen-extra-ajo-x-250-ml-1326550_a.jpg?v=638675727254130000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite PONS (250 ml)",
+    "Precio": 93700,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18581552-300-auto/Aceite-oliva-virgen-extra-truf-x-250-ml-1405951_a.jpg?v=638675731892400000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite PONS EXTRA VIRGEN (500 ml)",
+    "Precio": 78500,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19595349-300-auto/Aceite-Extra-Virgen-PONS-500-ml-3272754_a.jpg?v=638740055938400000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite PONS Olivia Extra Virgen (250 ml)",
+    "Precio": 85500,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18581352-300-auto/Aceite-oliva-virgen-extra-alba-x-250-ml-1326551_a.jpg?v=638675727271400000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite PONS Olivia Extra Virgen (500 ml)",
+    "Precio": 81900,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19585173-300-auto/Aceite-oliva-virgen-ext-tradic-x-500-ml-1326547_a.jpg?v=638739917324470000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite RAFAEL SALGADO De Olivia (500 ml)",
+    "Precio": 64700,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19883298-300-auto/ACEITE-DE-OLIVA-RAFAEL-SALGADO-21928_a.jpg?v=638768924066870000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite RAFAEL SALGADO Oliva Extra Virgen (250 ml)",
+    "Precio": 31700,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19883106-300-auto/Aceite-Oliva-Extra-Virgen-969927_a.jpg?v=638768921991930000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite RIQUISIMO vegetal mantequilla (1900 ml)",
+    "Precio": 21000,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19597016-300-auto/Mezcla-Aceites-Vegetales-RIQUISIMO-1900-ml-3380162_a.jpg?v=638740076624100000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite RIQUISIMO vegetal mantequilla (3000 ml)",
+    "Precio": 34600,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19578774-300-auto/Aceite-De-Grasa-Trans-Garrafa-X-3000-ml-21946_a.jpg?v=638739827050300000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite RIQUISIMO vegetal mantequilla (500 ml)",
+    "Precio": 6700,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19585305-300-auto/Aceite-Frasco-RIQUISIMO-500-ml-629959_a.jpg?v=638739919015270000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite RIQUISIMO vegetal mantequilla (900 ml)",
+    "Precio": 10400,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19596615-300-auto/Aceite-Vegetal-Mantequilla-RIQUISIMO-900-ml-3352185_a.jpg?v=638740071324870000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite RIQUISIMO vegetal sabor y olor a mantequilla (5000 ml)",
+    "Precio": 59400,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19569476-300-auto/Aceite-RIQUISIMO-Botella-familiar-5000-ml-501518_a.jpg?v=638739637415000000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite Romero 10 Ml",
+    "Precio": 36900,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19001655-300-auto/aceite-romero-10-ml.jpg?v=638711716410470000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite SACHA INCHI WORLD (250 ml)",
+    "Precio": 49400,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19619733-300-auto/ACEITE-SACHA-INCHI-EXTRA-VIRGE-SACHA-INCHI-WORLD-250-ml-1803542_a.jpg?v=638741843503170000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite SACHA INCHI WORLD extra virgen (250 ml)",
+    "Precio": 58600,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19598362-300-auto/ACEITE-EXTRA-VIRGEN-SACHA-INCHI-WORLD-250-ml-3507145_a.jpg?v=638740093303130000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite corporal HILLS GARDEN (100 ml)",
+    "Precio": 61300,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19858160-300-auto/Aceite-corporal-carbon-de-bamb-HILLS-GARDEN-100-Mililitro-1413588_a.jpg?v=638767299922300000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite corporal HILLS GARDEN (100 ml)",
+    "Precio": 61300,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19858161-300-auto/Aceite-corporal-de-neem-HILLS-GARDEN-100-Mililitro-1413589_a.jpg?v=638767299928800000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite corporal TERRAGUA (5 ml)",
+    "Precio": 52300,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19858103-300-auto/Aceite-esencial-blend-surtido-TERRAGUA-5-Mililitro-1420146_a.jpg?v=638767299622400000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite de Oliva RAFAEL SALGADO Oliva (1000 ml)",
+    "Precio": 122100,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19593247-300-auto/Aceite-de-Oliva-Extra-Virgen-X-RAFAEL-SALGADO-1000-ml-1861448_a.jpg?v=638740030318900000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite de aguacate TAEQ 100% natural (250 ml)",
+    "Precio": 15150,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19597791-300-auto/Aceite-De-Aguacate-TAEQ-250-ml-3436274_a.jpg?v=638740086182470000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite de aguacate TAEQ en spray (147 ml)",
+    "Precio": 25800,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19591682-300-auto/Aceite-de-Aguacate-Spray-TAEQ-147-ml-3017200_a.jpg?v=638740012954900000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite de canola FRESCAMPO en botella (900 ml)",
+    "Precio": 11940,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19598987-300-auto/Aceite-FRESCAMPO-900-ml-3549021_a.jpg?v=638740100869800000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite de oliva BUCATTI extra virgen (250 ml)",
+    "Precio": 31700,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19582825-300-auto/ACEITE-OLIVA-EXTRAVIRGEN-107528_a.jpg?v=638739885909770000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite de oliva BUCATTI extra virgen (500 ml)",
+    "Precio": 63700,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19582827-300-auto/ACEITE-OLIVA-EXTRAVIRGEN-107575_a.jpg?v=638739885934970000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite de oliva BUCATTI extra virgen (750 ml)",
+    "Precio": 82300,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19582829-300-auto/ACEITE-OLIVA-EXTRAVIRGEN-107713_a.jpg?v=638739886010170000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite de oliva CARBONELL MARCA EXCLUSIVA Extra virgen (2000 ml)",
+    "Precio": 129000,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20293405-300-auto/Aceite-Oliva-Virgen-Extra-Pet-CARBONELL-MARCA-EXCLUSIVA-2000-ml-3126591_a.jpg?v=638816406177900000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite de oliva CARBONELL MARCA EXCLUSIVA Extra virgen (500 ml)",
+    "Precio": 53500,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19883103-300-auto/Aceite-De-Oliva-Extra-Virgen-500-ml-7770_a.jpg?v=638768921966230000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite de oliva CARBONELL MARCA EXCLUSIVA Extra virgen (750 ml)",
+    "Precio": 66000,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19883105-300-auto/Aceite-De-Oliva-Extravirgen-750-ml-108701_a.jpg?v=638768921981200000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite de oliva CARULLA extra virgen (1000 ml)",
+    "Precio": 61800,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19882537-300-auto/Aceite-de-Oliva-Extra-Virgen-CARULLA-1000-ml-3330628_a.jpg?v=638768905078800000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite de oliva CARULLA extra virgen (500 ml)",
+    "Precio": 32900,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19882540-300-auto/Aceite-de-Oliva-Virgen-CARULLA-500-ml-3330631_a.jpg?v=638768905114630000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite de oliva CARULLA extra virgen (750 ml)",
+    "Precio": 48800,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19882533-300-auto/Aceite-de-Oliva-Virgen-CARULLA-750-ml-3330624_a.jpg?v=638768905029570000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite de oliva DE CECCO Extra virgen clásico (500 ml)",
+    "Precio": 58000,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19781468-300-auto/ACEITE-OLIVA-EXTVIRGEN-CLASIC-1557219_a.jpg?v=638760129256100000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite de oliva FRESCAMPO Virgen (1000 ml)",
+    "Precio": 45100,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19882541-300-auto/Aceite-de-Oliva-FRESCAMPO-1000-ml-3330632_a.jpg?v=638768905124970000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite de oliva FRESCAMPO Virgen (500 ml)",
+    "Precio": 32900,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19882536-300-auto/Aceite-de-Oliva-Extra-Virgen-FRESCAMPO-500-ml-3330627_a.jpg?v=638768905061170000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite de oliva FRESCAMPO extra virgen (250 ml)",
+    "Precio": 20600,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19882538-300-auto/Aceite-de-Oliva-Virgen-FRESCAMPO-250-ml-3330629_a.jpg?v=638768905089570000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite de oliva GOURMET extra virgen (250 ml)",
+    "Precio": 31700,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19598859-300-auto/Gourmet-Oliva-GOURMET-250-ml-3537056_a.jpg?v=638740099120800000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite de oliva GOURMET extra virgen (500 ml)",
+    "Precio": 59100,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19578898-300-auto/Aceite-Oliva-Extra-Virgen-1238792_a.jpg?v=638739828727370000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite de oliva GOURMET extra virgen (750 ml)",
+    "Precio": 83200,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19578903-300-auto/Aceite-Oliva-Extra-Virgen-1325178_a.jpg?v=638739828785230000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite de oliva HACIENDA GUZMAN MARCA EXCLUSIV extra virgen (500 ml)",
+    "Precio": 35700,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19881067-300-auto/Aceite-Oliva-Espanol-Extra-Virgen-500-ml-249243_a.jpg?v=638768889382400000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite de oliva HACIENDA GUZMAN MARCA EXCLUSIV extra virgen (5000 ml)",
+    "Precio": 375000,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19882312-300-auto/Aceite-De-Oliva-Virgen-Extra-HACIENDA-GUZMAN-MARCA-EXCLUSIV-5-lt-3138939_a.jpg?v=638768903272000000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite de oliva HACIENDA GUZMAN MARCA EXCLUSIV extra virgen (750 ml)",
+    "Precio": 60900,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19881069-300-auto/Aceite-Oliva-Espanol-Extra-Virgen-750-ml-63410_a.jpg?v=638768889397200000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite de oliva HACIENDA GUZMAN MARCA EXCLUSIV extra virgen gourmet hojiblanca (500 ml)",
+    "Precio": 76100,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19882017-300-auto/Aceite-Oliva-Virgen-HACIENDA-GUZMAN-MARCA-EXCLUSIV-500-Mililitro-3008873_a.jpg?v=638768901500000000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite de oliva HACIENDA GUZMAN MARCA EXCLUSIV extra virgen gran selección (1000 ml)",
+    "Precio": 66800,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20292249-300-auto/Aceite-De-Oliva-Extra-Virgen-X-1000-Cm3-504649_a.jpg?v=638816235239070000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite de oliva HACIENDA GUZMAN MARCA EXCLUSIV extra virgen manzanilla (500 ml)",
+    "Precio": 69800,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19882019-300-auto/Aceite-de-Oliva-Virgen-HACIENDA-GUZMAN-MARCA-EXCLUSIV-500-Mililitro-3008874_a.jpg?v=638768901514070000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite de oliva HACIENDA GUZMAN MARCA EXCLUSIV extra virgen orgánico sin gas (200 ml)",
+    "Precio": 29700,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19881449-300-auto/ACEITE-OLEXTRA-VIRGSPRAY-ORG-1492288_a.jpg?v=638768893823670000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite de oliva HACIENDA GUZMAN MARCA EXCLUSIV extra virgen sin gas (200 ml)",
+    "Precio": 26900,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19881447-300-auto/ACEITE-OLIVA-EXTRAVSPRAY-NORM-1492281_a.jpg?v=638768893791630000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite de oliva HACIENDA GUZMAN MARCA EXCLUSIV extra virgen tamaño familiar (2000 ml)",
+    "Precio": 132000,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19881065-300-auto/Aceite-De-Oliva-Extra-Virgen-X-2000-Cm3-771141_a.jpg?v=638768889368030000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite de oliva HACIENDA GUZMAN MARCA EXCLUSIV suave en sabor (500 ml)",
+    "Precio": 51200,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19881071-300-auto/Aceite-Oliva-Suave-En-Sabor-500-ml-939475_a.jpg?v=638768889412130000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite de oliva OLITALIA extra virgen (1000 ml)",
+    "Precio": 119700,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20127217-300-auto/Aceite-Extra-Virgen-De-Oliva-851033_a.jpg?v=638798914525300000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite de oliva OLITALIA extra virgen (500 ml)",
+    "Precio": 71300,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20127218-300-auto/Aceite-Olitalia-De-Oliva-Extra-131956_a.jpg?v=638798914537330000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite de oliva OLITALIA extra virgen (500 ml)",
+    "Precio": 65500,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20127220-300-auto/Aceite-De-Oliva-Verdenso-OLITALIA-500-ml-1087732_a.jpg?v=638798914566600000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite de oliva OLIVETTO extra virgen (500 ml)",
+    "Precio": 68000,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19598226-300-auto/Aceite-Oliva-Extra-Virgen-Selecto-Ext-OLIVETTO-500-ml-3496788_a.jpg?v=638740091833070000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite de oliva OLIVETTO extra virgen suave (1000 ml)",
+    "Precio": 114700,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19578817-300-auto/Aceite-De-Oliva-Extra-Virgen-Suave-X-1000-Cm3-528436_a.jpg?v=638739827619730000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite de oliva OLIVETTO extra virgen suave (250 ml)",
+    "Precio": 33900,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19584112-300-auto/OLIVETTO-SUAVE-EXTRA-VIRGEN-947738_a.jpg?v=638739901577700000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite de oliva OLIVETTO extra virgen suave (500 ml)",
+    "Precio": 60000,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19578800-300-auto/Olivetto-Suave-Extra-Virgen-500-ml-947740_a.jpg?v=638739827405100000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite de oliva PREMIER extra virgen (250 ml)",
+    "Precio": 22800,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20364787-300-auto/Aceite-De-Oliva-PREMIER-250-ml-3498352_a.jpg?v=638829201141570000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite de oliva PREMIER extra virgen (500 ml)",
+    "Precio": 45520,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20364781-300-auto/ACEITE-DE-OLIVA-PREMIER-500-Mililitro-790660_a.jpg?v=638829201090100000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite de oliva PREMIER extra virgen (750 ml)",
+    "Precio": 57680,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20364784-300-auto/Aceite-Oliva-Virgen-Extra-PREMIER-750-ml-3532723_a.jpg?v=638829201118170000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite de oliva Pomona extra virgen con orégano (250 ml)",
+    "Precio": 21400,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19882547-300-auto/Aceite-De-Oliva-Virgen-Extra-Con-Oregano-Pomona-250-ml-3335757_a.jpg?v=638768905197570000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite de oliva SELECTO extra virgen (250 ml)",
+    "Precio": 34600,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19624448-300-auto/Aceite-Oliva-SELECTO-Extra-virgen-500-ml-3655954_a.jpg?v=638742832379700000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite de oliva SELECTO extra virgen (500 ml)",
+    "Precio": 58900,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19628926-300-auto/Aceite-SELECTO-Extra-virgen-250-ml-3655955_a.jpg?v=638743799913100000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite de oliva SUBLIME MARCA EXCLUSIVA 100% puro (140 ml)",
+    "Precio": 15200,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19883100-300-auto/Aceite-De-Oliva-Lata-140-ml-723597_a.jpg?v=638768921935730000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite de oliva SUBLIME MARCA EXCLUSIVA 100% puro (500 ml)",
+    "Precio": 49100,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19883099-300-auto/Aceite-De-Oliva-Lata-500-ml-163424_a.jpg?v=638768921924670000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite de oliva SUBLIME MARCA EXCLUSIVA 100% virgen (250 ml)",
+    "Precio": 23500,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19883097-300-auto/Aceite-Espanol-De-Oliva-X-250-ml-414214_a.jpg?v=638768921909300000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite de oliva SUBLIME MARCA EXCLUSIVA Extra virgen (250 ml)",
+    "Precio": 26600,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20293402-300-auto/Aceite-Oliva-Virgen-Ext-958443_a.jpg?v=638816406137830000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite de oliva SUBLIME MARCA EXCLUSIVA Extra virgen (500 ml)",
+    "Precio": 49900,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20354143-300-auto/Aceite-De-Oliva-Extra-Virgen-500-ml-910882_a.jpg?v=638827632550100000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite de oliva SUBLIME MARCA EXCLUSIVA Extra virgen (500 ml)",
+    "Precio": 53100,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19883093-300-auto/Aceite-De-Oliva-Frasco-500-ml-78533_a.jpg?v=638768921871000000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite de oliva TAEQ en spray (200 ml)",
+    "Precio": 29400,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19591686-300-auto/Aceite-de-Oliva-Spray-TAEQ-200-ml-3017199_a.jpg?v=638740012985000000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite de soya FRESCAMPO botella familiar (2700 ml)",
+    "Precio": 25140,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19598361-300-auto/Aceite-De-Soya-FRESCAMPO-2700-ml-3506936_a.jpg?v=638740093291130000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite de soya FRESCAMPO en botella (700 ml)",
+    "Precio": 6980,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19598360-300-auto/Aceite-De-Soya-FRESCAMPO-700-ml-3506935_a.jpg?v=638740093240370000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "Aceite de uva TAEQ en spray (147 ml)",
+    "Precio": 17400,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19591684-300-auto/Aceite-de-Uva-Spray-TAEQ-147-ml-3017201_a.jpg?v=638740012969500000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  },
+  {
+    "Nombre": "aceite OZU SECO (250 ml)",
+    "Precio": 80000,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19685530-300-auto/Aceite-Seco-OZU-250-ml-3111060_a.jpg?v=638749243508930000",
+    "tienda": "Carulla",
+    "tipoProducto": "aceite"
+  }
+]
+}

@@ -1,0 +1,423 @@
+{ "frijolCarulla":[
+  {
+    "Nombre": "FRIJOL ANTIOQUENO ZENU 310 gr",
+    "Precio": 10000,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19993162-300-auto/Frijol-Antioqueno-1341922_a.jpg?v=638785369379000000",
+    "tienda": "Carulla",
+    "tipoProducto": "frijol"
+  },
+  {
+    "Nombre": "FRIJOL ANTIOQUENO ZENU 580 gr",
+    "Precio": 16200,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19993924-300-auto/Frijol-Antioqueno-1341923_a.jpg?v=638785927496230000",
+    "tienda": "Carulla",
+    "tipoProducto": "frijol"
+  },
+  {
+    "Nombre": "FRIJOL DESGRANADO 250 gr",
+    "Precio": 5840,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19902570-300-auto/Frijol-Desgranado-Bandeja-X-250gr-616111_a.jpg?v=638772057751100000",
+    "tienda": "Carulla",
+    "tipoProducto": "frijol"
+  },
+  {
+    "Nombre": "FRIJOLES REFRITOS CON CHILES OLD EL PASO MARCA EXCLUSIVA 453 gr",
+    "Precio": 25600,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20046797-300-auto/Frijoles-Refritos-Con-Chiles-725522_a.jpg?v=638791366431070000",
+    "tienda": "Carulla",
+    "tipoProducto": "frijol"
+  },
+  {
+    "Nombre": "FRIJOLES REFRITOS OLD EL PASO MARCA EXCLUSIVA 453 gr",
+    "Precio": 15800,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20046801-300-auto/Frijoles-Refritos-726935_a.jpg?v=638791366458330000",
+    "tienda": "Carulla",
+    "tipoProducto": "frijol"
+  },
+  {
+    "Nombre": "Frijol ABURRA (1000 gr)",
+    "Precio": 13600,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18707517-300-auto/FRIJOL-CARGAMANTO-ROJO-808290_a.jpg?v=638696144732600000",
+    "tienda": "Carulla",
+    "tipoProducto": "frijol"
+  },
+  {
+    "Nombre": "Frijol ABURRA (1000 gr)",
+    "Precio": 16600,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18707640-300-auto/FRIJOL-CARGAMANTO-BLANCO-ABURR-ABURRA-1000-gr-611837_a.jpg?v=638696146649530000",
+    "tienda": "Carulla",
+    "tipoProducto": "frijol"
+  },
+  {
+    "Nombre": "Frijol ABURRA (460 gr)",
+    "Precio": 3400,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18574895-300-auto/Frijol-Caraota-Negro-ABURRA-460-gr-3533420_a.jpg?v=638675318753300000",
+    "tienda": "Carulla",
+    "tipoProducto": "frijol"
+  },
+  {
+    "Nombre": "Frijol ABURRA (500 gr)",
+    "Precio": 8000,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18574893-300-auto/Frijol-Bola-Roja-ABURRA-500-gr-3533418_a.jpg?v=638675318644930000",
+    "tienda": "Carulla",
+    "tipoProducto": "frijol"
+  },
+  {
+    "Nombre": "Frijol ABURRA (500 gr)",
+    "Precio": 5000,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19583796-300-auto/FRIJOL-BLANQUILLO-474770_a.jpg?v=638739897523100000",
+    "tienda": "Carulla",
+    "tipoProducto": "frijol"
+  },
+  {
+    "Nombre": "Frijol ABURRA (500 gr)",
+    "Precio": 7200,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18574897-300-auto/Frijol-Cargamanto-Importado-ABURRA-500-gr-3533422_a.jpg?v=638675318805400000",
+    "tienda": "Carulla",
+    "tipoProducto": "frijol"
+  },
+  {
+    "Nombre": "Frijol ABURRA (500 gr)",
+    "Precio": 6400,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18574898-300-auto/Frijol-Cargamanto-Rojo-ABURRA-500-gr-3533423_a.jpg?v=638675318817370000",
+    "tienda": "Carulla",
+    "tipoProducto": "frijol"
+  },
+  {
+    "Nombre": "Frijol ABURRA (500 gr)",
+    "Precio": 8500,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18574896-300-auto/Frijol-Cargamanto-Blanco-ABURRA-500-gr-3533421_a.jpg?v=638675318765230000",
+    "tienda": "Carulla",
+    "tipoProducto": "frijol"
+  },
+  {
+    "Nombre": "Frijol ABURRA (500 gr)",
+    "Precio": 5000,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18574899-300-auto/Frijol-Zaragoza-ABURRA-500-gr-3533424_a.jpg?v=638675318828300000",
+    "tienda": "Carulla",
+    "tipoProducto": "frijol"
+  },
+  {
+    "Nombre": "Frijol ABURRA (500 gr)",
+    "Precio": 5400,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18574894-300-auto/Frijol-Cabecita-Negra-ABURRA-500-gr-3533419_a.jpg?v=638675318718570000",
+    "tienda": "Carulla",
+    "tipoProducto": "frijol"
+  },
+  {
+    "Nombre": "Frijol DIANA Cargamento (500 gr)",
+    "Precio": 8320,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18558586-300-auto/FRIJOL-CARGAMANTO-DIANA-500-gr-1744336_a.jpg?v=638672933126200000",
+    "tienda": "Carulla",
+    "tipoProducto": "frijol"
+  },
+  {
+    "Nombre": "Frijol DIANA Frijol Bola Roja (3000 gr)",
+    "Precio": 46100,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18563679-300-auto/Frijol-DIANA-Frijol-Bola-Roja-3000-gr-3597950_a.jpg?v=638673007989870000",
+    "tienda": "Carulla",
+    "tipoProducto": "frijol"
+  },
+  {
+    "Nombre": "Frijol DIANA Zaragoza (500 gr)",
+    "Precio": 7800,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18558587-300-auto/FRIJOL-ZARAGOZA-DIANA-500-gr-1744351_a.jpg?v=638672933144000000",
+    "tienda": "Carulla",
+    "tipoProducto": "frijol"
+  },
+  {
+    "Nombre": "Frijol DIANA calima cuidadosamente seleccionados (1000 gr)",
+    "Precio": 17500,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20063514-300-auto/Frijol-Diana-Cargamanto-Rojo-DIANA-1000-gr-3533993_a.jpg?v=638794015774570000",
+    "tienda": "Carulla",
+    "tipoProducto": "frijol"
+  },
+  {
+    "Nombre": "Frijol DIANA calima cuidadosamente seleccionados (500 gr)",
+    "Precio": 7300,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20064195-300-auto/Frijol-Calima-Lima-DIANA-500-gr-1744343_a.jpg?v=638796304552030000",
+    "tienda": "Carulla",
+    "tipoProducto": "frijol"
+  },
+  {
+    "Nombre": "Frijol DIANA radical cuidadosamente seleccionado (1000 gr)",
+    "Precio": 16600,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20063513-300-auto/FRIJOL-DIANA-BOLA-ROJA-1000-GR-1861676_a.jpg?v=638794015763900000",
+    "tienda": "Carulla",
+    "tipoProducto": "frijol"
+  },
+  {
+    "Nombre": "Frijol DIANA radical cuidadosamente seleccionado (500 gr)",
+    "Precio": 8900,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20064194-300-auto/Frijol-DIANA-500-gr-1408941_a.jpg?v=638796304541400000",
+    "tienda": "Carulla",
+    "tipoProducto": "frijol"
+  },
+  {
+    "Nombre": "Frijol EKONO granos seleccionados (454 gr)",
+    "Precio": 5990,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19271323-300-auto/Frijol-Cargamanto-Blanco-EKONO-454-gr-3054276_a.jpg?v=638726613162270000",
+    "tienda": "Carulla",
+    "tipoProducto": "frijol"
+  },
+  {
+    "Nombre": "Frijol EKONO granos seleccionados (454 gr)",
+    "Precio": 5300,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19271324-300-auto/Frijol-Sabanero-Rojo-EKONO-454-gr-3054283_a.jpg?v=638726613255370000",
+    "tienda": "Carulla",
+    "tipoProducto": "frijol"
+  },
+  {
+    "Nombre": "Frijol En Vaina A Granel.",
+    "Precio": 11800,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20161240-300-auto/Frijol-En-Vaina-A-Granel-X-100gr-1045_a.jpg?v=638804050407230000",
+    "tienda": "Carulla",
+    "tipoProducto": "frijol"
+  },
+  {
+    "Nombre": "Frijol FRESCAMPO cabeza negra (1000 gr)",
+    "Precio": 7000,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18629068-300-auto/Frijol-Cabeza-Negra-1350263_a.jpg?v=638687685218930000",
+    "tienda": "Carulla",
+    "tipoProducto": "frijol"
+  },
+  {
+    "Nombre": "Frijol FRESCAMPO del campo granos seleccionados (1000 gr)",
+    "Precio": 8900,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18629049-300-auto/Frijol-Nima-1121603_a.jpg?v=638687684822700000",
+    "tienda": "Carulla",
+    "tipoProducto": "frijol"
+  },
+  {
+    "Nombre": "Frijol FRESCAMPO del campo granos seleccionados (1000 gr)",
+    "Precio": 7400,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18629055-300-auto/Frijol-Blanquillo-1121611_a.jpg?v=638687684970330000",
+    "tienda": "Carulla",
+    "tipoProducto": "frijol"
+  },
+  {
+    "Nombre": "Frijol FRESCAMPO del campo granos seleccionados (1000 gr)",
+    "Precio": 10900,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18629047-300-auto/Frijol-Sabanero-Rojo-1121602_a.jpg?v=638687684801500000",
+    "tienda": "Carulla",
+    "tipoProducto": "frijol"
+  },
+  {
+    "Nombre": "Frijol FRESCAMPO del campo granos seleccionados (1000 gr)",
+    "Precio": 11300,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18629044-300-auto/Frijol-Bola-Roja-X-1000-gr-1121599_a.jpg?v=638687684680800000",
+    "tienda": "Carulla",
+    "tipoProducto": "frijol"
+  },
+  {
+    "Nombre": "Frijol FRESCAMPO del campo granos seleccionados (500 gr)",
+    "Precio": 4900,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18629029-300-auto/Frijol-Sabanero-Rojo-1121544_a.jpg?v=638687684355670000",
+    "tienda": "Carulla",
+    "tipoProducto": "frijol"
+  },
+  {
+    "Nombre": "Frijol FRESCAMPO del campo granos seleccionados (500 gr)",
+    "Precio": 4000,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18629040-300-auto/Frijol-Blanquillo-1121594_a.jpg?v=638687684617930000",
+    "tienda": "Carulla",
+    "tipoProducto": "frijol"
+  },
+  {
+    "Nombre": "Frijol FRESCAMPO del campo granos seleccionados (500 gr)",
+    "Precio": 4100,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18629042-300-auto/Frijol-Cabeza-Negra-1121596_a.jpg?v=638687684641970000",
+    "tienda": "Carulla",
+    "tipoProducto": "frijol"
+  },
+  {
+    "Nombre": "Frijol FRESCAMPO granos seleccionados (1000 gr)",
+    "Precio": 10900,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18629045-300-auto/Frijol-Cargamanto-Rosado-1121600_a.jpg?v=638687684707000000",
+    "tienda": "Carulla",
+    "tipoProducto": "frijol"
+  },
+  {
+    "Nombre": "Frijol FRESCAMPO granos seleccionados (1000 gr)",
+    "Precio": 15000,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18629046-300-auto/Frijol-Cargamanto-Blanco-1121601_a.jpg?v=638687684776070000",
+    "tienda": "Carulla",
+    "tipoProducto": "frijol"
+  },
+  {
+    "Nombre": "Frijol FRESCAMPO granos seleccionados (1000 gr)",
+    "Precio": 9900,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18629050-300-auto/Frijol-Zaragoza-1121605_a.jpg?v=638687684845330000",
+    "tienda": "Carulla",
+    "tipoProducto": "frijol"
+  },
+  {
+    "Nombre": "Frijol FRESCAMPO granos seleccionados (1000 gr)",
+    "Precio": 6550,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18629057-300-auto/Frijol-Caraota-1121613_a.jpg?v=638687685022500000",
+    "tienda": "Carulla",
+    "tipoProducto": "frijol"
+  },
+  {
+    "Nombre": "Frijol FRESCAMPO granos seleccionados (500 gr)",
+    "Precio": 6500,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18629026-300-auto/Frijol-Bola-Roja-1121541_a.jpg?v=638687684321500000",
+    "tienda": "Carulla",
+    "tipoProducto": "frijol"
+  },
+  {
+    "Nombre": "Frijol FRESCAMPO granos seleccionados (500 gr)",
+    "Precio": 4990,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18629031-300-auto/Frijol-Nima-1121545_a.jpg?v=638687684377170000",
+    "tienda": "Carulla",
+    "tipoProducto": "frijol"
+  },
+  {
+    "Nombre": "Frijol FRESCAMPO granos seleccionados (500 gr)",
+    "Precio": 3270,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18629043-300-auto/Frijol-Caraota-X-500-gr-1121597_a.jpg?v=638687684662230000",
+    "tienda": "Carulla",
+    "tipoProducto": "frijol"
+  },
+  {
+    "Nombre": "Frijol FRESCAMPO granos seleccionados (500 gr)",
+    "Precio": 8000,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18629028-300-auto/Frijol-Cargamanto-Blanco-1121543_a.jpg?v=638687684340830000",
+    "tienda": "Carulla",
+    "tipoProducto": "frijol"
+  },
+  {
+    "Nombre": "Frijol FRESCAMPO granos seleccionados (500 gr)",
+    "Precio": 5900,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18629024-300-auto/Frijol-Cargamanto-Rosado-1121542_a.jpg?v=638687684291870000",
+    "tienda": "Carulla",
+    "tipoProducto": "frijol"
+  },
+  {
+    "Nombre": "Frijol FRESCAMPO granos seleccionados (500 gr)",
+    "Precio": 4580,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19577797-300-auto/Frijol-Zaragoza-1121546_a.jpg?v=638739815387270000",
+    "tienda": "Carulla",
+    "tipoProducto": "frijol"
+  },
+  {
+    "Nombre": "Frijol LA FLORESTA* (500 gr)",
+    "Precio": 6990,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18581517-300-auto/Frijol-Cargamant-LA-FLORESTA-500-gr-270591_a.jpg?v=638675730867270000",
+    "tienda": "Carulla",
+    "tipoProducto": "frijol"
+  },
+  {
+    "Nombre": "Frijol LA FLORESTA* (500 gr)",
+    "Precio": 9010,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18581521-300-auto/Frijol-Bolon-Roj-LA-FLORESTA-500-gr-337979_a.jpg?v=638675730933500000",
+    "tienda": "Carulla",
+    "tipoProducto": "frijol"
+  },
+  {
+    "Nombre": "Frijol LA FLORESTA* (500 gr)",
+    "Precio": 5400,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18581522-300-auto/Frijol-Calima-LA-FLORESTA-500-gr-337995_a.jpg?v=638675730978170000",
+    "tienda": "Carulla",
+    "tipoProducto": "frijol"
+  },
+  {
+    "Nombre": "Frijol LA FLORESTA* (500 gr)",
+    "Precio": 4850,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18581501-300-auto/Frijol-Blanquillo-LA-FLORESTA-500-gr-921166_a.jpg?v=638675730532270000",
+    "tienda": "Carulla",
+    "tipoProducto": "frijol"
+  },
+  {
+    "Nombre": "Frijol LA FLORESTA* (500 gr)",
+    "Precio": 4200,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/18581509-300-auto/Frijol-Carota-LA-FLORESTA-500-gr-26304_a.jpg?v=638675730670800000",
+    "tienda": "Carulla",
+    "tipoProducto": "frijol"
+  },
+  {
+    "Nombre": "Frijol Negro Enlatado TO EAT MARCA EXCLUSIVA 400 gr",
+    "Precio": 7300,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19594972-300-auto/Frijol-Negro-Enlatado-TO-EAT-MARCA-EXCLUSIVA-400-gr-3238360_a.jpg?v=638740051589630000",
+    "tienda": "Carulla",
+    "tipoProducto": "frijol"
+  },
+  {
+    "Nombre": "Frijol Refrito Azteca x 300g AZTECA 300 gr",
+    "Precio": 11500,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19588864-300-auto/FRIJOL-REFRITO-AZTECA-300-gr-1617612_a.jpg?v=638739971064430000",
+    "tienda": "Carulla",
+    "tipoProducto": "frijol"
+  },
+  {
+    "Nombre": "Frijol Rojo Enlatado TO EAT MARCA EXCLUSIVA 400 gr",
+    "Precio": 7300,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19594974-300-auto/Frijol-Rojo-Enlatado-TO-EAT-MARCA-EXCLUSIVA-400-gr-3238362_a.jpg?v=638740051612530000",
+    "tienda": "Carulla",
+    "tipoProducto": "frijol"
+  },
+  {
+    "Nombre": "Frijoles Antioqueños ABURRA 300 gr",
+    "Precio": 8200,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19599542-300-auto/Frijoles-Antioquenos-ABURRA-300-gr-3593538_a.jpg?v=638740108030200000",
+    "tienda": "Carulla",
+    "tipoProducto": "frijol"
+  },
+  {
+    "Nombre": "Frijoles Antioqueños ABURRA 580 gr",
+    "Precio": 10950,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19599545-300-auto/Frijoles-Antioquenos-ABURRA-580-gr-3593539_a.jpg?v=638740108047100000",
+    "tienda": "Carulla",
+    "tipoProducto": "frijol"
+  },
+  {
+    "Nombre": "Frijoles Antioqueños SAN JORGE 580 gr",
+    "Precio": 15900,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19787896-300-auto/Frijoles-Antioquenos-SAN-JORGE-580-gr-3113476_a.jpg?v=638762805828100000",
+    "tienda": "Carulla",
+    "tipoProducto": "frijol"
+  },
+  {
+    "Nombre": "Frijoles Chile Con Carne FRESCAMPO 300 gr",
+    "Precio": 9900,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19597317-300-auto/Frijoles-Chile-Con-Carne-FRESCAMPO-300-gr-3401546_a.jpg?v=638740079903870000",
+    "tienda": "Carulla",
+    "tipoProducto": "frijol"
+  },
+  {
+    "Nombre": "Frijoles Con Tocino FRESCAMPO 300 gr",
+    "Precio": 7450,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19788177-300-auto/Frijoles-Con-Tocino-FRESCAMPO-Frijol-Con-Tocino-300-gr-3665326_a.jpg?v=638762809186530000",
+    "tienda": "Carulla",
+    "tipoProducto": "frijol"
+  },
+  {
+    "Nombre": "Frijoles Negros AZTECA 300 gr",
+    "Precio": 8900,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19598467-300-auto/Frijoles-Negros-AZTECA-300-gr-3514395_a.jpg?v=638740094572830000",
+    "tienda": "Carulla",
+    "tipoProducto": "frijol"
+  },
+  {
+    "Nombre": "Frijoles Refritos Bayos LA SIERRA 430 gr",
+    "Precio": 17900,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19586150-300-auto/Frijoles-Bayos-Refritos-x-430-g-1543224_a.jpg?v=638739932408470000",
+    "tienda": "Carulla",
+    "tipoProducto": "frijol"
+  },
+  {
+    "Nombre": "Frijoles Refritos Negros LA SIERRA 430 gr",
+    "Precio": 18250,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/20047255-300-auto/Frijoles-Negros-Refritos-x-430-g-1543225_a.jpg?v=638791432454770000",
+    "tienda": "Carulla",
+    "tipoProducto": "frijol"
+  },
+  {
+    "Nombre": "Frijoles Tocino SAN JORGE 300 gr",
+    "Precio": 7850,
+    "Imagen": "https://carulla.vtexassets.com/arquivos/ids/19787893-300-auto/Frijoles-Tocino-SAN-JORGE-300-gr-3113474_a.jpg?v=638762805808500000",
+    "tienda": "Carulla",
+    "tipoProducto": "frijol"
+  }
+]
+}
